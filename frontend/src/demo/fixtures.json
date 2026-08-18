@@ -3522,132 +3522,24 @@
   }
  ],
  "GET /problems/patterns": [
-  {
-   "pattern": "Arrays & Hashing",
-   "total": 22,
-   "solved": 13,
-   "needs_review": 4,
-   "attempted": 5
-  },
-  {
-   "pattern": "Two Pointers",
-   "total": 13,
-   "solved": 8,
-   "needs_review": 3,
-   "attempted": 2
-  },
-  {
-   "pattern": "Sliding Window",
-   "total": 9,
-   "solved": 6,
-   "needs_review": 1,
-   "attempted": 2
-  },
-  {
-   "pattern": "Stack",
-   "total": 14,
-   "solved": 8,
-   "needs_review": 0,
-   "attempted": 4
-  },
-  {
-   "pattern": "Binary Search",
-   "total": 14,
-   "solved": 6,
-   "needs_review": 0,
-   "attempted": 1
-  },
-  {
-   "pattern": "Linked List",
-   "total": 14,
-   "solved": 0,
-   "needs_review": 0,
-   "attempted": 0
-  },
-  {
-   "pattern": "Trees",
-   "total": 23,
-   "solved": 0,
-   "needs_review": 0,
-   "attempted": 0
-  },
-  {
-   "pattern": "Heap / Priority Queue",
-   "total": 12,
-   "solved": 0,
-   "needs_review": 0,
-   "attempted": 0
-  },
-  {
-   "pattern": "Backtracking",
-   "total": 17,
-   "solved": 0,
-   "needs_review": 0,
-   "attempted": 0
-  },
-  {
-   "pattern": "Tries",
-   "total": 4,
-   "solved": 0,
-   "needs_review": 0,
-   "attempted": 0
-  },
-  {
-   "pattern": "Graphs",
-   "total": 21,
-   "solved": 0,
-   "needs_review": 0,
-   "attempted": 0
-  },
-  {
-   "pattern": "Advanced Graphs",
-   "total": 10,
-   "solved": 0,
-   "needs_review": 0,
-   "attempted": 0
-  },
-  {
-   "pattern": "1-D Dynamic Programming",
-   "total": 17,
-   "solved": 0,
-   "needs_review": 0,
-   "attempted": 0
-  },
-  {
-   "pattern": "2-D Dynamic Programming",
-   "total": 16,
-   "solved": 0,
-   "needs_review": 0,
-   "attempted": 0
-  },
-  {
-   "pattern": "Greedy",
-   "total": 14,
-   "solved": 0,
-   "needs_review": 0,
-   "attempted": 0
-  },
-  {
-   "pattern": "Intervals",
-   "total": 7,
-   "solved": 0,
-   "needs_review": 0,
-   "attempted": 0
-  },
-  {
-   "pattern": "Math & Geometry",
-   "total": 13,
-   "solved": 0,
-   "needs_review": 0,
-   "attempted": 0
-  },
-  {
-   "pattern": "Bit Manipulation",
-   "total": 10,
-   "solved": 0,
-   "needs_review": 0,
-   "attempted": 0
-  }
+  "1-D Dynamic Programming",
+  "2-D Dynamic Programming",
+  "Advanced Graphs",
+  "Arrays & Hashing",
+  "Backtracking",
+  "Binary Search",
+  "Bit Manipulation",
+  "Graphs",
+  "Greedy",
+  "Heap / Priority Queue",
+  "Intervals",
+  "Linked List",
+  "Math & Geometry",
+  "Sliding Window",
+  "Stack",
+  "Trees",
+  "Tries",
+  "Two Pointers"
  ],
  "GET /schedule/today": {
   "date": "2026-08-18",

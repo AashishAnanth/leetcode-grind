@@ -1,0 +1,6 @@
+# Only the frontend is deployed. The backend is a local FastAPI process with a
+# SQLite database and a scheduler — it cannot run on static hosting, and shipping
+# it to the builder just slows the upload.
+backend/
+docs/
+setup.md

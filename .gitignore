@@ -1,0 +1,32 @@
+# ── secrets ───────────────────────────────────────────────────────────────────
+.env
+.env.*
+!.env.example
+
+# ── your data ─────────────────────────────────────────────────────────────────
+# The DB holds your solve history, written code, and coaching transcripts.
+backend/data/*.db
+backend/data/*.db-*
+backend/data/*.db.*
+backend/data/*.sqlite*
+# (backend/data/neetcode250.json IS committed — it's the public problem list)
+
+# ── planning / personal notes ─────────────────────────────────────────────────
+# setup.md is the private design doc. README.md is the public one.
+setup.md
+notes/
+scratch/
+
+# ── build + env ───────────────────────────────────────────────────────────────
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+node_modules/
+dist/
+.vite/
+.vercel/
+
+# ── editor / OS ───────────────────────────────────────────────────────────────
+.DS_Store
+.claude/settings.local.json

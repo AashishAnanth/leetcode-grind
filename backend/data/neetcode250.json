@@ -1,0 +1,3024 @@
+{
+  "problems": [
+    {
+      "neetcode_order": 1,
+      "title": "Concatenation of Array",
+      "slug": "concatenation-of-array",
+      "difficulty": "easy",
+      "pattern": "Arrays & Hashing",
+      "leetcode_number": 1929,
+      "concepts": [
+        "array"
+      ]
+    },
+    {
+      "neetcode_order": 2,
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "difficulty": "easy",
+      "pattern": "Arrays & Hashing",
+      "leetcode_number": 217,
+      "concepts": [
+        "hash set"
+      ]
+    },
+    {
+      "neetcode_order": 3,
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "difficulty": "easy",
+      "pattern": "Arrays & Hashing",
+      "leetcode_number": 242,
+      "concepts": [
+        "hash map",
+        "sorting"
+      ]
+    },
+    {
+      "neetcode_order": 4,
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "easy",
+      "pattern": "Arrays & Hashing",
+      "leetcode_number": 1,
+      "concepts": [
+        "hash map"
+      ]
+    },
+    {
+      "neetcode_order": 5,
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "difficulty": "easy",
+      "pattern": "Arrays & Hashing",
+      "leetcode_number": 14,
+      "concepts": [
+        "string",
+        "sorting"
+      ]
+    },
+    {
+      "neetcode_order": 6,
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "difficulty": "medium",
+      "pattern": "Arrays & Hashing",
+      "leetcode_number": 49,
+      "concepts": [
+        "hash map",
+        "sorting"
+      ]
+    },
+    {
+      "neetcode_order": 7,
+      "title": "Remove Element",
+      "slug": "remove-element",
+      "difficulty": "easy",
+      "pattern": "Arrays & Hashing",
+      "leetcode_number": 27,
+      "concepts": [
+        "array",
+        "two pointers"
+      ]
+    },
+    {
+      "neetcode_order": 8,
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "difficulty": "easy",
+      "pattern": "Arrays & Hashing",
+      "leetcode_number": 169,
+      "concepts": [
+        "hash map",
+        "Boyer-Moore voting"
+      ]
+    },
+    {
+      "neetcode_order": 9,
+      "title": "Design HashSet",
+      "slug": "design-hashset",
+      "difficulty": "easy",
+      "pattern": "Arrays & Hashing",
+      "leetcode_number": 705,
+      "concepts": [
+        "hash set",
+        "linked list",
+        "design"
+      ]
+    },
+    {
+      "neetcode_order": 10,
+      "title": "Design HashMap",
+      "slug": "design-hashmap",
+      "difficulty": "easy",
+      "pattern": "Arrays & Hashing",
+      "leetcode_number": 706,
+      "concepts": [
+        "hash map",
+        "linked list",
+        "design"
+      ]
+    },
+    {
+      "neetcode_order": 11,
+      "title": "Sort an Array",
+      "slug": "sort-an-array",
+      "difficulty": "medium",
+      "pattern": "Arrays & Hashing",
+      "leetcode_number": 912,
+      "concepts": [
+        "merge sort",
+        "quick sort",
+        "heap sort"
+      ]
+    },
+    {
+      "neetcode_order": 12,
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "difficulty": "medium",
+      "pattern": "Arrays & Hashing",
+      "leetcode_number": 75,
+      "concepts": [
+        "two pointers",
+        "Dutch national flag"
+      ]
+    },
+    {
+      "neetcode_order": 13,
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "difficulty": "medium",
+      "pattern": "Arrays & Hashing",
+      "leetcode_number": 347,
+      "concepts": [
+        "hash map",
+        "bucket sort",
+        "heap"
+      ]
+    },
+    {
+      "neetcode_order": 14,
+      "title": "Encode and Decode Strings",
+      "slug": "encode-and-decode-strings",
+      "difficulty": "medium",
+      "pattern": "Arrays & Hashing",
+      "leetcode_number": 271,
+      "concepts": [
+        "string",
+        "encoding"
+      ]
+    },
+    {
+      "neetcode_order": 15,
+      "title": "Range Sum Query 2D - Immutable",
+      "slug": "range-sum-query-2d-immutable",
+      "difficulty": "medium",
+      "pattern": "Arrays & Hashing",
+      "leetcode_number": 304,
+      "concepts": [
+        "prefix sum",
+        "2D array"
+      ]
+    },
+    {
+      "neetcode_order": 16,
+      "title": "Product of Array Except Self",
+      "slug": "product-of-array-except-self",
+      "difficulty": "medium",
+      "pattern": "Arrays & Hashing",
+      "leetcode_number": 238,
+      "concepts": [
+        "prefix sum",
+        "array"
+      ]
+    },
+    {
+      "neetcode_order": 17,
+      "title": "Valid Sudoku",
+      "slug": "valid-sudoku",
+      "difficulty": "medium",
+      "pattern": "Arrays & Hashing",
+      "leetcode_number": 36,
+      "concepts": [
+        "hash set",
+        "matrix"
+      ]
+    },
+    {
+      "neetcode_order": 18,
+      "title": "Longest Consecutive Sequence",
+      "slug": "longest-consecutive-sequence",
+      "difficulty": "medium",
+      "pattern": "Arrays & Hashing",
+      "leetcode_number": 128,
+      "concepts": [
+        "hash set"
+      ]
+    },
+    {
+      "neetcode_order": 19,
+      "title": "Best Time to Buy and Sell Stock II",
+      "slug": "best-time-to-buy-and-sell-stock-ii",
+      "difficulty": "medium",
+      "pattern": "Arrays & Hashing",
+      "leetcode_number": 122,
+      "concepts": [
+        "greedy",
+        "array"
+      ]
+    },
+    {
+      "neetcode_order": 20,
+      "title": "Majority Element II",
+      "slug": "majority-element-ii",
+      "difficulty": "medium",
+      "pattern": "Arrays & Hashing",
+      "leetcode_number": 229,
+      "concepts": [
+        "Boyer-Moore voting",
+        "hash map"
+      ]
+    },
+    {
+      "neetcode_order": 21,
+      "title": "Subarray Sum Equals K",
+      "slug": "subarray-sum-equals-k",
+      "difficulty": "medium",
+      "pattern": "Arrays & Hashing",
+      "leetcode_number": 560,
+      "concepts": [
+        "prefix sum",
+        "hash map"
+      ]
+    },
+    {
+      "neetcode_order": 22,
+      "title": "First Missing Positive",
+      "slug": "first-missing-positive",
+      "difficulty": "hard",
+      "pattern": "Arrays & Hashing",
+      "leetcode_number": 41,
+      "concepts": [
+        "array",
+        "index as hash"
+      ]
+    },
+    {
+      "neetcode_order": 23,
+      "title": "Reverse String",
+      "slug": "reverse-string",
+      "difficulty": "easy",
+      "pattern": "Two Pointers",
+      "leetcode_number": 344,
+      "concepts": [
+        "two pointers",
+        "string"
+      ]
+    },
+    {
+      "neetcode_order": 24,
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "difficulty": "easy",
+      "pattern": "Two Pointers",
+      "leetcode_number": 125,
+      "concepts": [
+        "two pointers",
+        "string"
+      ]
+    },
+    {
+      "neetcode_order": 25,
+      "title": "Valid Palindrome II",
+      "slug": "valid-palindrome-ii",
+      "difficulty": "easy",
+      "pattern": "Two Pointers",
+      "leetcode_number": 680,
+      "concepts": [
+        "two pointers",
+        "greedy"
+      ]
+    },
+    {
+      "neetcode_order": 26,
+      "title": "Merge Strings Alternately",
+      "slug": "merge-strings-alternately",
+      "difficulty": "easy",
+      "pattern": "Two Pointers",
+      "leetcode_number": 1768,
+      "concepts": [
+        "two pointers",
+        "string"
+      ]
+    },
+    {
+      "neetcode_order": 27,
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "difficulty": "easy",
+      "pattern": "Two Pointers",
+      "leetcode_number": 88,
+      "concepts": [
+        "two pointers",
+        "sorting"
+      ]
+    },
+    {
+      "neetcode_order": 28,
+      "title": "Remove Duplicates from Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "difficulty": "easy",
+      "pattern": "Two Pointers",
+      "leetcode_number": 26,
+      "concepts": [
+        "two pointers"
+      ]
+    },
+    {
+      "neetcode_order": 29,
+      "title": "Two Sum II - Input Array Is Sorted",
+      "slug": "two-sum-ii-input-array-is-sorted",
+      "difficulty": "medium",
+      "pattern": "Two Pointers",
+      "leetcode_number": 167,
+      "concepts": [
+        "two pointers",
+        "binary search"
+      ]
+    },
+    {
+      "neetcode_order": 30,
+      "title": "3Sum",
+      "slug": "3sum",
+      "difficulty": "medium",
+      "pattern": "Two Pointers",
+      "leetcode_number": 15,
+      "concepts": [
+        "two pointers",
+        "sorting"
+      ]
+    },
+    {
+      "neetcode_order": 31,
+      "title": "4Sum",
+      "slug": "4sum",
+      "difficulty": "medium",
+      "pattern": "Two Pointers",
+      "leetcode_number": 18,
+      "concepts": [
+        "two pointers",
+        "sorting"
+      ]
+    },
+    {
+      "neetcode_order": 32,
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "difficulty": "medium",
+      "pattern": "Two Pointers",
+      "leetcode_number": 189,
+      "concepts": [
+        "array",
+        "reversal"
+      ]
+    },
+    {
+      "neetcode_order": 33,
+      "title": "Container With Most Water",
+      "slug": "container-with-most-water",
+      "difficulty": "medium",
+      "pattern": "Two Pointers",
+      "leetcode_number": 11,
+      "concepts": [
+        "two pointers",
+        "greedy"
+      ]
+    },
+    {
+      "neetcode_order": 34,
+      "title": "Boats to Save People",
+      "slug": "boats-to-save-people",
+      "difficulty": "medium",
+      "pattern": "Two Pointers",
+      "leetcode_number": 881,
+      "concepts": [
+        "two pointers",
+        "greedy",
+        "sorting"
+      ]
+    },
+    {
+      "neetcode_order": 35,
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "difficulty": "hard",
+      "pattern": "Two Pointers",
+      "leetcode_number": 42,
+      "concepts": [
+        "two pointers",
+        "stack",
+        "prefix sum"
+      ]
+    },
+    {
+      "neetcode_order": 36,
+      "title": "Contains Duplicate II",
+      "slug": "contains-duplicate-ii",
+      "difficulty": "easy",
+      "pattern": "Sliding Window",
+      "leetcode_number": 219,
+      "concepts": [
+        "sliding window",
+        "hash set"
+      ]
+    },
+    {
+      "neetcode_order": 37,
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "easy",
+      "pattern": "Sliding Window",
+      "leetcode_number": 121,
+      "concepts": [
+        "sliding window",
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 38,
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "difficulty": "medium",
+      "pattern": "Sliding Window",
+      "leetcode_number": 3,
+      "concepts": [
+        "sliding window",
+        "hash set"
+      ]
+    },
+    {
+      "neetcode_order": 39,
+      "title": "Longest Repeating Character Replacement",
+      "slug": "longest-repeating-character-replacement",
+      "difficulty": "medium",
+      "pattern": "Sliding Window",
+      "leetcode_number": 424,
+      "concepts": [
+        "sliding window",
+        "hash map"
+      ]
+    },
+    {
+      "neetcode_order": 40,
+      "title": "Permutation in String",
+      "slug": "permutation-in-string",
+      "difficulty": "medium",
+      "pattern": "Sliding Window",
+      "leetcode_number": 567,
+      "concepts": [
+        "sliding window",
+        "hash map"
+      ]
+    },
+    {
+      "neetcode_order": 41,
+      "title": "Minimum Size Subarray Sum",
+      "slug": "minimum-size-subarray-sum",
+      "difficulty": "medium",
+      "pattern": "Sliding Window",
+      "leetcode_number": 209,
+      "concepts": [
+        "sliding window",
+        "prefix sum"
+      ]
+    },
+    {
+      "neetcode_order": 42,
+      "title": "Find K Closest Elements",
+      "slug": "find-k-closest-elements",
+      "difficulty": "medium",
+      "pattern": "Sliding Window",
+      "leetcode_number": 658,
+      "concepts": [
+        "sliding window",
+        "binary search"
+      ]
+    },
+    {
+      "neetcode_order": 43,
+      "title": "Minimum Window Substring",
+      "slug": "minimum-window-substring",
+      "difficulty": "hard",
+      "pattern": "Sliding Window",
+      "leetcode_number": 76,
+      "concepts": [
+        "sliding window",
+        "hash map"
+      ]
+    },
+    {
+      "neetcode_order": 44,
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "difficulty": "hard",
+      "pattern": "Sliding Window",
+      "leetcode_number": 239,
+      "concepts": [
+        "sliding window",
+        "monotonic deque"
+      ]
+    },
+    {
+      "neetcode_order": 45,
+      "title": "Baseball Game",
+      "slug": "baseball-game",
+      "difficulty": "easy",
+      "pattern": "Stack",
+      "leetcode_number": 682,
+      "concepts": [
+        "stack",
+        "simulation"
+      ]
+    },
+    {
+      "neetcode_order": 46,
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "easy",
+      "pattern": "Stack",
+      "leetcode_number": 20,
+      "concepts": [
+        "stack"
+      ]
+    },
+    {
+      "neetcode_order": 47,
+      "title": "Implement Stack Using Queues",
+      "slug": "implement-stack-using-queues",
+      "difficulty": "easy",
+      "pattern": "Stack",
+      "leetcode_number": 225,
+      "concepts": [
+        "stack",
+        "queue",
+        "design"
+      ]
+    },
+    {
+      "neetcode_order": 48,
+      "title": "Implement Queue using Stacks",
+      "slug": "implement-queue-using-stacks",
+      "difficulty": "easy",
+      "pattern": "Stack",
+      "leetcode_number": 232,
+      "concepts": [
+        "queue",
+        "stack",
+        "design"
+      ]
+    },
+    {
+      "neetcode_order": 49,
+      "title": "Min Stack",
+      "slug": "min-stack",
+      "difficulty": "medium",
+      "pattern": "Stack",
+      "leetcode_number": 155,
+      "concepts": [
+        "stack",
+        "design"
+      ]
+    },
+    {
+      "neetcode_order": 50,
+      "title": "Evaluate Reverse Polish Notation",
+      "slug": "evaluate-reverse-polish-notation",
+      "difficulty": "medium",
+      "pattern": "Stack",
+      "leetcode_number": 150,
+      "concepts": [
+        "stack"
+      ]
+    },
+    {
+      "neetcode_order": 51,
+      "title": "Asteroid Collision",
+      "slug": "asteroid-collision",
+      "difficulty": "medium",
+      "pattern": "Stack",
+      "leetcode_number": 735,
+      "concepts": [
+        "stack",
+        "simulation"
+      ]
+    },
+    {
+      "neetcode_order": 52,
+      "title": "Daily Temperatures",
+      "slug": "daily-temperatures",
+      "difficulty": "medium",
+      "pattern": "Stack",
+      "leetcode_number": 739,
+      "concepts": [
+        "monotonic stack"
+      ]
+    },
+    {
+      "neetcode_order": 53,
+      "title": "Online Stock Span",
+      "slug": "online-stock-span",
+      "difficulty": "medium",
+      "pattern": "Stack",
+      "leetcode_number": 901,
+      "concepts": [
+        "monotonic stack",
+        "design"
+      ]
+    },
+    {
+      "neetcode_order": 54,
+      "title": "Car Fleet",
+      "slug": "car-fleet",
+      "difficulty": "medium",
+      "pattern": "Stack",
+      "leetcode_number": 853,
+      "concepts": [
+        "monotonic stack",
+        "sorting"
+      ]
+    },
+    {
+      "neetcode_order": 55,
+      "title": "Simplify Path",
+      "slug": "simplify-path",
+      "difficulty": "medium",
+      "pattern": "Stack",
+      "leetcode_number": 71,
+      "concepts": [
+        "stack",
+        "string"
+      ]
+    },
+    {
+      "neetcode_order": 56,
+      "title": "Decode String",
+      "slug": "decode-string",
+      "difficulty": "medium",
+      "pattern": "Stack",
+      "leetcode_number": 394,
+      "concepts": [
+        "stack",
+        "string",
+        "recursion"
+      ]
+    },
+    {
+      "neetcode_order": 57,
+      "title": "Maximum Frequency Stack",
+      "slug": "maximum-frequency-stack",
+      "difficulty": "hard",
+      "pattern": "Stack",
+      "leetcode_number": 895,
+      "concepts": [
+        "stack",
+        "hash map",
+        "design"
+      ]
+    },
+    {
+      "neetcode_order": 58,
+      "title": "Largest Rectangle in Histogram",
+      "slug": "largest-rectangle-in-histogram",
+      "difficulty": "hard",
+      "pattern": "Stack",
+      "leetcode_number": 84,
+      "concepts": [
+        "monotonic stack"
+      ]
+    },
+    {
+      "neetcode_order": 59,
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "difficulty": "easy",
+      "pattern": "Binary Search",
+      "leetcode_number": 704,
+      "concepts": [
+        "binary search"
+      ]
+    },
+    {
+      "neetcode_order": 60,
+      "title": "Search Insert Position",
+      "slug": "search-insert-position",
+      "difficulty": "easy",
+      "pattern": "Binary Search",
+      "leetcode_number": 35,
+      "concepts": [
+        "binary search"
+      ]
+    },
+    {
+      "neetcode_order": 61,
+      "title": "Guess Number Higher or Lower",
+      "slug": "guess-number-higher-or-lower",
+      "difficulty": "easy",
+      "pattern": "Binary Search",
+      "leetcode_number": 374,
+      "concepts": [
+        "binary search"
+      ]
+    },
+    {
+      "neetcode_order": 62,
+      "title": "Sqrt(x)",
+      "slug": "sqrtx",
+      "difficulty": "easy",
+      "pattern": "Binary Search",
+      "leetcode_number": 69,
+      "concepts": [
+        "binary search",
+        "math"
+      ]
+    },
+    {
+      "neetcode_order": 63,
+      "title": "Search a 2D Matrix",
+      "slug": "search-a-2d-matrix",
+      "difficulty": "medium",
+      "pattern": "Binary Search",
+      "leetcode_number": 74,
+      "concepts": [
+        "binary search",
+        "matrix"
+      ]
+    },
+    {
+      "neetcode_order": 64,
+      "title": "Koko Eating Bananas",
+      "slug": "koko-eating-bananas",
+      "difficulty": "medium",
+      "pattern": "Binary Search",
+      "leetcode_number": 875,
+      "concepts": [
+        "binary search"
+      ]
+    },
+    {
+      "neetcode_order": 65,
+      "title": "Capacity to Ship Packages Within D Days",
+      "slug": "capacity-to-ship-packages-within-d-days",
+      "difficulty": "medium",
+      "pattern": "Binary Search",
+      "leetcode_number": 1011,
+      "concepts": [
+        "binary search"
+      ]
+    },
+    {
+      "neetcode_order": 66,
+      "title": "Find Minimum in Rotated Sorted Array",
+      "slug": "find-minimum-in-rotated-sorted-array",
+      "difficulty": "medium",
+      "pattern": "Binary Search",
+      "leetcode_number": 153,
+      "concepts": [
+        "binary search"
+      ]
+    },
+    {
+      "neetcode_order": 67,
+      "title": "Search in Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "difficulty": "medium",
+      "pattern": "Binary Search",
+      "leetcode_number": 33,
+      "concepts": [
+        "binary search"
+      ]
+    },
+    {
+      "neetcode_order": 68,
+      "title": "Search in Rotated Sorted Array II",
+      "slug": "search-in-rotated-sorted-array-ii",
+      "difficulty": "medium",
+      "pattern": "Binary Search",
+      "leetcode_number": 81,
+      "concepts": [
+        "binary search"
+      ]
+    },
+    {
+      "neetcode_order": 69,
+      "title": "Time Based Key-Value Store",
+      "slug": "time-based-key-value-store",
+      "difficulty": "medium",
+      "pattern": "Binary Search",
+      "leetcode_number": 981,
+      "concepts": [
+        "binary search",
+        "hash map",
+        "design"
+      ]
+    },
+    {
+      "neetcode_order": 70,
+      "title": "Split Array Largest Sum",
+      "slug": "split-array-largest-sum",
+      "difficulty": "hard",
+      "pattern": "Binary Search",
+      "leetcode_number": 410,
+      "concepts": [
+        "binary search",
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 71,
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "difficulty": "hard",
+      "pattern": "Binary Search",
+      "leetcode_number": 4,
+      "concepts": [
+        "binary search",
+        "divide and conquer"
+      ]
+    },
+    {
+      "neetcode_order": 72,
+      "title": "Find in Mountain Array",
+      "slug": "find-in-mountain-array",
+      "difficulty": "hard",
+      "pattern": "Binary Search",
+      "leetcode_number": 1095,
+      "concepts": [
+        "binary search"
+      ]
+    },
+    {
+      "neetcode_order": 73,
+      "title": "Reverse Linked List",
+      "slug": "reverse-linked-list",
+      "difficulty": "easy",
+      "pattern": "Linked List",
+      "leetcode_number": 206,
+      "concepts": [
+        "linked list"
+      ]
+    },
+    {
+      "neetcode_order": 74,
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "difficulty": "easy",
+      "pattern": "Linked List",
+      "leetcode_number": 21,
+      "concepts": [
+        "linked list"
+      ]
+    },
+    {
+      "neetcode_order": 75,
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "difficulty": "easy",
+      "pattern": "Linked List",
+      "leetcode_number": 141,
+      "concepts": [
+        "linked list",
+        "fast and slow pointers"
+      ]
+    },
+    {
+      "neetcode_order": 76,
+      "title": "Reorder List",
+      "slug": "reorder-list",
+      "difficulty": "medium",
+      "pattern": "Linked List",
+      "leetcode_number": 143,
+      "concepts": [
+        "linked list",
+        "fast and slow pointers"
+      ]
+    },
+    {
+      "neetcode_order": 77,
+      "title": "Remove Nth Node From End of List",
+      "slug": "remove-nth-node-from-end-of-list",
+      "difficulty": "medium",
+      "pattern": "Linked List",
+      "leetcode_number": 19,
+      "concepts": [
+        "linked list",
+        "fast and slow pointers"
+      ]
+    },
+    {
+      "neetcode_order": 78,
+      "title": "Copy List with Random Pointer",
+      "slug": "copy-list-with-random-pointer",
+      "difficulty": "medium",
+      "pattern": "Linked List",
+      "leetcode_number": 138,
+      "concepts": [
+        "linked list",
+        "hash map"
+      ]
+    },
+    {
+      "neetcode_order": 79,
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "difficulty": "medium",
+      "pattern": "Linked List",
+      "leetcode_number": 2,
+      "concepts": [
+        "linked list",
+        "math"
+      ]
+    },
+    {
+      "neetcode_order": 80,
+      "title": "Find the Duplicate Number",
+      "slug": "find-the-duplicate-number",
+      "difficulty": "medium",
+      "pattern": "Linked List",
+      "leetcode_number": 287,
+      "concepts": [
+        "fast and slow pointers",
+        "binary search"
+      ]
+    },
+    {
+      "neetcode_order": 81,
+      "title": "Reverse Linked List II",
+      "slug": "reverse-linked-list-ii",
+      "difficulty": "medium",
+      "pattern": "Linked List",
+      "leetcode_number": 92,
+      "concepts": [
+        "linked list"
+      ]
+    },
+    {
+      "neetcode_order": 82,
+      "title": "Design Circular Queue",
+      "slug": "design-circular-queue",
+      "difficulty": "medium",
+      "pattern": "Linked List",
+      "leetcode_number": 622,
+      "concepts": [
+        "linked list",
+        "array",
+        "design"
+      ]
+    },
+    {
+      "neetcode_order": 83,
+      "title": "LRU Cache",
+      "slug": "lru-cache",
+      "difficulty": "medium",
+      "pattern": "Linked List",
+      "leetcode_number": 146,
+      "concepts": [
+        "doubly linked list",
+        "hash map",
+        "design"
+      ]
+    },
+    {
+      "neetcode_order": 84,
+      "title": "LFU Cache",
+      "slug": "lfu-cache",
+      "difficulty": "hard",
+      "pattern": "Linked List",
+      "leetcode_number": 460,
+      "concepts": [
+        "doubly linked list",
+        "hash map",
+        "design"
+      ]
+    },
+    {
+      "neetcode_order": 85,
+      "title": "Merge K Sorted Lists",
+      "slug": "merge-k-sorted-lists",
+      "difficulty": "hard",
+      "pattern": "Linked List",
+      "leetcode_number": 23,
+      "concepts": [
+        "linked list",
+        "heap",
+        "divide and conquer"
+      ]
+    },
+    {
+      "neetcode_order": 86,
+      "title": "Reverse Nodes in K-Group",
+      "slug": "reverse-nodes-in-k-group",
+      "difficulty": "hard",
+      "pattern": "Linked List",
+      "leetcode_number": 25,
+      "concepts": [
+        "linked list",
+        "recursion"
+      ]
+    },
+    {
+      "neetcode_order": 87,
+      "title": "Binary Tree Inorder Traversal",
+      "slug": "binary-tree-inorder-traversal",
+      "difficulty": "easy",
+      "pattern": "Trees",
+      "leetcode_number": 94,
+      "concepts": [
+        "tree",
+        "DFS",
+        "recursion"
+      ]
+    },
+    {
+      "neetcode_order": 88,
+      "title": "Binary Tree Preorder Traversal",
+      "slug": "binary-tree-preorder-traversal",
+      "difficulty": "easy",
+      "pattern": "Trees",
+      "leetcode_number": 144,
+      "concepts": [
+        "tree",
+        "DFS",
+        "recursion"
+      ]
+    },
+    {
+      "neetcode_order": 89,
+      "title": "Binary Tree Postorder Traversal",
+      "slug": "binary-tree-postorder-traversal",
+      "difficulty": "easy",
+      "pattern": "Trees",
+      "leetcode_number": 145,
+      "concepts": [
+        "tree",
+        "DFS",
+        "recursion"
+      ]
+    },
+    {
+      "neetcode_order": 90,
+      "title": "Invert Binary Tree",
+      "slug": "invert-binary-tree",
+      "difficulty": "easy",
+      "pattern": "Trees",
+      "leetcode_number": 226,
+      "concepts": [
+        "tree",
+        "DFS",
+        "BFS"
+      ]
+    },
+    {
+      "neetcode_order": 91,
+      "title": "Maximum Depth of Binary Tree",
+      "slug": "maximum-depth-of-binary-tree",
+      "difficulty": "easy",
+      "pattern": "Trees",
+      "leetcode_number": 104,
+      "concepts": [
+        "tree",
+        "DFS",
+        "BFS"
+      ]
+    },
+    {
+      "neetcode_order": 92,
+      "title": "Diameter of Binary Tree",
+      "slug": "diameter-of-binary-tree",
+      "difficulty": "easy",
+      "pattern": "Trees",
+      "leetcode_number": 543,
+      "concepts": [
+        "tree",
+        "DFS"
+      ]
+    },
+    {
+      "neetcode_order": 93,
+      "title": "Balanced Binary Tree",
+      "slug": "balanced-binary-tree",
+      "difficulty": "easy",
+      "pattern": "Trees",
+      "leetcode_number": 110,
+      "concepts": [
+        "tree",
+        "DFS"
+      ]
+    },
+    {
+      "neetcode_order": 94,
+      "title": "Same Tree",
+      "slug": "same-tree",
+      "difficulty": "easy",
+      "pattern": "Trees",
+      "leetcode_number": 100,
+      "concepts": [
+        "tree",
+        "DFS"
+      ]
+    },
+    {
+      "neetcode_order": 95,
+      "title": "Subtree of Another Tree",
+      "slug": "subtree-of-another-tree",
+      "difficulty": "easy",
+      "pattern": "Trees",
+      "leetcode_number": 572,
+      "concepts": [
+        "tree",
+        "DFS"
+      ]
+    },
+    {
+      "neetcode_order": 96,
+      "title": "Lowest Common Ancestor of a Binary Search Tree",
+      "slug": "lowest-common-ancestor-of-a-binary-search-tree",
+      "difficulty": "medium",
+      "pattern": "Trees",
+      "leetcode_number": 235,
+      "concepts": [
+        "BST",
+        "DFS"
+      ]
+    },
+    {
+      "neetcode_order": 97,
+      "title": "Insert into a Binary Search Tree",
+      "slug": "insert-into-a-binary-search-tree",
+      "difficulty": "medium",
+      "pattern": "Trees",
+      "leetcode_number": 701,
+      "concepts": [
+        "BST"
+      ]
+    },
+    {
+      "neetcode_order": 98,
+      "title": "Delete Node in a BST",
+      "slug": "delete-node-in-a-bst",
+      "difficulty": "medium",
+      "pattern": "Trees",
+      "leetcode_number": 450,
+      "concepts": [
+        "BST"
+      ]
+    },
+    {
+      "neetcode_order": 99,
+      "title": "Binary Tree Level Order Traversal",
+      "slug": "binary-tree-level-order-traversal",
+      "difficulty": "medium",
+      "pattern": "Trees",
+      "leetcode_number": 102,
+      "concepts": [
+        "tree",
+        "BFS"
+      ]
+    },
+    {
+      "neetcode_order": 100,
+      "title": "Binary Tree Right Side View",
+      "slug": "binary-tree-right-side-view",
+      "difficulty": "medium",
+      "pattern": "Trees",
+      "leetcode_number": 199,
+      "concepts": [
+        "tree",
+        "BFS",
+        "DFS"
+      ]
+    },
+    {
+      "neetcode_order": 101,
+      "title": "Construct Quad Tree",
+      "slug": "construct-quad-tree",
+      "difficulty": "medium",
+      "pattern": "Trees",
+      "leetcode_number": 427,
+      "concepts": [
+        "tree",
+        "recursion",
+        "divide and conquer"
+      ]
+    },
+    {
+      "neetcode_order": 102,
+      "title": "Count Good Nodes in Binary Tree",
+      "slug": "count-good-nodes-in-binary-tree",
+      "difficulty": "medium",
+      "pattern": "Trees",
+      "leetcode_number": 1448,
+      "concepts": [
+        "tree",
+        "DFS"
+      ]
+    },
+    {
+      "neetcode_order": 103,
+      "title": "Validate Binary Search Tree",
+      "slug": "validate-binary-search-tree",
+      "difficulty": "medium",
+      "pattern": "Trees",
+      "leetcode_number": 98,
+      "concepts": [
+        "BST",
+        "DFS"
+      ]
+    },
+    {
+      "neetcode_order": 104,
+      "title": "Kth Smallest Element in a BST",
+      "slug": "kth-smallest-element-in-a-bst",
+      "difficulty": "medium",
+      "pattern": "Trees",
+      "leetcode_number": 230,
+      "concepts": [
+        "BST",
+        "DFS",
+        "inorder traversal"
+      ]
+    },
+    {
+      "neetcode_order": 105,
+      "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+      "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+      "difficulty": "medium",
+      "pattern": "Trees",
+      "leetcode_number": 105,
+      "concepts": [
+        "tree",
+        "DFS",
+        "hash map"
+      ]
+    },
+    {
+      "neetcode_order": 106,
+      "title": "House Robber III",
+      "slug": "house-robber-iii",
+      "difficulty": "medium",
+      "pattern": "Trees",
+      "leetcode_number": 337,
+      "concepts": [
+        "tree",
+        "DFS",
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 107,
+      "title": "Delete Leaves With a Given Value",
+      "slug": "delete-leaves-with-a-given-value",
+      "difficulty": "medium",
+      "pattern": "Trees",
+      "leetcode_number": 1325,
+      "concepts": [
+        "tree",
+        "DFS"
+      ]
+    },
+    {
+      "neetcode_order": 108,
+      "title": "Binary Tree Maximum Path Sum",
+      "slug": "binary-tree-maximum-path-sum",
+      "difficulty": "hard",
+      "pattern": "Trees",
+      "leetcode_number": 124,
+      "concepts": [
+        "tree",
+        "DFS"
+      ]
+    },
+    {
+      "neetcode_order": 109,
+      "title": "Serialize and Deserialize Binary Tree",
+      "slug": "serialize-and-deserialize-binary-tree",
+      "difficulty": "hard",
+      "pattern": "Trees",
+      "leetcode_number": 297,
+      "concepts": [
+        "tree",
+        "BFS",
+        "DFS",
+        "design"
+      ]
+    },
+    {
+      "neetcode_order": 110,
+      "title": "Kth Largest Element in a Stream",
+      "slug": "kth-largest-element-in-a-stream",
+      "difficulty": "easy",
+      "pattern": "Heap / Priority Queue",
+      "leetcode_number": 703,
+      "concepts": [
+        "heap",
+        "design"
+      ]
+    },
+    {
+      "neetcode_order": 111,
+      "title": "Last Stone Weight",
+      "slug": "last-stone-weight",
+      "difficulty": "easy",
+      "pattern": "Heap / Priority Queue",
+      "leetcode_number": 1046,
+      "concepts": [
+        "heap"
+      ]
+    },
+    {
+      "neetcode_order": 112,
+      "title": "K Closest Points to Origin",
+      "slug": "k-closest-points-to-origin",
+      "difficulty": "medium",
+      "pattern": "Heap / Priority Queue",
+      "leetcode_number": 973,
+      "concepts": [
+        "heap",
+        "sorting",
+        "quick select"
+      ]
+    },
+    {
+      "neetcode_order": 113,
+      "title": "Kth Largest Element in an Array",
+      "slug": "kth-largest-element-in-an-array",
+      "difficulty": "medium",
+      "pattern": "Heap / Priority Queue",
+      "leetcode_number": 215,
+      "concepts": [
+        "heap",
+        "quick select"
+      ]
+    },
+    {
+      "neetcode_order": 114,
+      "title": "Task Scheduler",
+      "slug": "task-scheduler",
+      "difficulty": "medium",
+      "pattern": "Heap / Priority Queue",
+      "leetcode_number": 621,
+      "concepts": [
+        "heap",
+        "greedy"
+      ]
+    },
+    {
+      "neetcode_order": 115,
+      "title": "Design Twitter",
+      "slug": "design-twitter",
+      "difficulty": "medium",
+      "pattern": "Heap / Priority Queue",
+      "leetcode_number": 355,
+      "concepts": [
+        "heap",
+        "hash map",
+        "design"
+      ]
+    },
+    {
+      "neetcode_order": 116,
+      "title": "Single Threaded CPU",
+      "slug": "single-threaded-cpu",
+      "difficulty": "medium",
+      "pattern": "Heap / Priority Queue",
+      "leetcode_number": 1834,
+      "concepts": [
+        "heap",
+        "sorting",
+        "simulation"
+      ]
+    },
+    {
+      "neetcode_order": 117,
+      "title": "Reorganize String",
+      "slug": "reorganize-string",
+      "difficulty": "medium",
+      "pattern": "Heap / Priority Queue",
+      "leetcode_number": 767,
+      "concepts": [
+        "heap",
+        "greedy"
+      ]
+    },
+    {
+      "neetcode_order": 118,
+      "title": "Longest Happy String",
+      "slug": "longest-happy-string",
+      "difficulty": "medium",
+      "pattern": "Heap / Priority Queue",
+      "leetcode_number": 1405,
+      "concepts": [
+        "heap",
+        "greedy"
+      ]
+    },
+    {
+      "neetcode_order": 119,
+      "title": "Car Pooling",
+      "slug": "car-pooling",
+      "difficulty": "medium",
+      "pattern": "Heap / Priority Queue",
+      "leetcode_number": 1094,
+      "concepts": [
+        "heap",
+        "sorting"
+      ]
+    },
+    {
+      "neetcode_order": 120,
+      "title": "Find Median from Data Stream",
+      "slug": "find-median-from-data-stream",
+      "difficulty": "hard",
+      "pattern": "Heap / Priority Queue",
+      "leetcode_number": 295,
+      "concepts": [
+        "heap",
+        "design"
+      ]
+    },
+    {
+      "neetcode_order": 121,
+      "title": "IPO",
+      "slug": "ipo",
+      "difficulty": "hard",
+      "pattern": "Heap / Priority Queue",
+      "leetcode_number": 502,
+      "concepts": [
+        "heap",
+        "greedy",
+        "sorting"
+      ]
+    },
+    {
+      "neetcode_order": 122,
+      "title": "Sum of All Subset XOR Totals",
+      "slug": "sum-of-all-subset-xor-totals",
+      "difficulty": "easy",
+      "pattern": "Backtracking",
+      "leetcode_number": 1863,
+      "concepts": [
+        "backtracking",
+        "bit manipulation"
+      ]
+    },
+    {
+      "neetcode_order": 123,
+      "title": "Subsets",
+      "slug": "subsets",
+      "difficulty": "medium",
+      "pattern": "Backtracking",
+      "leetcode_number": 78,
+      "concepts": [
+        "backtracking"
+      ]
+    },
+    {
+      "neetcode_order": 124,
+      "title": "Combination Sum",
+      "slug": "combination-sum",
+      "difficulty": "medium",
+      "pattern": "Backtracking",
+      "leetcode_number": 39,
+      "concepts": [
+        "backtracking"
+      ]
+    },
+    {
+      "neetcode_order": 125,
+      "title": "Combination Sum II",
+      "slug": "combination-sum-ii",
+      "difficulty": "medium",
+      "pattern": "Backtracking",
+      "leetcode_number": 40,
+      "concepts": [
+        "backtracking",
+        "sorting"
+      ]
+    },
+    {
+      "neetcode_order": 126,
+      "title": "Combinations",
+      "slug": "combinations",
+      "difficulty": "medium",
+      "pattern": "Backtracking",
+      "leetcode_number": 77,
+      "concepts": [
+        "backtracking"
+      ]
+    },
+    {
+      "neetcode_order": 127,
+      "title": "Permutations",
+      "slug": "permutations",
+      "difficulty": "medium",
+      "pattern": "Backtracking",
+      "leetcode_number": 46,
+      "concepts": [
+        "backtracking"
+      ]
+    },
+    {
+      "neetcode_order": 128,
+      "title": "Subsets II",
+      "slug": "subsets-ii",
+      "difficulty": "medium",
+      "pattern": "Backtracking",
+      "leetcode_number": 90,
+      "concepts": [
+        "backtracking",
+        "sorting"
+      ]
+    },
+    {
+      "neetcode_order": 129,
+      "title": "Permutations II",
+      "slug": "permutations-ii",
+      "difficulty": "medium",
+      "pattern": "Backtracking",
+      "leetcode_number": 47,
+      "concepts": [
+        "backtracking",
+        "sorting"
+      ]
+    },
+    {
+      "neetcode_order": 130,
+      "title": "Generate Parentheses",
+      "slug": "generate-parentheses",
+      "difficulty": "medium",
+      "pattern": "Backtracking",
+      "leetcode_number": 22,
+      "concepts": [
+        "backtracking",
+        "string"
+      ]
+    },
+    {
+      "neetcode_order": 131,
+      "title": "Word Search",
+      "slug": "word-search",
+      "difficulty": "medium",
+      "pattern": "Backtracking",
+      "leetcode_number": 79,
+      "concepts": [
+        "backtracking",
+        "DFS"
+      ]
+    },
+    {
+      "neetcode_order": 132,
+      "title": "Palindrome Partitioning",
+      "slug": "palindrome-partitioning",
+      "difficulty": "medium",
+      "pattern": "Backtracking",
+      "leetcode_number": 131,
+      "concepts": [
+        "backtracking",
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 133,
+      "title": "Letter Combinations of a Phone Number",
+      "slug": "letter-combinations-of-a-phone-number",
+      "difficulty": "medium",
+      "pattern": "Backtracking",
+      "leetcode_number": 17,
+      "concepts": [
+        "backtracking"
+      ]
+    },
+    {
+      "neetcode_order": 134,
+      "title": "Matchsticks to Square",
+      "slug": "matchsticks-to-square",
+      "difficulty": "medium",
+      "pattern": "Backtracking",
+      "leetcode_number": 473,
+      "concepts": [
+        "backtracking",
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 135,
+      "title": "Partition to K Equal Sum Subsets",
+      "slug": "partition-to-k-equal-sum-subsets",
+      "difficulty": "medium",
+      "pattern": "Backtracking",
+      "leetcode_number": 698,
+      "concepts": [
+        "backtracking",
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 136,
+      "title": "N-Queens",
+      "slug": "n-queens",
+      "difficulty": "hard",
+      "pattern": "Backtracking",
+      "leetcode_number": 51,
+      "concepts": [
+        "backtracking"
+      ]
+    },
+    {
+      "neetcode_order": 137,
+      "title": "N-Queens II",
+      "slug": "n-queens-ii",
+      "difficulty": "hard",
+      "pattern": "Backtracking",
+      "leetcode_number": 52,
+      "concepts": [
+        "backtracking"
+      ]
+    },
+    {
+      "neetcode_order": 138,
+      "title": "Word Break II",
+      "slug": "word-break-ii",
+      "difficulty": "hard",
+      "pattern": "Backtracking",
+      "leetcode_number": 140,
+      "concepts": [
+        "backtracking",
+        "dynamic programming",
+        "trie"
+      ]
+    },
+    {
+      "neetcode_order": 139,
+      "title": "Implement Trie (Prefix Tree)",
+      "slug": "implement-trie-prefix-tree",
+      "difficulty": "medium",
+      "pattern": "Tries",
+      "leetcode_number": 208,
+      "concepts": [
+        "trie",
+        "design"
+      ]
+    },
+    {
+      "neetcode_order": 140,
+      "title": "Design Add and Search Words Data Structure",
+      "slug": "design-add-and-search-words-data-structure",
+      "difficulty": "medium",
+      "pattern": "Tries",
+      "leetcode_number": 211,
+      "concepts": [
+        "trie",
+        "DFS",
+        "design"
+      ]
+    },
+    {
+      "neetcode_order": 141,
+      "title": "Extra Characters in a String",
+      "slug": "extra-characters-in-a-string",
+      "difficulty": "medium",
+      "pattern": "Tries",
+      "leetcode_number": 2707,
+      "concepts": [
+        "trie",
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 142,
+      "title": "Word Search II",
+      "slug": "word-search-ii",
+      "difficulty": "hard",
+      "pattern": "Tries",
+      "leetcode_number": 212,
+      "concepts": [
+        "trie",
+        "backtracking",
+        "DFS"
+      ]
+    },
+    {
+      "neetcode_order": 143,
+      "title": "Island Perimeter",
+      "slug": "island-perimeter",
+      "difficulty": "easy",
+      "pattern": "Graphs",
+      "leetcode_number": 463,
+      "concepts": [
+        "graph",
+        "DFS",
+        "BFS"
+      ]
+    },
+    {
+      "neetcode_order": 144,
+      "title": "Verifying an Alien Dictionary",
+      "slug": "verifying-an-alien-dictionary",
+      "difficulty": "easy",
+      "pattern": "Graphs",
+      "leetcode_number": 953,
+      "concepts": [
+        "hash map",
+        "string"
+      ]
+    },
+    {
+      "neetcode_order": 145,
+      "title": "Find the Town Judge",
+      "slug": "find-the-town-judge",
+      "difficulty": "easy",
+      "pattern": "Graphs",
+      "leetcode_number": 997,
+      "concepts": [
+        "graph",
+        "array"
+      ]
+    },
+    {
+      "neetcode_order": 146,
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "difficulty": "medium",
+      "pattern": "Graphs",
+      "leetcode_number": 200,
+      "concepts": [
+        "graph",
+        "DFS",
+        "BFS",
+        "union-find"
+      ]
+    },
+    {
+      "neetcode_order": 147,
+      "title": "Max Area of Island",
+      "slug": "max-area-of-island",
+      "difficulty": "medium",
+      "pattern": "Graphs",
+      "leetcode_number": 695,
+      "concepts": [
+        "graph",
+        "DFS",
+        "BFS"
+      ]
+    },
+    {
+      "neetcode_order": 148,
+      "title": "Clone Graph",
+      "slug": "clone-graph",
+      "difficulty": "medium",
+      "pattern": "Graphs",
+      "leetcode_number": 133,
+      "concepts": [
+        "graph",
+        "DFS",
+        "BFS",
+        "hash map"
+      ]
+    },
+    {
+      "neetcode_order": 149,
+      "title": "Walls and Gates",
+      "slug": "walls-and-gates",
+      "difficulty": "medium",
+      "pattern": "Graphs",
+      "leetcode_number": 286,
+      "concepts": [
+        "graph",
+        "BFS",
+        "multi-source BFS"
+      ]
+    },
+    {
+      "neetcode_order": 150,
+      "title": "Rotting Oranges",
+      "slug": "rotting-oranges",
+      "difficulty": "medium",
+      "pattern": "Graphs",
+      "leetcode_number": 994,
+      "concepts": [
+        "graph",
+        "BFS",
+        "multi-source BFS"
+      ]
+    },
+    {
+      "neetcode_order": 151,
+      "title": "Pacific Atlantic Water Flow",
+      "slug": "pacific-atlantic-water-flow",
+      "difficulty": "medium",
+      "pattern": "Graphs",
+      "leetcode_number": 417,
+      "concepts": [
+        "graph",
+        "DFS",
+        "BFS"
+      ]
+    },
+    {
+      "neetcode_order": 152,
+      "title": "Surrounded Regions",
+      "slug": "surrounded-regions",
+      "difficulty": "medium",
+      "pattern": "Graphs",
+      "leetcode_number": 130,
+      "concepts": [
+        "graph",
+        "DFS",
+        "BFS",
+        "union-find"
+      ]
+    },
+    {
+      "neetcode_order": 153,
+      "title": "Open the Lock",
+      "slug": "open-the-lock",
+      "difficulty": "medium",
+      "pattern": "Graphs",
+      "leetcode_number": 752,
+      "concepts": [
+        "BFS",
+        "hash set"
+      ]
+    },
+    {
+      "neetcode_order": 154,
+      "title": "Course Schedule",
+      "slug": "course-schedule",
+      "difficulty": "medium",
+      "pattern": "Graphs",
+      "leetcode_number": 207,
+      "concepts": [
+        "graph",
+        "topological sort",
+        "DFS"
+      ]
+    },
+    {
+      "neetcode_order": 155,
+      "title": "Course Schedule II",
+      "slug": "course-schedule-ii",
+      "difficulty": "medium",
+      "pattern": "Graphs",
+      "leetcode_number": 210,
+      "concepts": [
+        "graph",
+        "topological sort",
+        "DFS"
+      ]
+    },
+    {
+      "neetcode_order": 156,
+      "title": "Graph Valid Tree",
+      "slug": "graph-valid-tree",
+      "difficulty": "medium",
+      "pattern": "Graphs",
+      "leetcode_number": 261,
+      "concepts": [
+        "graph",
+        "union-find",
+        "DFS"
+      ]
+    },
+    {
+      "neetcode_order": 157,
+      "title": "Course Schedule IV",
+      "slug": "course-schedule-iv",
+      "difficulty": "medium",
+      "pattern": "Graphs",
+      "leetcode_number": 1462,
+      "concepts": [
+        "graph",
+        "topological sort",
+        "BFS"
+      ]
+    },
+    {
+      "neetcode_order": 158,
+      "title": "Number of Connected Components in an Undirected Graph",
+      "slug": "number-of-connected-components-in-an-undirected-graph",
+      "difficulty": "medium",
+      "pattern": "Graphs",
+      "leetcode_number": 323,
+      "concepts": [
+        "graph",
+        "union-find",
+        "DFS"
+      ]
+    },
+    {
+      "neetcode_order": 159,
+      "title": "Redundant Connection",
+      "slug": "redundant-connection",
+      "difficulty": "medium",
+      "pattern": "Graphs",
+      "leetcode_number": 684,
+      "concepts": [
+        "graph",
+        "union-find"
+      ]
+    },
+    {
+      "neetcode_order": 160,
+      "title": "Accounts Merge",
+      "slug": "accounts-merge",
+      "difficulty": "medium",
+      "pattern": "Graphs",
+      "leetcode_number": 721,
+      "concepts": [
+        "graph",
+        "union-find",
+        "DFS"
+      ]
+    },
+    {
+      "neetcode_order": 161,
+      "title": "Evaluate Division",
+      "slug": "evaluate-division",
+      "difficulty": "medium",
+      "pattern": "Graphs",
+      "leetcode_number": 399,
+      "concepts": [
+        "graph",
+        "DFS",
+        "BFS",
+        "union-find"
+      ]
+    },
+    {
+      "neetcode_order": 162,
+      "title": "Minimum Height Trees",
+      "slug": "minimum-height-trees",
+      "difficulty": "medium",
+      "pattern": "Graphs",
+      "leetcode_number": 310,
+      "concepts": [
+        "graph",
+        "topological sort",
+        "BFS"
+      ]
+    },
+    {
+      "neetcode_order": 163,
+      "title": "Word Ladder",
+      "slug": "word-ladder",
+      "difficulty": "hard",
+      "pattern": "Graphs",
+      "leetcode_number": 127,
+      "concepts": [
+        "BFS",
+        "hash set"
+      ]
+    },
+    {
+      "neetcode_order": 164,
+      "title": "Path with Minimum Effort",
+      "slug": "path-with-minimum-effort",
+      "difficulty": "medium",
+      "pattern": "Advanced Graphs",
+      "leetcode_number": 1631,
+      "concepts": [
+        "graph",
+        "Dijkstra",
+        "binary search"
+      ]
+    },
+    {
+      "neetcode_order": 165,
+      "title": "Network Delay Time",
+      "slug": "network-delay-time",
+      "difficulty": "medium",
+      "pattern": "Advanced Graphs",
+      "leetcode_number": 743,
+      "concepts": [
+        "graph",
+        "Dijkstra",
+        "Bellman-Ford"
+      ]
+    },
+    {
+      "neetcode_order": 166,
+      "title": "Reconstruct Itinerary",
+      "slug": "reconstruct-itinerary",
+      "difficulty": "hard",
+      "pattern": "Advanced Graphs",
+      "leetcode_number": 332,
+      "concepts": [
+        "graph",
+        "DFS",
+        "Eulerian path"
+      ]
+    },
+    {
+      "neetcode_order": 167,
+      "title": "Min Cost to Connect All Points",
+      "slug": "min-cost-to-connect-all-points",
+      "difficulty": "medium",
+      "pattern": "Advanced Graphs",
+      "leetcode_number": 1584,
+      "concepts": [
+        "graph",
+        "Prim's algorithm",
+        "Kruskal's algorithm",
+        "MST"
+      ]
+    },
+    {
+      "neetcode_order": 168,
+      "title": "Swim in Rising Water",
+      "slug": "swim-in-rising-water",
+      "difficulty": "hard",
+      "pattern": "Advanced Graphs",
+      "leetcode_number": 778,
+      "concepts": [
+        "graph",
+        "Dijkstra",
+        "binary search",
+        "union-find"
+      ]
+    },
+    {
+      "neetcode_order": 169,
+      "title": "Alien Dictionary",
+      "slug": "alien-dictionary",
+      "difficulty": "hard",
+      "pattern": "Advanced Graphs",
+      "leetcode_number": 269,
+      "concepts": [
+        "graph",
+        "topological sort"
+      ]
+    },
+    {
+      "neetcode_order": 170,
+      "title": "Cheapest Flights Within K Stops",
+      "slug": "cheapest-flights-within-k-stops",
+      "difficulty": "medium",
+      "pattern": "Advanced Graphs",
+      "leetcode_number": 787,
+      "concepts": [
+        "graph",
+        "Bellman-Ford",
+        "BFS"
+      ]
+    },
+    {
+      "neetcode_order": 171,
+      "title": "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
+      "slug": "find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree",
+      "difficulty": "hard",
+      "pattern": "Advanced Graphs",
+      "leetcode_number": 1489,
+      "concepts": [
+        "graph",
+        "MST",
+        "Kruskal's algorithm",
+        "union-find"
+      ]
+    },
+    {
+      "neetcode_order": 172,
+      "title": "Build a Matrix With Conditions",
+      "slug": "build-a-matrix-with-conditions",
+      "difficulty": "hard",
+      "pattern": "Advanced Graphs",
+      "leetcode_number": 2392,
+      "concepts": [
+        "graph",
+        "topological sort"
+      ]
+    },
+    {
+      "neetcode_order": 173,
+      "title": "Greatest Common Divisor Traversal",
+      "slug": "greatest-common-divisor-traversal",
+      "difficulty": "hard",
+      "pattern": "Advanced Graphs",
+      "leetcode_number": 2709,
+      "concepts": [
+        "graph",
+        "union-find",
+        "math"
+      ]
+    },
+    {
+      "neetcode_order": 174,
+      "title": "Climbing Stairs",
+      "slug": "climbing-stairs",
+      "difficulty": "easy",
+      "pattern": "1-D Dynamic Programming",
+      "leetcode_number": 70,
+      "concepts": [
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 175,
+      "title": "Min Cost Climbing Stairs",
+      "slug": "min-cost-climbing-stairs",
+      "difficulty": "easy",
+      "pattern": "1-D Dynamic Programming",
+      "leetcode_number": 746,
+      "concepts": [
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 176,
+      "title": "N-th Tribonacci Number",
+      "slug": "n-th-tribonacci-number",
+      "difficulty": "easy",
+      "pattern": "1-D Dynamic Programming",
+      "leetcode_number": 1137,
+      "concepts": [
+        "dynamic programming",
+        "memoization"
+      ]
+    },
+    {
+      "neetcode_order": 177,
+      "title": "House Robber",
+      "slug": "house-robber",
+      "difficulty": "medium",
+      "pattern": "1-D Dynamic Programming",
+      "leetcode_number": 198,
+      "concepts": [
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 178,
+      "title": "House Robber II",
+      "slug": "house-robber-ii",
+      "difficulty": "medium",
+      "pattern": "1-D Dynamic Programming",
+      "leetcode_number": 213,
+      "concepts": [
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 179,
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "difficulty": "medium",
+      "pattern": "1-D Dynamic Programming",
+      "leetcode_number": 5,
+      "concepts": [
+        "dynamic programming",
+        "expand around center"
+      ]
+    },
+    {
+      "neetcode_order": 180,
+      "title": "Palindromic Substrings",
+      "slug": "palindromic-substrings",
+      "difficulty": "medium",
+      "pattern": "1-D Dynamic Programming",
+      "leetcode_number": 647,
+      "concepts": [
+        "dynamic programming",
+        "expand around center"
+      ]
+    },
+    {
+      "neetcode_order": 181,
+      "title": "Decode Ways",
+      "slug": "decode-ways",
+      "difficulty": "medium",
+      "pattern": "1-D Dynamic Programming",
+      "leetcode_number": 91,
+      "concepts": [
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 182,
+      "title": "Coin Change",
+      "slug": "coin-change",
+      "difficulty": "medium",
+      "pattern": "1-D Dynamic Programming",
+      "leetcode_number": 322,
+      "concepts": [
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 183,
+      "title": "Maximum Product Subarray",
+      "slug": "maximum-product-subarray",
+      "difficulty": "medium",
+      "pattern": "1-D Dynamic Programming",
+      "leetcode_number": 152,
+      "concepts": [
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 184,
+      "title": "Word Break",
+      "slug": "word-break",
+      "difficulty": "medium",
+      "pattern": "1-D Dynamic Programming",
+      "leetcode_number": 139,
+      "concepts": [
+        "dynamic programming",
+        "trie"
+      ]
+    },
+    {
+      "neetcode_order": 185,
+      "title": "Longest Increasing Subsequence",
+      "slug": "longest-increasing-subsequence",
+      "difficulty": "medium",
+      "pattern": "1-D Dynamic Programming",
+      "leetcode_number": 300,
+      "concepts": [
+        "dynamic programming",
+        "binary search"
+      ]
+    },
+    {
+      "neetcode_order": 186,
+      "title": "Partition Equal Subset Sum",
+      "slug": "partition-equal-subset-sum",
+      "difficulty": "medium",
+      "pattern": "1-D Dynamic Programming",
+      "leetcode_number": 416,
+      "concepts": [
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 187,
+      "title": "Combination Sum IV",
+      "slug": "combination-sum-iv",
+      "difficulty": "medium",
+      "pattern": "1-D Dynamic Programming",
+      "leetcode_number": 377,
+      "concepts": [
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 188,
+      "title": "Perfect Squares",
+      "slug": "perfect-squares",
+      "difficulty": "medium",
+      "pattern": "1-D Dynamic Programming",
+      "leetcode_number": 279,
+      "concepts": [
+        "dynamic programming",
+        "BFS"
+      ]
+    },
+    {
+      "neetcode_order": 189,
+      "title": "Integer Break",
+      "slug": "integer-break",
+      "difficulty": "medium",
+      "pattern": "1-D Dynamic Programming",
+      "leetcode_number": 343,
+      "concepts": [
+        "dynamic programming",
+        "math"
+      ]
+    },
+    {
+      "neetcode_order": 190,
+      "title": "Stone Game III",
+      "slug": "stone-game-iii",
+      "difficulty": "hard",
+      "pattern": "1-D Dynamic Programming",
+      "leetcode_number": 1406,
+      "concepts": [
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 191,
+      "title": "Unique Paths",
+      "slug": "unique-paths",
+      "difficulty": "medium",
+      "pattern": "2-D Dynamic Programming",
+      "leetcode_number": 62,
+      "concepts": [
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 192,
+      "title": "Unique Paths II",
+      "slug": "unique-paths-ii",
+      "difficulty": "medium",
+      "pattern": "2-D Dynamic Programming",
+      "leetcode_number": 63,
+      "concepts": [
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 193,
+      "title": "Minimum Path Sum",
+      "slug": "minimum-path-sum",
+      "difficulty": "medium",
+      "pattern": "2-D Dynamic Programming",
+      "leetcode_number": 64,
+      "concepts": [
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 194,
+      "title": "Longest Common Subsequence",
+      "slug": "longest-common-subsequence",
+      "difficulty": "medium",
+      "pattern": "2-D Dynamic Programming",
+      "leetcode_number": 1143,
+      "concepts": [
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 195,
+      "title": "Last Stone Weight II",
+      "slug": "last-stone-weight-ii",
+      "difficulty": "medium",
+      "pattern": "2-D Dynamic Programming",
+      "leetcode_number": 1049,
+      "concepts": [
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 196,
+      "title": "Best Time to Buy and Sell Stock with Cooldown",
+      "slug": "best-time-to-buy-and-sell-stock-with-cooldown",
+      "difficulty": "medium",
+      "pattern": "2-D Dynamic Programming",
+      "leetcode_number": 309,
+      "concepts": [
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 197,
+      "title": "Coin Change II",
+      "slug": "coin-change-ii",
+      "difficulty": "medium",
+      "pattern": "2-D Dynamic Programming",
+      "leetcode_number": 518,
+      "concepts": [
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 198,
+      "title": "Target Sum",
+      "slug": "target-sum",
+      "difficulty": "medium",
+      "pattern": "2-D Dynamic Programming",
+      "leetcode_number": 494,
+      "concepts": [
+        "dynamic programming",
+        "backtracking"
+      ]
+    },
+    {
+      "neetcode_order": 199,
+      "title": "Interleaving String",
+      "slug": "interleaving-string",
+      "difficulty": "medium",
+      "pattern": "2-D Dynamic Programming",
+      "leetcode_number": 97,
+      "concepts": [
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 200,
+      "title": "Stone Game",
+      "slug": "stone-game",
+      "difficulty": "medium",
+      "pattern": "2-D Dynamic Programming",
+      "leetcode_number": 877,
+      "concepts": [
+        "dynamic programming",
+        "math"
+      ]
+    },
+    {
+      "neetcode_order": 201,
+      "title": "Stone Game II",
+      "slug": "stone-game-ii",
+      "difficulty": "medium",
+      "pattern": "2-D Dynamic Programming",
+      "leetcode_number": 1140,
+      "concepts": [
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 202,
+      "title": "Longest Increasing Path in a Matrix",
+      "slug": "longest-increasing-path-in-a-matrix",
+      "difficulty": "hard",
+      "pattern": "2-D Dynamic Programming",
+      "leetcode_number": 329,
+      "concepts": [
+        "dynamic programming",
+        "DFS",
+        "memoization"
+      ]
+    },
+    {
+      "neetcode_order": 203,
+      "title": "Distinct Subsequences",
+      "slug": "distinct-subsequences",
+      "difficulty": "hard",
+      "pattern": "2-D Dynamic Programming",
+      "leetcode_number": 115,
+      "concepts": [
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 204,
+      "title": "Edit Distance",
+      "slug": "edit-distance",
+      "difficulty": "medium",
+      "pattern": "2-D Dynamic Programming",
+      "leetcode_number": 72,
+      "concepts": [
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 205,
+      "title": "Burst Balloons",
+      "slug": "burst-balloons",
+      "difficulty": "hard",
+      "pattern": "2-D Dynamic Programming",
+      "leetcode_number": 312,
+      "concepts": [
+        "dynamic programming",
+        "divide and conquer"
+      ]
+    },
+    {
+      "neetcode_order": 206,
+      "title": "Regular Expression Matching",
+      "slug": "regular-expression-matching",
+      "difficulty": "hard",
+      "pattern": "2-D Dynamic Programming",
+      "leetcode_number": 10,
+      "concepts": [
+        "dynamic programming",
+        "recursion"
+      ]
+    },
+    {
+      "neetcode_order": 207,
+      "title": "Lemonade Change",
+      "slug": "lemonade-change",
+      "difficulty": "easy",
+      "pattern": "Greedy",
+      "leetcode_number": 860,
+      "concepts": [
+        "greedy"
+      ]
+    },
+    {
+      "neetcode_order": 208,
+      "title": "Maximum Subarray",
+      "slug": "maximum-subarray",
+      "difficulty": "medium",
+      "pattern": "Greedy",
+      "leetcode_number": 53,
+      "concepts": [
+        "greedy",
+        "dynamic programming",
+        "Kadane's algorithm"
+      ]
+    },
+    {
+      "neetcode_order": 209,
+      "title": "Maximum Sum Circular Subarray",
+      "slug": "maximum-sum-circular-subarray",
+      "difficulty": "medium",
+      "pattern": "Greedy",
+      "leetcode_number": 918,
+      "concepts": [
+        "greedy",
+        "dynamic programming",
+        "Kadane's algorithm"
+      ]
+    },
+    {
+      "neetcode_order": 210,
+      "title": "Longest Turbulent Subarray",
+      "slug": "longest-turbulent-subarray",
+      "difficulty": "medium",
+      "pattern": "Greedy",
+      "leetcode_number": 978,
+      "concepts": [
+        "greedy",
+        "sliding window",
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 211,
+      "title": "Jump Game",
+      "slug": "jump-game",
+      "difficulty": "medium",
+      "pattern": "Greedy",
+      "leetcode_number": 55,
+      "concepts": [
+        "greedy"
+      ]
+    },
+    {
+      "neetcode_order": 212,
+      "title": "Jump Game II",
+      "slug": "jump-game-ii",
+      "difficulty": "medium",
+      "pattern": "Greedy",
+      "leetcode_number": 45,
+      "concepts": [
+        "greedy"
+      ]
+    },
+    {
+      "neetcode_order": 213,
+      "title": "Jump Game VII",
+      "slug": "jump-game-vii",
+      "difficulty": "medium",
+      "pattern": "Greedy",
+      "leetcode_number": 1871,
+      "concepts": [
+        "greedy",
+        "prefix sum"
+      ]
+    },
+    {
+      "neetcode_order": 214,
+      "title": "Gas Station",
+      "slug": "gas-station",
+      "difficulty": "medium",
+      "pattern": "Greedy",
+      "leetcode_number": 134,
+      "concepts": [
+        "greedy"
+      ]
+    },
+    {
+      "neetcode_order": 215,
+      "title": "Hand of Straights",
+      "slug": "hand-of-straights",
+      "difficulty": "medium",
+      "pattern": "Greedy",
+      "leetcode_number": 846,
+      "concepts": [
+        "greedy",
+        "hash map",
+        "sorting"
+      ]
+    },
+    {
+      "neetcode_order": 216,
+      "title": "Dota2 Senate",
+      "slug": "dota2-senate",
+      "difficulty": "medium",
+      "pattern": "Greedy",
+      "leetcode_number": 649,
+      "concepts": [
+        "greedy",
+        "queue"
+      ]
+    },
+    {
+      "neetcode_order": 217,
+      "title": "Merge Triplets to Form Target Triplet",
+      "slug": "merge-triplets-to-form-target-triplet",
+      "difficulty": "medium",
+      "pattern": "Greedy",
+      "leetcode_number": 1899,
+      "concepts": [
+        "greedy"
+      ]
+    },
+    {
+      "neetcode_order": 218,
+      "title": "Partition Labels",
+      "slug": "partition-labels",
+      "difficulty": "medium",
+      "pattern": "Greedy",
+      "leetcode_number": 763,
+      "concepts": [
+        "greedy",
+        "hash map"
+      ]
+    },
+    {
+      "neetcode_order": 219,
+      "title": "Valid Parenthesis String",
+      "slug": "valid-parenthesis-string",
+      "difficulty": "medium",
+      "pattern": "Greedy",
+      "leetcode_number": 678,
+      "concepts": [
+        "greedy",
+        "stack"
+      ]
+    },
+    {
+      "neetcode_order": 220,
+      "title": "Candy",
+      "slug": "candy",
+      "difficulty": "hard",
+      "pattern": "Greedy",
+      "leetcode_number": 135,
+      "concepts": [
+        "greedy",
+        "array"
+      ]
+    },
+    {
+      "neetcode_order": 221,
+      "title": "Insert Interval",
+      "slug": "insert-interval",
+      "difficulty": "medium",
+      "pattern": "Intervals",
+      "leetcode_number": 57,
+      "concepts": [
+        "intervals",
+        "array"
+      ]
+    },
+    {
+      "neetcode_order": 222,
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "difficulty": "medium",
+      "pattern": "Intervals",
+      "leetcode_number": 56,
+      "concepts": [
+        "intervals",
+        "sorting"
+      ]
+    },
+    {
+      "neetcode_order": 223,
+      "title": "Non-Overlapping Intervals",
+      "slug": "non-overlapping-intervals",
+      "difficulty": "medium",
+      "pattern": "Intervals",
+      "leetcode_number": 435,
+      "concepts": [
+        "intervals",
+        "greedy",
+        "sorting"
+      ]
+    },
+    {
+      "neetcode_order": 224,
+      "title": "Meeting Rooms",
+      "slug": "meeting-rooms",
+      "difficulty": "easy",
+      "pattern": "Intervals",
+      "leetcode_number": 252,
+      "concepts": [
+        "intervals",
+        "sorting"
+      ]
+    },
+    {
+      "neetcode_order": 225,
+      "title": "Meeting Rooms II",
+      "slug": "meeting-rooms-ii",
+      "difficulty": "medium",
+      "pattern": "Intervals",
+      "leetcode_number": 253,
+      "concepts": [
+        "intervals",
+        "sorting",
+        "heap"
+      ]
+    },
+    {
+      "neetcode_order": 226,
+      "title": "Meeting Rooms III",
+      "slug": "meeting-rooms-iii",
+      "difficulty": "hard",
+      "pattern": "Intervals",
+      "leetcode_number": 2402,
+      "concepts": [
+        "intervals",
+        "heap",
+        "sorting"
+      ]
+    },
+    {
+      "neetcode_order": 227,
+      "title": "Minimum Interval to Include Each Query",
+      "slug": "minimum-interval-to-include-each-query",
+      "difficulty": "hard",
+      "pattern": "Intervals",
+      "leetcode_number": 1851,
+      "concepts": [
+        "intervals",
+        "heap",
+        "sorting"
+      ]
+    },
+    {
+      "neetcode_order": 228,
+      "title": "Excel Sheet Column Title",
+      "slug": "excel-sheet-column-title",
+      "difficulty": "easy",
+      "pattern": "Math & Geometry",
+      "leetcode_number": 168,
+      "concepts": [
+        "math",
+        "string"
+      ]
+    },
+    {
+      "neetcode_order": 229,
+      "title": "Greatest Common Divisor of Strings",
+      "slug": "greatest-common-divisor-of-strings",
+      "difficulty": "easy",
+      "pattern": "Math & Geometry",
+      "leetcode_number": 1071,
+      "concepts": [
+        "math",
+        "string",
+        "GCD"
+      ]
+    },
+    {
+      "neetcode_order": 230,
+      "title": "Insert Greatest Common Divisors in Linked List",
+      "slug": "insert-greatest-common-divisors-in-linked-list",
+      "difficulty": "medium",
+      "pattern": "Math & Geometry",
+      "leetcode_number": 2807,
+      "concepts": [
+        "math",
+        "linked list",
+        "GCD"
+      ]
+    },
+    {
+      "neetcode_order": 231,
+      "title": "Transpose Matrix",
+      "slug": "transpose-matrix",
+      "difficulty": "easy",
+      "pattern": "Math & Geometry",
+      "leetcode_number": 867,
+      "concepts": [
+        "matrix",
+        "array"
+      ]
+    },
+    {
+      "neetcode_order": 232,
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "difficulty": "medium",
+      "pattern": "Math & Geometry",
+      "leetcode_number": 48,
+      "concepts": [
+        "matrix",
+        "array"
+      ]
+    },
+    {
+      "neetcode_order": 233,
+      "title": "Spiral Matrix",
+      "slug": "spiral-matrix",
+      "difficulty": "medium",
+      "pattern": "Math & Geometry",
+      "leetcode_number": 54,
+      "concepts": [
+        "matrix",
+        "array",
+        "simulation"
+      ]
+    },
+    {
+      "neetcode_order": 234,
+      "title": "Set Matrix Zeroes",
+      "slug": "set-matrix-zeroes",
+      "difficulty": "medium",
+      "pattern": "Math & Geometry",
+      "leetcode_number": 73,
+      "concepts": [
+        "matrix",
+        "array"
+      ]
+    },
+    {
+      "neetcode_order": 235,
+      "title": "Happy Number",
+      "slug": "happy-number",
+      "difficulty": "easy",
+      "pattern": "Math & Geometry",
+      "leetcode_number": 202,
+      "concepts": [
+        "math",
+        "hash set",
+        "fast and slow pointers"
+      ]
+    },
+    {
+      "neetcode_order": 236,
+      "title": "Plus One",
+      "slug": "plus-one",
+      "difficulty": "easy",
+      "pattern": "Math & Geometry",
+      "leetcode_number": 66,
+      "concepts": [
+        "math",
+        "array"
+      ]
+    },
+    {
+      "neetcode_order": 237,
+      "title": "Roman to Integer",
+      "slug": "roman-to-integer",
+      "difficulty": "easy",
+      "pattern": "Math & Geometry",
+      "leetcode_number": 13,
+      "concepts": [
+        "math",
+        "string",
+        "hash map"
+      ]
+    },
+    {
+      "neetcode_order": 238,
+      "title": "Pow(x, n)",
+      "slug": "powx-n",
+      "difficulty": "medium",
+      "pattern": "Math & Geometry",
+      "leetcode_number": 50,
+      "concepts": [
+        "math",
+        "recursion",
+        "fast exponentiation"
+      ]
+    },
+    {
+      "neetcode_order": 239,
+      "title": "Multiply Strings",
+      "slug": "multiply-strings",
+      "difficulty": "medium",
+      "pattern": "Math & Geometry",
+      "leetcode_number": 43,
+      "concepts": [
+        "math",
+        "string"
+      ]
+    },
+    {
+      "neetcode_order": 240,
+      "title": "Detect Squares",
+      "slug": "detect-squares",
+      "difficulty": "medium",
+      "pattern": "Math & Geometry",
+      "leetcode_number": 2013,
+      "concepts": [
+        "math",
+        "hash map",
+        "geometry"
+      ]
+    },
+    {
+      "neetcode_order": 241,
+      "title": "Single Number",
+      "slug": "single-number",
+      "difficulty": "easy",
+      "pattern": "Bit Manipulation",
+      "leetcode_number": 136,
+      "concepts": [
+        "bit manipulation",
+        "XOR"
+      ]
+    },
+    {
+      "neetcode_order": 242,
+      "title": "Number of 1 Bits",
+      "slug": "number-of-1-bits",
+      "difficulty": "easy",
+      "pattern": "Bit Manipulation",
+      "leetcode_number": 191,
+      "concepts": [
+        "bit manipulation"
+      ]
+    },
+    {
+      "neetcode_order": 243,
+      "title": "Counting Bits",
+      "slug": "counting-bits",
+      "difficulty": "easy",
+      "pattern": "Bit Manipulation",
+      "leetcode_number": 338,
+      "concepts": [
+        "bit manipulation",
+        "dynamic programming"
+      ]
+    },
+    {
+      "neetcode_order": 244,
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "difficulty": "easy",
+      "pattern": "Bit Manipulation",
+      "leetcode_number": 67,
+      "concepts": [
+        "bit manipulation",
+        "string"
+      ]
+    },
+    {
+      "neetcode_order": 245,
+      "title": "Reverse Bits",
+      "slug": "reverse-bits",
+      "difficulty": "easy",
+      "pattern": "Bit Manipulation",
+      "leetcode_number": 190,
+      "concepts": [
+        "bit manipulation"
+      ]
+    },
+    {
+      "neetcode_order": 246,
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "difficulty": "easy",
+      "pattern": "Bit Manipulation",
+      "leetcode_number": 268,
+      "concepts": [
+        "bit manipulation",
+        "XOR",
+        "math"
+      ]
+    },
+    {
+      "neetcode_order": 247,
+      "title": "Sum of Two Integers",
+      "slug": "sum-of-two-integers",
+      "difficulty": "medium",
+      "pattern": "Bit Manipulation",
+      "leetcode_number": 371,
+      "concepts": [
+        "bit manipulation"
+      ]
+    },
+    {
+      "neetcode_order": 248,
+      "title": "Reverse Integer",
+      "slug": "reverse-integer",
+      "difficulty": "medium",
+      "pattern": "Bit Manipulation",
+      "leetcode_number": 7,
+      "concepts": [
+        "math",
+        "bit manipulation"
+      ]
+    },
+    {
+      "neetcode_order": 249,
+      "title": "Bitwise AND of Numbers Range",
+      "slug": "bitwise-and-of-numbers-range",
+      "difficulty": "medium",
+      "pattern": "Bit Manipulation",
+      "leetcode_number": 201,
+      "concepts": [
+        "bit manipulation"
+      ]
+    },
+    {
+      "neetcode_order": 250,
+      "title": "Minimum Array End",
+      "slug": "minimum-array-end",
+      "difficulty": "medium",
+      "pattern": "Bit Manipulation",
+      "leetcode_number": 3133,
+      "concepts": [
+        "bit manipulation"
+      ]
+    }
+  ]
+}

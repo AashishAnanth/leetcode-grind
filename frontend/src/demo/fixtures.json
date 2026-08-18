@@ -1,0 +1,5053 @@
+{
+ "GET /problems": [
+  {
+   "id": 1,
+   "neetcode_order": 1,
+   "title": "Concatenation of Array",
+   "slug": "concatenation-of-array",
+   "difficulty": "easy",
+   "pattern": "Arrays & Hashing",
+   "status": "solved",
+   "leetcode_number": 1929,
+   "concepts": [
+    "array"
+   ]
+  },
+  {
+   "id": 2,
+   "neetcode_order": 2,
+   "title": "Contains Duplicate",
+   "slug": "contains-duplicate",
+   "difficulty": "easy",
+   "pattern": "Arrays & Hashing",
+   "status": "needs-review",
+   "leetcode_number": 217,
+   "concepts": [
+    "hash set"
+   ]
+  },
+  {
+   "id": 3,
+   "neetcode_order": 3,
+   "title": "Valid Anagram",
+   "slug": "valid-anagram",
+   "difficulty": "easy",
+   "pattern": "Arrays & Hashing",
+   "status": "needs-review",
+   "leetcode_number": 242,
+   "concepts": [
+    "hash map",
+    "sorting"
+   ]
+  },
+  {
+   "id": 4,
+   "neetcode_order": 4,
+   "title": "Two Sum",
+   "slug": "two-sum",
+   "difficulty": "easy",
+   "pattern": "Arrays & Hashing",
+   "status": "attempted",
+   "leetcode_number": 1,
+   "concepts": [
+    "hash map"
+   ]
+  },
+  {
+   "id": 5,
+   "neetcode_order": 5,
+   "title": "Longest Common Prefix",
+   "slug": "longest-common-prefix",
+   "difficulty": "easy",
+   "pattern": "Arrays & Hashing",
+   "status": "needs-review",
+   "leetcode_number": 14,
+   "concepts": [
+    "string",
+    "sorting"
+   ]
+  },
+  {
+   "id": 6,
+   "neetcode_order": 6,
+   "title": "Group Anagrams",
+   "slug": "group-anagrams",
+   "difficulty": "medium",
+   "pattern": "Arrays & Hashing",
+   "status": "attempted",
+   "leetcode_number": 49,
+   "concepts": [
+    "hash map",
+    "sorting"
+   ]
+  },
+  {
+   "id": 7,
+   "neetcode_order": 7,
+   "title": "Remove Element",
+   "slug": "remove-element",
+   "difficulty": "easy",
+   "pattern": "Arrays & Hashing",
+   "status": "solved",
+   "leetcode_number": 27,
+   "concepts": [
+    "array",
+    "two pointers"
+   ]
+  },
+  {
+   "id": 8,
+   "neetcode_order": 8,
+   "title": "Majority Element",
+   "slug": "majority-element",
+   "difficulty": "easy",
+   "pattern": "Arrays & Hashing",
+   "status": "solved",
+   "leetcode_number": 169,
+   "concepts": [
+    "hash map",
+    "Boyer-Moore voting"
+   ]
+  },
+  {
+   "id": 9,
+   "neetcode_order": 9,
+   "title": "Design HashSet",
+   "slug": "design-hashset",
+   "difficulty": "easy",
+   "pattern": "Arrays & Hashing",
+   "status": "attempted",
+   "leetcode_number": 705,
+   "concepts": [
+    "hash set",
+    "linked list",
+    "design"
+   ]
+  },
+  {
+   "id": 10,
+   "neetcode_order": 10,
+   "title": "Design HashMap",
+   "slug": "design-hashmap",
+   "difficulty": "easy",
+   "pattern": "Arrays & Hashing",
+   "status": "solved",
+   "leetcode_number": 706,
+   "concepts": [
+    "hash map",
+    "linked list",
+    "design"
+   ]
+  },
+  {
+   "id": 11,
+   "neetcode_order": 11,
+   "title": "Sort an Array",
+   "slug": "sort-an-array",
+   "difficulty": "medium",
+   "pattern": "Arrays & Hashing",
+   "status": "attempted",
+   "leetcode_number": 912,
+   "concepts": [
+    "merge sort",
+    "quick sort",
+    "heap sort"
+   ]
+  },
+  {
+   "id": 12,
+   "neetcode_order": 12,
+   "title": "Sort Colors",
+   "slug": "sort-colors",
+   "difficulty": "medium",
+   "pattern": "Arrays & Hashing",
+   "status": "solved",
+   "leetcode_number": 75,
+   "concepts": [
+    "two pointers",
+    "Dutch national flag"
+   ]
+  },
+  {
+   "id": 13,
+   "neetcode_order": 13,
+   "title": "Top K Frequent Elements",
+   "slug": "top-k-frequent-elements",
+   "difficulty": "medium",
+   "pattern": "Arrays & Hashing",
+   "status": "solved",
+   "leetcode_number": 347,
+   "concepts": [
+    "hash map",
+    "bucket sort",
+    "heap"
+   ]
+  },
+  {
+   "id": 14,
+   "neetcode_order": 14,
+   "title": "Encode and Decode Strings",
+   "slug": "encode-and-decode-strings",
+   "difficulty": "medium",
+   "pattern": "Arrays & Hashing",
+   "status": "solved",
+   "leetcode_number": 271,
+   "concepts": [
+    "string",
+    "encoding"
+   ]
+  },
+  {
+   "id": 15,
+   "neetcode_order": 15,
+   "title": "Range Sum Query 2D - Immutable",
+   "slug": "range-sum-query-2d-immutable",
+   "difficulty": "medium",
+   "pattern": "Arrays & Hashing",
+   "status": "solved",
+   "leetcode_number": 304,
+   "concepts": [
+    "prefix sum",
+    "2D array"
+   ]
+  },
+  {
+   "id": 16,
+   "neetcode_order": 16,
+   "title": "Product of Array Except Self",
+   "slug": "product-of-array-except-self",
+   "difficulty": "medium",
+   "pattern": "Arrays & Hashing",
+   "status": "solved",
+   "leetcode_number": 238,
+   "concepts": [
+    "prefix sum",
+    "array"
+   ]
+  },
+  {
+   "id": 17,
+   "neetcode_order": 17,
+   "title": "Valid Sudoku",
+   "slug": "valid-sudoku",
+   "difficulty": "medium",
+   "pattern": "Arrays & Hashing",
+   "status": "solved",
+   "leetcode_number": 36,
+   "concepts": [
+    "hash set",
+    "matrix"
+   ]
+  },
+  {
+   "id": 18,
+   "neetcode_order": 18,
+   "title": "Longest Consecutive Sequence",
+   "slug": "longest-consecutive-sequence",
+   "difficulty": "medium",
+   "pattern": "Arrays & Hashing",
+   "status": "solved",
+   "leetcode_number": 128,
+   "concepts": [
+    "hash set"
+   ]
+  },
+  {
+   "id": 19,
+   "neetcode_order": 19,
+   "title": "Best Time to Buy and Sell Stock II",
+   "slug": "best-time-to-buy-and-sell-stock-ii",
+   "difficulty": "medium",
+   "pattern": "Arrays & Hashing",
+   "status": "solved",
+   "leetcode_number": 122,
+   "concepts": [
+    "greedy",
+    "array"
+   ]
+  },
+  {
+   "id": 20,
+   "neetcode_order": 20,
+   "title": "Majority Element II",
+   "slug": "majority-element-ii",
+   "difficulty": "medium",
+   "pattern": "Arrays & Hashing",
+   "status": "attempted",
+   "leetcode_number": 229,
+   "concepts": [
+    "Boyer-Moore voting",
+    "hash map"
+   ]
+  },
+  {
+   "id": 21,
+   "neetcode_order": 21,
+   "title": "Subarray Sum Equals K",
+   "slug": "subarray-sum-equals-k",
+   "difficulty": "medium",
+   "pattern": "Arrays & Hashing",
+   "status": "needs-review",
+   "leetcode_number": 560,
+   "concepts": [
+    "prefix sum",
+    "hash map"
+   ]
+  },
+  {
+   "id": 22,
+   "neetcode_order": 22,
+   "title": "First Missing Positive",
+   "slug": "first-missing-positive",
+   "difficulty": "hard",
+   "pattern": "Arrays & Hashing",
+   "status": "solved",
+   "leetcode_number": 41,
+   "concepts": [
+    "array",
+    "index as hash"
+   ]
+  },
+  {
+   "id": 23,
+   "neetcode_order": 23,
+   "title": "Reverse String",
+   "slug": "reverse-string",
+   "difficulty": "easy",
+   "pattern": "Two Pointers",
+   "status": "needs-review",
+   "leetcode_number": 344,
+   "concepts": [
+    "two pointers",
+    "string"
+   ]
+  },
+  {
+   "id": 24,
+   "neetcode_order": 24,
+   "title": "Valid Palindrome",
+   "slug": "valid-palindrome",
+   "difficulty": "easy",
+   "pattern": "Two Pointers",
+   "status": "solved",
+   "leetcode_number": 125,
+   "concepts": [
+    "two pointers",
+    "string"
+   ]
+  },
+  {
+   "id": 25,
+   "neetcode_order": 25,
+   "title": "Valid Palindrome II",
+   "slug": "valid-palindrome-ii",
+   "difficulty": "easy",
+   "pattern": "Two Pointers",
+   "status": "solved",
+   "leetcode_number": 680,
+   "concepts": [
+    "two pointers",
+    "greedy"
+   ]
+  },
+  {
+   "id": 26,
+   "neetcode_order": 26,
+   "title": "Merge Strings Alternately",
+   "slug": "merge-strings-alternately",
+   "difficulty": "easy",
+   "pattern": "Two Pointers",
+   "status": "solved",
+   "leetcode_number": 1768,
+   "concepts": [
+    "two pointers",
+    "string"
+   ]
+  },
+  {
+   "id": 27,
+   "neetcode_order": 27,
+   "title": "Merge Sorted Array",
+   "slug": "merge-sorted-array",
+   "difficulty": "easy",
+   "pattern": "Two Pointers",
+   "status": "solved",
+   "leetcode_number": 88,
+   "concepts": [
+    "two pointers",
+    "sorting"
+   ]
+  },
+  {
+   "id": 28,
+   "neetcode_order": 28,
+   "title": "Remove Duplicates from Sorted Array",
+   "slug": "remove-duplicates-from-sorted-array",
+   "difficulty": "easy",
+   "pattern": "Two Pointers",
+   "status": "needs-review",
+   "leetcode_number": 26,
+   "concepts": [
+    "two pointers"
+   ]
+  },
+  {
+   "id": 29,
+   "neetcode_order": 29,
+   "title": "Two Sum II - Input Array Is Sorted",
+   "slug": "two-sum-ii-input-array-is-sorted",
+   "difficulty": "medium",
+   "pattern": "Two Pointers",
+   "status": "solved",
+   "leetcode_number": 167,
+   "concepts": [
+    "two pointers",
+    "binary search"
+   ]
+  },
+  {
+   "id": 30,
+   "neetcode_order": 30,
+   "title": "3Sum",
+   "slug": "3sum",
+   "difficulty": "medium",
+   "pattern": "Two Pointers",
+   "status": "solved",
+   "leetcode_number": 15,
+   "concepts": [
+    "two pointers",
+    "sorting"
+   ]
+  },
+  {
+   "id": 31,
+   "neetcode_order": 31,
+   "title": "4Sum",
+   "slug": "4sum",
+   "difficulty": "medium",
+   "pattern": "Two Pointers",
+   "status": "attempted",
+   "leetcode_number": 18,
+   "concepts": [
+    "two pointers",
+    "sorting"
+   ]
+  },
+  {
+   "id": 32,
+   "neetcode_order": 32,
+   "title": "Rotate Array",
+   "slug": "rotate-array",
+   "difficulty": "medium",
+   "pattern": "Two Pointers",
+   "status": "needs-review",
+   "leetcode_number": 189,
+   "concepts": [
+    "array",
+    "reversal"
+   ]
+  },
+  {
+   "id": 33,
+   "neetcode_order": 33,
+   "title": "Container With Most Water",
+   "slug": "container-with-most-water",
+   "difficulty": "medium",
+   "pattern": "Two Pointers",
+   "status": "solved",
+   "leetcode_number": 11,
+   "concepts": [
+    "two pointers",
+    "greedy"
+   ]
+  },
+  {
+   "id": 34,
+   "neetcode_order": 34,
+   "title": "Boats to Save People",
+   "slug": "boats-to-save-people",
+   "difficulty": "medium",
+   "pattern": "Two Pointers",
+   "status": "attempted",
+   "leetcode_number": 881,
+   "concepts": [
+    "two pointers",
+    "greedy",
+    "sorting"
+   ]
+  },
+  {
+   "id": 35,
+   "neetcode_order": 35,
+   "title": "Trapping Rain Water",
+   "slug": "trapping-rain-water",
+   "difficulty": "hard",
+   "pattern": "Two Pointers",
+   "status": "solved",
+   "leetcode_number": 42,
+   "concepts": [
+    "two pointers",
+    "stack",
+    "prefix sum"
+   ]
+  },
+  {
+   "id": 36,
+   "neetcode_order": 36,
+   "title": "Contains Duplicate II",
+   "slug": "contains-duplicate-ii",
+   "difficulty": "easy",
+   "pattern": "Sliding Window",
+   "status": "solved",
+   "leetcode_number": 219,
+   "concepts": [
+    "sliding window",
+    "hash set"
+   ]
+  },
+  {
+   "id": 37,
+   "neetcode_order": 37,
+   "title": "Best Time to Buy and Sell Stock",
+   "slug": "best-time-to-buy-and-sell-stock",
+   "difficulty": "easy",
+   "pattern": "Sliding Window",
+   "status": "solved",
+   "leetcode_number": 121,
+   "concepts": [
+    "sliding window",
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 38,
+   "neetcode_order": 38,
+   "title": "Longest Substring Without Repeating Characters",
+   "slug": "longest-substring-without-repeating-characters",
+   "difficulty": "medium",
+   "pattern": "Sliding Window",
+   "status": "attempted",
+   "leetcode_number": 3,
+   "concepts": [
+    "sliding window",
+    "hash set"
+   ]
+  },
+  {
+   "id": 39,
+   "neetcode_order": 39,
+   "title": "Longest Repeating Character Replacement",
+   "slug": "longest-repeating-character-replacement",
+   "difficulty": "medium",
+   "pattern": "Sliding Window",
+   "status": "solved",
+   "leetcode_number": 424,
+   "concepts": [
+    "sliding window",
+    "hash map"
+   ]
+  },
+  {
+   "id": 40,
+   "neetcode_order": 40,
+   "title": "Permutation in String",
+   "slug": "permutation-in-string",
+   "difficulty": "medium",
+   "pattern": "Sliding Window",
+   "status": "attempted",
+   "leetcode_number": 567,
+   "concepts": [
+    "sliding window",
+    "hash map"
+   ]
+  },
+  {
+   "id": 41,
+   "neetcode_order": 41,
+   "title": "Minimum Size Subarray Sum",
+   "slug": "minimum-size-subarray-sum",
+   "difficulty": "medium",
+   "pattern": "Sliding Window",
+   "status": "needs-review",
+   "leetcode_number": 209,
+   "concepts": [
+    "sliding window",
+    "prefix sum"
+   ]
+  },
+  {
+   "id": 42,
+   "neetcode_order": 42,
+   "title": "Find K Closest Elements",
+   "slug": "find-k-closest-elements",
+   "difficulty": "medium",
+   "pattern": "Sliding Window",
+   "status": "solved",
+   "leetcode_number": 658,
+   "concepts": [
+    "sliding window",
+    "binary search"
+   ]
+  },
+  {
+   "id": 43,
+   "neetcode_order": 43,
+   "title": "Minimum Window Substring",
+   "slug": "minimum-window-substring",
+   "difficulty": "hard",
+   "pattern": "Sliding Window",
+   "status": "solved",
+   "leetcode_number": 76,
+   "concepts": [
+    "sliding window",
+    "hash map"
+   ]
+  },
+  {
+   "id": 44,
+   "neetcode_order": 44,
+   "title": "Sliding Window Maximum",
+   "slug": "sliding-window-maximum",
+   "difficulty": "hard",
+   "pattern": "Sliding Window",
+   "status": "solved",
+   "leetcode_number": 239,
+   "concepts": [
+    "sliding window",
+    "monotonic deque"
+   ]
+  },
+  {
+   "id": 45,
+   "neetcode_order": 45,
+   "title": "Baseball Game",
+   "slug": "baseball-game",
+   "difficulty": "easy",
+   "pattern": "Stack",
+   "status": "solved",
+   "leetcode_number": 682,
+   "concepts": [
+    "stack",
+    "simulation"
+   ]
+  },
+  {
+   "id": 46,
+   "neetcode_order": 46,
+   "title": "Valid Parentheses",
+   "slug": "valid-parentheses",
+   "difficulty": "easy",
+   "pattern": "Stack",
+   "status": "solved",
+   "leetcode_number": 20,
+   "concepts": [
+    "stack"
+   ]
+  },
+  {
+   "id": 47,
+   "neetcode_order": 47,
+   "title": "Implement Stack Using Queues",
+   "slug": "implement-stack-using-queues",
+   "difficulty": "easy",
+   "pattern": "Stack",
+   "status": "solved",
+   "leetcode_number": 225,
+   "concepts": [
+    "stack",
+    "queue",
+    "design"
+   ]
+  },
+  {
+   "id": 48,
+   "neetcode_order": 48,
+   "title": "Implement Queue using Stacks",
+   "slug": "implement-queue-using-stacks",
+   "difficulty": "easy",
+   "pattern": "Stack",
+   "status": "attempted",
+   "leetcode_number": 232,
+   "concepts": [
+    "queue",
+    "stack",
+    "design"
+   ]
+  },
+  {
+   "id": 49,
+   "neetcode_order": 49,
+   "title": "Min Stack",
+   "slug": "min-stack",
+   "difficulty": "medium",
+   "pattern": "Stack",
+   "status": "solved",
+   "leetcode_number": 155,
+   "concepts": [
+    "stack",
+    "design"
+   ]
+  },
+  {
+   "id": 50,
+   "neetcode_order": 50,
+   "title": "Evaluate Reverse Polish Notation",
+   "slug": "evaluate-reverse-polish-notation",
+   "difficulty": "medium",
+   "pattern": "Stack",
+   "status": "attempted",
+   "leetcode_number": 150,
+   "concepts": [
+    "stack"
+   ]
+  },
+  {
+   "id": 51,
+   "neetcode_order": 51,
+   "title": "Asteroid Collision",
+   "slug": "asteroid-collision",
+   "difficulty": "medium",
+   "pattern": "Stack",
+   "status": "solved",
+   "leetcode_number": 735,
+   "concepts": [
+    "stack",
+    "simulation"
+   ]
+  },
+  {
+   "id": 52,
+   "neetcode_order": 52,
+   "title": "Daily Temperatures",
+   "slug": "daily-temperatures",
+   "difficulty": "medium",
+   "pattern": "Stack",
+   "status": "solved",
+   "leetcode_number": 739,
+   "concepts": [
+    "monotonic stack"
+   ]
+  },
+  {
+   "id": 53,
+   "neetcode_order": 53,
+   "title": "Online Stock Span",
+   "slug": "online-stock-span",
+   "difficulty": "medium",
+   "pattern": "Stack",
+   "status": "todo",
+   "leetcode_number": 901,
+   "concepts": [
+    "monotonic stack",
+    "design"
+   ]
+  },
+  {
+   "id": 54,
+   "neetcode_order": 54,
+   "title": "Car Fleet",
+   "slug": "car-fleet",
+   "difficulty": "medium",
+   "pattern": "Stack",
+   "status": "attempted",
+   "leetcode_number": 853,
+   "concepts": [
+    "monotonic stack",
+    "sorting"
+   ]
+  },
+  {
+   "id": 55,
+   "neetcode_order": 55,
+   "title": "Simplify Path",
+   "slug": "simplify-path",
+   "difficulty": "medium",
+   "pattern": "Stack",
+   "status": "solved",
+   "leetcode_number": 71,
+   "concepts": [
+    "stack",
+    "string"
+   ]
+  },
+  {
+   "id": 56,
+   "neetcode_order": 56,
+   "title": "Decode String",
+   "slug": "decode-string",
+   "difficulty": "medium",
+   "pattern": "Stack",
+   "status": "attempted",
+   "leetcode_number": 394,
+   "concepts": [
+    "stack",
+    "string",
+    "recursion"
+   ]
+  },
+  {
+   "id": 57,
+   "neetcode_order": 57,
+   "title": "Maximum Frequency Stack",
+   "slug": "maximum-frequency-stack",
+   "difficulty": "hard",
+   "pattern": "Stack",
+   "status": "todo",
+   "leetcode_number": 895,
+   "concepts": [
+    "stack",
+    "hash map",
+    "design"
+   ]
+  },
+  {
+   "id": 58,
+   "neetcode_order": 58,
+   "title": "Largest Rectangle in Histogram",
+   "slug": "largest-rectangle-in-histogram",
+   "difficulty": "hard",
+   "pattern": "Stack",
+   "status": "solved",
+   "leetcode_number": 84,
+   "concepts": [
+    "monotonic stack"
+   ]
+  },
+  {
+   "id": 59,
+   "neetcode_order": 59,
+   "title": "Binary Search",
+   "slug": "binary-search",
+   "difficulty": "easy",
+   "pattern": "Binary Search",
+   "status": "todo",
+   "leetcode_number": 704,
+   "concepts": [
+    "binary search"
+   ]
+  },
+  {
+   "id": 60,
+   "neetcode_order": 60,
+   "title": "Search Insert Position",
+   "slug": "search-insert-position",
+   "difficulty": "easy",
+   "pattern": "Binary Search",
+   "status": "solved",
+   "leetcode_number": 35,
+   "concepts": [
+    "binary search"
+   ]
+  },
+  {
+   "id": 61,
+   "neetcode_order": 61,
+   "title": "Guess Number Higher or Lower",
+   "slug": "guess-number-higher-or-lower",
+   "difficulty": "easy",
+   "pattern": "Binary Search",
+   "status": "todo",
+   "leetcode_number": 374,
+   "concepts": [
+    "binary search"
+   ]
+  },
+  {
+   "id": 62,
+   "neetcode_order": 62,
+   "title": "Sqrt(x)",
+   "slug": "sqrtx",
+   "difficulty": "easy",
+   "pattern": "Binary Search",
+   "status": "todo",
+   "leetcode_number": 69,
+   "concepts": [
+    "binary search",
+    "math"
+   ]
+  },
+  {
+   "id": 63,
+   "neetcode_order": 63,
+   "title": "Search a 2D Matrix",
+   "slug": "search-a-2d-matrix",
+   "difficulty": "medium",
+   "pattern": "Binary Search",
+   "status": "solved",
+   "leetcode_number": 74,
+   "concepts": [
+    "binary search",
+    "matrix"
+   ]
+  },
+  {
+   "id": 64,
+   "neetcode_order": 64,
+   "title": "Koko Eating Bananas",
+   "slug": "koko-eating-bananas",
+   "difficulty": "medium",
+   "pattern": "Binary Search",
+   "status": "todo",
+   "leetcode_number": 875,
+   "concepts": [
+    "binary search"
+   ]
+  },
+  {
+   "id": 65,
+   "neetcode_order": 65,
+   "title": "Capacity to Ship Packages Within D Days",
+   "slug": "capacity-to-ship-packages-within-d-days",
+   "difficulty": "medium",
+   "pattern": "Binary Search",
+   "status": "solved",
+   "leetcode_number": 1011,
+   "concepts": [
+    "binary search"
+   ]
+  },
+  {
+   "id": 66,
+   "neetcode_order": 66,
+   "title": "Find Minimum in Rotated Sorted Array",
+   "slug": "find-minimum-in-rotated-sorted-array",
+   "difficulty": "medium",
+   "pattern": "Binary Search",
+   "status": "attempted",
+   "leetcode_number": 153,
+   "concepts": [
+    "binary search"
+   ]
+  },
+  {
+   "id": 67,
+   "neetcode_order": 67,
+   "title": "Search in Rotated Sorted Array",
+   "slug": "search-in-rotated-sorted-array",
+   "difficulty": "medium",
+   "pattern": "Binary Search",
+   "status": "solved",
+   "leetcode_number": 33,
+   "concepts": [
+    "binary search"
+   ]
+  },
+  {
+   "id": 68,
+   "neetcode_order": 68,
+   "title": "Search in Rotated Sorted Array II",
+   "slug": "search-in-rotated-sorted-array-ii",
+   "difficulty": "medium",
+   "pattern": "Binary Search",
+   "status": "solved",
+   "leetcode_number": 81,
+   "concepts": [
+    "binary search"
+   ]
+  },
+  {
+   "id": 69,
+   "neetcode_order": 69,
+   "title": "Time Based Key-Value Store",
+   "slug": "time-based-key-value-store",
+   "difficulty": "medium",
+   "pattern": "Binary Search",
+   "status": "solved",
+   "leetcode_number": 981,
+   "concepts": [
+    "binary search",
+    "hash map",
+    "design"
+   ]
+  },
+  {
+   "id": 70,
+   "neetcode_order": 70,
+   "title": "Split Array Largest Sum",
+   "slug": "split-array-largest-sum",
+   "difficulty": "hard",
+   "pattern": "Binary Search",
+   "status": "todo",
+   "leetcode_number": 410,
+   "concepts": [
+    "binary search",
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 71,
+   "neetcode_order": 71,
+   "title": "Median of Two Sorted Arrays",
+   "slug": "median-of-two-sorted-arrays",
+   "difficulty": "hard",
+   "pattern": "Binary Search",
+   "status": "todo",
+   "leetcode_number": 4,
+   "concepts": [
+    "binary search",
+    "divide and conquer"
+   ]
+  },
+  {
+   "id": 72,
+   "neetcode_order": 72,
+   "title": "Find in Mountain Array",
+   "slug": "find-in-mountain-array",
+   "difficulty": "hard",
+   "pattern": "Binary Search",
+   "status": "todo",
+   "leetcode_number": 1095,
+   "concepts": [
+    "binary search"
+   ]
+  },
+  {
+   "id": 73,
+   "neetcode_order": 73,
+   "title": "Reverse Linked List",
+   "slug": "reverse-linked-list",
+   "difficulty": "easy",
+   "pattern": "Linked List",
+   "status": "todo",
+   "leetcode_number": 206,
+   "concepts": [
+    "linked list"
+   ]
+  },
+  {
+   "id": 74,
+   "neetcode_order": 74,
+   "title": "Merge Two Sorted Lists",
+   "slug": "merge-two-sorted-lists",
+   "difficulty": "easy",
+   "pattern": "Linked List",
+   "status": "todo",
+   "leetcode_number": 21,
+   "concepts": [
+    "linked list"
+   ]
+  },
+  {
+   "id": 75,
+   "neetcode_order": 75,
+   "title": "Linked List Cycle",
+   "slug": "linked-list-cycle",
+   "difficulty": "easy",
+   "pattern": "Linked List",
+   "status": "todo",
+   "leetcode_number": 141,
+   "concepts": [
+    "linked list",
+    "fast and slow pointers"
+   ]
+  },
+  {
+   "id": 76,
+   "neetcode_order": 76,
+   "title": "Reorder List",
+   "slug": "reorder-list",
+   "difficulty": "medium",
+   "pattern": "Linked List",
+   "status": "todo",
+   "leetcode_number": 143,
+   "concepts": [
+    "linked list",
+    "fast and slow pointers"
+   ]
+  },
+  {
+   "id": 77,
+   "neetcode_order": 77,
+   "title": "Remove Nth Node From End of List",
+   "slug": "remove-nth-node-from-end-of-list",
+   "difficulty": "medium",
+   "pattern": "Linked List",
+   "status": "todo",
+   "leetcode_number": 19,
+   "concepts": [
+    "linked list",
+    "fast and slow pointers"
+   ]
+  },
+  {
+   "id": 78,
+   "neetcode_order": 78,
+   "title": "Copy List with Random Pointer",
+   "slug": "copy-list-with-random-pointer",
+   "difficulty": "medium",
+   "pattern": "Linked List",
+   "status": "todo",
+   "leetcode_number": 138,
+   "concepts": [
+    "linked list",
+    "hash map"
+   ]
+  },
+  {
+   "id": 79,
+   "neetcode_order": 79,
+   "title": "Add Two Numbers",
+   "slug": "add-two-numbers",
+   "difficulty": "medium",
+   "pattern": "Linked List",
+   "status": "todo",
+   "leetcode_number": 2,
+   "concepts": [
+    "linked list",
+    "math"
+   ]
+  },
+  {
+   "id": 80,
+   "neetcode_order": 80,
+   "title": "Find the Duplicate Number",
+   "slug": "find-the-duplicate-number",
+   "difficulty": "medium",
+   "pattern": "Linked List",
+   "status": "todo",
+   "leetcode_number": 287,
+   "concepts": [
+    "fast and slow pointers",
+    "binary search"
+   ]
+  },
+  {
+   "id": 81,
+   "neetcode_order": 81,
+   "title": "Reverse Linked List II",
+   "slug": "reverse-linked-list-ii",
+   "difficulty": "medium",
+   "pattern": "Linked List",
+   "status": "todo",
+   "leetcode_number": 92,
+   "concepts": [
+    "linked list"
+   ]
+  },
+  {
+   "id": 82,
+   "neetcode_order": 82,
+   "title": "Design Circular Queue",
+   "slug": "design-circular-queue",
+   "difficulty": "medium",
+   "pattern": "Linked List",
+   "status": "todo",
+   "leetcode_number": 622,
+   "concepts": [
+    "linked list",
+    "array",
+    "design"
+   ]
+  },
+  {
+   "id": 83,
+   "neetcode_order": 83,
+   "title": "LRU Cache",
+   "slug": "lru-cache",
+   "difficulty": "medium",
+   "pattern": "Linked List",
+   "status": "todo",
+   "leetcode_number": 146,
+   "concepts": [
+    "doubly linked list",
+    "hash map",
+    "design"
+   ]
+  },
+  {
+   "id": 84,
+   "neetcode_order": 84,
+   "title": "LFU Cache",
+   "slug": "lfu-cache",
+   "difficulty": "hard",
+   "pattern": "Linked List",
+   "status": "todo",
+   "leetcode_number": 460,
+   "concepts": [
+    "doubly linked list",
+    "hash map",
+    "design"
+   ]
+  },
+  {
+   "id": 85,
+   "neetcode_order": 85,
+   "title": "Merge K Sorted Lists",
+   "slug": "merge-k-sorted-lists",
+   "difficulty": "hard",
+   "pattern": "Linked List",
+   "status": "todo",
+   "leetcode_number": 23,
+   "concepts": [
+    "linked list",
+    "heap",
+    "divide and conquer"
+   ]
+  },
+  {
+   "id": 86,
+   "neetcode_order": 86,
+   "title": "Reverse Nodes in K-Group",
+   "slug": "reverse-nodes-in-k-group",
+   "difficulty": "hard",
+   "pattern": "Linked List",
+   "status": "todo",
+   "leetcode_number": 25,
+   "concepts": [
+    "linked list",
+    "recursion"
+   ]
+  },
+  {
+   "id": 87,
+   "neetcode_order": 87,
+   "title": "Binary Tree Inorder Traversal",
+   "slug": "binary-tree-inorder-traversal",
+   "difficulty": "easy",
+   "pattern": "Trees",
+   "status": "todo",
+   "leetcode_number": 94,
+   "concepts": [
+    "tree",
+    "DFS",
+    "recursion"
+   ]
+  },
+  {
+   "id": 88,
+   "neetcode_order": 88,
+   "title": "Binary Tree Preorder Traversal",
+   "slug": "binary-tree-preorder-traversal",
+   "difficulty": "easy",
+   "pattern": "Trees",
+   "status": "todo",
+   "leetcode_number": 144,
+   "concepts": [
+    "tree",
+    "DFS",
+    "recursion"
+   ]
+  },
+  {
+   "id": 89,
+   "neetcode_order": 89,
+   "title": "Binary Tree Postorder Traversal",
+   "slug": "binary-tree-postorder-traversal",
+   "difficulty": "easy",
+   "pattern": "Trees",
+   "status": "todo",
+   "leetcode_number": 145,
+   "concepts": [
+    "tree",
+    "DFS",
+    "recursion"
+   ]
+  },
+  {
+   "id": 90,
+   "neetcode_order": 90,
+   "title": "Invert Binary Tree",
+   "slug": "invert-binary-tree",
+   "difficulty": "easy",
+   "pattern": "Trees",
+   "status": "todo",
+   "leetcode_number": 226,
+   "concepts": [
+    "tree",
+    "DFS",
+    "BFS"
+   ]
+  },
+  {
+   "id": 91,
+   "neetcode_order": 91,
+   "title": "Maximum Depth of Binary Tree",
+   "slug": "maximum-depth-of-binary-tree",
+   "difficulty": "easy",
+   "pattern": "Trees",
+   "status": "todo",
+   "leetcode_number": 104,
+   "concepts": [
+    "tree",
+    "DFS",
+    "BFS"
+   ]
+  },
+  {
+   "id": 92,
+   "neetcode_order": 92,
+   "title": "Diameter of Binary Tree",
+   "slug": "diameter-of-binary-tree",
+   "difficulty": "easy",
+   "pattern": "Trees",
+   "status": "todo",
+   "leetcode_number": 543,
+   "concepts": [
+    "tree",
+    "DFS"
+   ]
+  },
+  {
+   "id": 93,
+   "neetcode_order": 93,
+   "title": "Balanced Binary Tree",
+   "slug": "balanced-binary-tree",
+   "difficulty": "easy",
+   "pattern": "Trees",
+   "status": "todo",
+   "leetcode_number": 110,
+   "concepts": [
+    "tree",
+    "DFS"
+   ]
+  },
+  {
+   "id": 94,
+   "neetcode_order": 94,
+   "title": "Same Tree",
+   "slug": "same-tree",
+   "difficulty": "easy",
+   "pattern": "Trees",
+   "status": "todo",
+   "leetcode_number": 100,
+   "concepts": [
+    "tree",
+    "DFS"
+   ]
+  },
+  {
+   "id": 95,
+   "neetcode_order": 95,
+   "title": "Subtree of Another Tree",
+   "slug": "subtree-of-another-tree",
+   "difficulty": "easy",
+   "pattern": "Trees",
+   "status": "todo",
+   "leetcode_number": 572,
+   "concepts": [
+    "tree",
+    "DFS"
+   ]
+  },
+  {
+   "id": 96,
+   "neetcode_order": 96,
+   "title": "Lowest Common Ancestor of a Binary Search Tree",
+   "slug": "lowest-common-ancestor-of-a-binary-search-tree",
+   "difficulty": "medium",
+   "pattern": "Trees",
+   "status": "todo",
+   "leetcode_number": 235,
+   "concepts": [
+    "BST",
+    "DFS"
+   ]
+  },
+  {
+   "id": 97,
+   "neetcode_order": 97,
+   "title": "Insert into a Binary Search Tree",
+   "slug": "insert-into-a-binary-search-tree",
+   "difficulty": "medium",
+   "pattern": "Trees",
+   "status": "todo",
+   "leetcode_number": 701,
+   "concepts": [
+    "BST"
+   ]
+  },
+  {
+   "id": 98,
+   "neetcode_order": 98,
+   "title": "Delete Node in a BST",
+   "slug": "delete-node-in-a-bst",
+   "difficulty": "medium",
+   "pattern": "Trees",
+   "status": "todo",
+   "leetcode_number": 450,
+   "concepts": [
+    "BST"
+   ]
+  },
+  {
+   "id": 99,
+   "neetcode_order": 99,
+   "title": "Binary Tree Level Order Traversal",
+   "slug": "binary-tree-level-order-traversal",
+   "difficulty": "medium",
+   "pattern": "Trees",
+   "status": "todo",
+   "leetcode_number": 102,
+   "concepts": [
+    "tree",
+    "BFS"
+   ]
+  },
+  {
+   "id": 100,
+   "neetcode_order": 100,
+   "title": "Binary Tree Right Side View",
+   "slug": "binary-tree-right-side-view",
+   "difficulty": "medium",
+   "pattern": "Trees",
+   "status": "todo",
+   "leetcode_number": 199,
+   "concepts": [
+    "tree",
+    "BFS",
+    "DFS"
+   ]
+  },
+  {
+   "id": 101,
+   "neetcode_order": 101,
+   "title": "Construct Quad Tree",
+   "slug": "construct-quad-tree",
+   "difficulty": "medium",
+   "pattern": "Trees",
+   "status": "todo",
+   "leetcode_number": 427,
+   "concepts": [
+    "tree",
+    "recursion",
+    "divide and conquer"
+   ]
+  },
+  {
+   "id": 102,
+   "neetcode_order": 102,
+   "title": "Count Good Nodes in Binary Tree",
+   "slug": "count-good-nodes-in-binary-tree",
+   "difficulty": "medium",
+   "pattern": "Trees",
+   "status": "todo",
+   "leetcode_number": 1448,
+   "concepts": [
+    "tree",
+    "DFS"
+   ]
+  },
+  {
+   "id": 103,
+   "neetcode_order": 103,
+   "title": "Validate Binary Search Tree",
+   "slug": "validate-binary-search-tree",
+   "difficulty": "medium",
+   "pattern": "Trees",
+   "status": "todo",
+   "leetcode_number": 98,
+   "concepts": [
+    "BST",
+    "DFS"
+   ]
+  },
+  {
+   "id": 104,
+   "neetcode_order": 104,
+   "title": "Kth Smallest Element in a BST",
+   "slug": "kth-smallest-element-in-a-bst",
+   "difficulty": "medium",
+   "pattern": "Trees",
+   "status": "todo",
+   "leetcode_number": 230,
+   "concepts": [
+    "BST",
+    "DFS",
+    "inorder traversal"
+   ]
+  },
+  {
+   "id": 105,
+   "neetcode_order": 105,
+   "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+   "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+   "difficulty": "medium",
+   "pattern": "Trees",
+   "status": "todo",
+   "leetcode_number": 105,
+   "concepts": [
+    "tree",
+    "DFS",
+    "hash map"
+   ]
+  },
+  {
+   "id": 106,
+   "neetcode_order": 106,
+   "title": "House Robber III",
+   "slug": "house-robber-iii",
+   "difficulty": "medium",
+   "pattern": "Trees",
+   "status": "todo",
+   "leetcode_number": 337,
+   "concepts": [
+    "tree",
+    "DFS",
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 107,
+   "neetcode_order": 107,
+   "title": "Delete Leaves With a Given Value",
+   "slug": "delete-leaves-with-a-given-value",
+   "difficulty": "medium",
+   "pattern": "Trees",
+   "status": "todo",
+   "leetcode_number": 1325,
+   "concepts": [
+    "tree",
+    "DFS"
+   ]
+  },
+  {
+   "id": 108,
+   "neetcode_order": 108,
+   "title": "Binary Tree Maximum Path Sum",
+   "slug": "binary-tree-maximum-path-sum",
+   "difficulty": "hard",
+   "pattern": "Trees",
+   "status": "todo",
+   "leetcode_number": 124,
+   "concepts": [
+    "tree",
+    "DFS"
+   ]
+  },
+  {
+   "id": 109,
+   "neetcode_order": 109,
+   "title": "Serialize and Deserialize Binary Tree",
+   "slug": "serialize-and-deserialize-binary-tree",
+   "difficulty": "hard",
+   "pattern": "Trees",
+   "status": "todo",
+   "leetcode_number": 297,
+   "concepts": [
+    "tree",
+    "BFS",
+    "DFS",
+    "design"
+   ]
+  },
+  {
+   "id": 110,
+   "neetcode_order": 110,
+   "title": "Kth Largest Element in a Stream",
+   "slug": "kth-largest-element-in-a-stream",
+   "difficulty": "easy",
+   "pattern": "Heap / Priority Queue",
+   "status": "todo",
+   "leetcode_number": 703,
+   "concepts": [
+    "heap",
+    "design"
+   ]
+  },
+  {
+   "id": 111,
+   "neetcode_order": 111,
+   "title": "Last Stone Weight",
+   "slug": "last-stone-weight",
+   "difficulty": "easy",
+   "pattern": "Heap / Priority Queue",
+   "status": "todo",
+   "leetcode_number": 1046,
+   "concepts": [
+    "heap"
+   ]
+  },
+  {
+   "id": 112,
+   "neetcode_order": 112,
+   "title": "K Closest Points to Origin",
+   "slug": "k-closest-points-to-origin",
+   "difficulty": "medium",
+   "pattern": "Heap / Priority Queue",
+   "status": "todo",
+   "leetcode_number": 973,
+   "concepts": [
+    "heap",
+    "sorting",
+    "quick select"
+   ]
+  },
+  {
+   "id": 113,
+   "neetcode_order": 113,
+   "title": "Kth Largest Element in an Array",
+   "slug": "kth-largest-element-in-an-array",
+   "difficulty": "medium",
+   "pattern": "Heap / Priority Queue",
+   "status": "todo",
+   "leetcode_number": 215,
+   "concepts": [
+    "heap",
+    "quick select"
+   ]
+  },
+  {
+   "id": 114,
+   "neetcode_order": 114,
+   "title": "Task Scheduler",
+   "slug": "task-scheduler",
+   "difficulty": "medium",
+   "pattern": "Heap / Priority Queue",
+   "status": "todo",
+   "leetcode_number": 621,
+   "concepts": [
+    "heap",
+    "greedy"
+   ]
+  },
+  {
+   "id": 115,
+   "neetcode_order": 115,
+   "title": "Design Twitter",
+   "slug": "design-twitter",
+   "difficulty": "medium",
+   "pattern": "Heap / Priority Queue",
+   "status": "todo",
+   "leetcode_number": 355,
+   "concepts": [
+    "heap",
+    "hash map",
+    "design"
+   ]
+  },
+  {
+   "id": 116,
+   "neetcode_order": 116,
+   "title": "Single Threaded CPU",
+   "slug": "single-threaded-cpu",
+   "difficulty": "medium",
+   "pattern": "Heap / Priority Queue",
+   "status": "todo",
+   "leetcode_number": 1834,
+   "concepts": [
+    "heap",
+    "sorting",
+    "simulation"
+   ]
+  },
+  {
+   "id": 117,
+   "neetcode_order": 117,
+   "title": "Reorganize String",
+   "slug": "reorganize-string",
+   "difficulty": "medium",
+   "pattern": "Heap / Priority Queue",
+   "status": "todo",
+   "leetcode_number": 767,
+   "concepts": [
+    "heap",
+    "greedy"
+   ]
+  },
+  {
+   "id": 118,
+   "neetcode_order": 118,
+   "title": "Longest Happy String",
+   "slug": "longest-happy-string",
+   "difficulty": "medium",
+   "pattern": "Heap / Priority Queue",
+   "status": "todo",
+   "leetcode_number": 1405,
+   "concepts": [
+    "heap",
+    "greedy"
+   ]
+  },
+  {
+   "id": 119,
+   "neetcode_order": 119,
+   "title": "Car Pooling",
+   "slug": "car-pooling",
+   "difficulty": "medium",
+   "pattern": "Heap / Priority Queue",
+   "status": "todo",
+   "leetcode_number": 1094,
+   "concepts": [
+    "heap",
+    "sorting"
+   ]
+  },
+  {
+   "id": 120,
+   "neetcode_order": 120,
+   "title": "Find Median from Data Stream",
+   "slug": "find-median-from-data-stream",
+   "difficulty": "hard",
+   "pattern": "Heap / Priority Queue",
+   "status": "todo",
+   "leetcode_number": 295,
+   "concepts": [
+    "heap",
+    "design"
+   ]
+  },
+  {
+   "id": 121,
+   "neetcode_order": 121,
+   "title": "IPO",
+   "slug": "ipo",
+   "difficulty": "hard",
+   "pattern": "Heap / Priority Queue",
+   "status": "todo",
+   "leetcode_number": 502,
+   "concepts": [
+    "heap",
+    "greedy",
+    "sorting"
+   ]
+  },
+  {
+   "id": 122,
+   "neetcode_order": 122,
+   "title": "Sum of All Subset XOR Totals",
+   "slug": "sum-of-all-subset-xor-totals",
+   "difficulty": "easy",
+   "pattern": "Backtracking",
+   "status": "todo",
+   "leetcode_number": 1863,
+   "concepts": [
+    "backtracking",
+    "bit manipulation"
+   ]
+  },
+  {
+   "id": 123,
+   "neetcode_order": 123,
+   "title": "Subsets",
+   "slug": "subsets",
+   "difficulty": "medium",
+   "pattern": "Backtracking",
+   "status": "todo",
+   "leetcode_number": 78,
+   "concepts": [
+    "backtracking"
+   ]
+  },
+  {
+   "id": 124,
+   "neetcode_order": 124,
+   "title": "Combination Sum",
+   "slug": "combination-sum",
+   "difficulty": "medium",
+   "pattern": "Backtracking",
+   "status": "todo",
+   "leetcode_number": 39,
+   "concepts": [
+    "backtracking"
+   ]
+  },
+  {
+   "id": 125,
+   "neetcode_order": 125,
+   "title": "Combination Sum II",
+   "slug": "combination-sum-ii",
+   "difficulty": "medium",
+   "pattern": "Backtracking",
+   "status": "todo",
+   "leetcode_number": 40,
+   "concepts": [
+    "backtracking",
+    "sorting"
+   ]
+  },
+  {
+   "id": 126,
+   "neetcode_order": 126,
+   "title": "Combinations",
+   "slug": "combinations",
+   "difficulty": "medium",
+   "pattern": "Backtracking",
+   "status": "todo",
+   "leetcode_number": 77,
+   "concepts": [
+    "backtracking"
+   ]
+  },
+  {
+   "id": 127,
+   "neetcode_order": 127,
+   "title": "Permutations",
+   "slug": "permutations",
+   "difficulty": "medium",
+   "pattern": "Backtracking",
+   "status": "todo",
+   "leetcode_number": 46,
+   "concepts": [
+    "backtracking"
+   ]
+  },
+  {
+   "id": 128,
+   "neetcode_order": 128,
+   "title": "Subsets II",
+   "slug": "subsets-ii",
+   "difficulty": "medium",
+   "pattern": "Backtracking",
+   "status": "todo",
+   "leetcode_number": 90,
+   "concepts": [
+    "backtracking",
+    "sorting"
+   ]
+  },
+  {
+   "id": 129,
+   "neetcode_order": 129,
+   "title": "Permutations II",
+   "slug": "permutations-ii",
+   "difficulty": "medium",
+   "pattern": "Backtracking",
+   "status": "todo",
+   "leetcode_number": 47,
+   "concepts": [
+    "backtracking",
+    "sorting"
+   ]
+  },
+  {
+   "id": 130,
+   "neetcode_order": 130,
+   "title": "Generate Parentheses",
+   "slug": "generate-parentheses",
+   "difficulty": "medium",
+   "pattern": "Backtracking",
+   "status": "todo",
+   "leetcode_number": 22,
+   "concepts": [
+    "backtracking",
+    "string"
+   ]
+  },
+  {
+   "id": 131,
+   "neetcode_order": 131,
+   "title": "Word Search",
+   "slug": "word-search",
+   "difficulty": "medium",
+   "pattern": "Backtracking",
+   "status": "todo",
+   "leetcode_number": 79,
+   "concepts": [
+    "backtracking",
+    "DFS"
+   ]
+  },
+  {
+   "id": 132,
+   "neetcode_order": 132,
+   "title": "Palindrome Partitioning",
+   "slug": "palindrome-partitioning",
+   "difficulty": "medium",
+   "pattern": "Backtracking",
+   "status": "todo",
+   "leetcode_number": 131,
+   "concepts": [
+    "backtracking",
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 133,
+   "neetcode_order": 133,
+   "title": "Letter Combinations of a Phone Number",
+   "slug": "letter-combinations-of-a-phone-number",
+   "difficulty": "medium",
+   "pattern": "Backtracking",
+   "status": "todo",
+   "leetcode_number": 17,
+   "concepts": [
+    "backtracking"
+   ]
+  },
+  {
+   "id": 134,
+   "neetcode_order": 134,
+   "title": "Matchsticks to Square",
+   "slug": "matchsticks-to-square",
+   "difficulty": "medium",
+   "pattern": "Backtracking",
+   "status": "todo",
+   "leetcode_number": 473,
+   "concepts": [
+    "backtracking",
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 135,
+   "neetcode_order": 135,
+   "title": "Partition to K Equal Sum Subsets",
+   "slug": "partition-to-k-equal-sum-subsets",
+   "difficulty": "medium",
+   "pattern": "Backtracking",
+   "status": "todo",
+   "leetcode_number": 698,
+   "concepts": [
+    "backtracking",
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 136,
+   "neetcode_order": 136,
+   "title": "N-Queens",
+   "slug": "n-queens",
+   "difficulty": "hard",
+   "pattern": "Backtracking",
+   "status": "todo",
+   "leetcode_number": 51,
+   "concepts": [
+    "backtracking"
+   ]
+  },
+  {
+   "id": 137,
+   "neetcode_order": 137,
+   "title": "N-Queens II",
+   "slug": "n-queens-ii",
+   "difficulty": "hard",
+   "pattern": "Backtracking",
+   "status": "todo",
+   "leetcode_number": 52,
+   "concepts": [
+    "backtracking"
+   ]
+  },
+  {
+   "id": 138,
+   "neetcode_order": 138,
+   "title": "Word Break II",
+   "slug": "word-break-ii",
+   "difficulty": "hard",
+   "pattern": "Backtracking",
+   "status": "todo",
+   "leetcode_number": 140,
+   "concepts": [
+    "backtracking",
+    "dynamic programming",
+    "trie"
+   ]
+  },
+  {
+   "id": 139,
+   "neetcode_order": 139,
+   "title": "Implement Trie (Prefix Tree)",
+   "slug": "implement-trie-prefix-tree",
+   "difficulty": "medium",
+   "pattern": "Tries",
+   "status": "todo",
+   "leetcode_number": 208,
+   "concepts": [
+    "trie",
+    "design"
+   ]
+  },
+  {
+   "id": 140,
+   "neetcode_order": 140,
+   "title": "Design Add and Search Words Data Structure",
+   "slug": "design-add-and-search-words-data-structure",
+   "difficulty": "medium",
+   "pattern": "Tries",
+   "status": "todo",
+   "leetcode_number": 211,
+   "concepts": [
+    "trie",
+    "DFS",
+    "design"
+   ]
+  },
+  {
+   "id": 141,
+   "neetcode_order": 141,
+   "title": "Extra Characters in a String",
+   "slug": "extra-characters-in-a-string",
+   "difficulty": "medium",
+   "pattern": "Tries",
+   "status": "todo",
+   "leetcode_number": 2707,
+   "concepts": [
+    "trie",
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 142,
+   "neetcode_order": 142,
+   "title": "Word Search II",
+   "slug": "word-search-ii",
+   "difficulty": "hard",
+   "pattern": "Tries",
+   "status": "todo",
+   "leetcode_number": 212,
+   "concepts": [
+    "trie",
+    "backtracking",
+    "DFS"
+   ]
+  },
+  {
+   "id": 143,
+   "neetcode_order": 143,
+   "title": "Island Perimeter",
+   "slug": "island-perimeter",
+   "difficulty": "easy",
+   "pattern": "Graphs",
+   "status": "todo",
+   "leetcode_number": 463,
+   "concepts": [
+    "graph",
+    "DFS",
+    "BFS"
+   ]
+  },
+  {
+   "id": 144,
+   "neetcode_order": 144,
+   "title": "Verifying an Alien Dictionary",
+   "slug": "verifying-an-alien-dictionary",
+   "difficulty": "easy",
+   "pattern": "Graphs",
+   "status": "todo",
+   "leetcode_number": 953,
+   "concepts": [
+    "hash map",
+    "string"
+   ]
+  },
+  {
+   "id": 145,
+   "neetcode_order": 145,
+   "title": "Find the Town Judge",
+   "slug": "find-the-town-judge",
+   "difficulty": "easy",
+   "pattern": "Graphs",
+   "status": "todo",
+   "leetcode_number": 997,
+   "concepts": [
+    "graph",
+    "array"
+   ]
+  },
+  {
+   "id": 146,
+   "neetcode_order": 146,
+   "title": "Number of Islands",
+   "slug": "number-of-islands",
+   "difficulty": "medium",
+   "pattern": "Graphs",
+   "status": "todo",
+   "leetcode_number": 200,
+   "concepts": [
+    "graph",
+    "DFS",
+    "BFS",
+    "union-find"
+   ]
+  },
+  {
+   "id": 147,
+   "neetcode_order": 147,
+   "title": "Max Area of Island",
+   "slug": "max-area-of-island",
+   "difficulty": "medium",
+   "pattern": "Graphs",
+   "status": "todo",
+   "leetcode_number": 695,
+   "concepts": [
+    "graph",
+    "DFS",
+    "BFS"
+   ]
+  },
+  {
+   "id": 148,
+   "neetcode_order": 148,
+   "title": "Clone Graph",
+   "slug": "clone-graph",
+   "difficulty": "medium",
+   "pattern": "Graphs",
+   "status": "todo",
+   "leetcode_number": 133,
+   "concepts": [
+    "graph",
+    "DFS",
+    "BFS",
+    "hash map"
+   ]
+  },
+  {
+   "id": 149,
+   "neetcode_order": 149,
+   "title": "Walls and Gates",
+   "slug": "walls-and-gates",
+   "difficulty": "medium",
+   "pattern": "Graphs",
+   "status": "todo",
+   "leetcode_number": 286,
+   "concepts": [
+    "graph",
+    "BFS",
+    "multi-source BFS"
+   ]
+  },
+  {
+   "id": 150,
+   "neetcode_order": 150,
+   "title": "Rotting Oranges",
+   "slug": "rotting-oranges",
+   "difficulty": "medium",
+   "pattern": "Graphs",
+   "status": "todo",
+   "leetcode_number": 994,
+   "concepts": [
+    "graph",
+    "BFS",
+    "multi-source BFS"
+   ]
+  },
+  {
+   "id": 151,
+   "neetcode_order": 151,
+   "title": "Pacific Atlantic Water Flow",
+   "slug": "pacific-atlantic-water-flow",
+   "difficulty": "medium",
+   "pattern": "Graphs",
+   "status": "todo",
+   "leetcode_number": 417,
+   "concepts": [
+    "graph",
+    "DFS",
+    "BFS"
+   ]
+  },
+  {
+   "id": 152,
+   "neetcode_order": 152,
+   "title": "Surrounded Regions",
+   "slug": "surrounded-regions",
+   "difficulty": "medium",
+   "pattern": "Graphs",
+   "status": "todo",
+   "leetcode_number": 130,
+   "concepts": [
+    "graph",
+    "DFS",
+    "BFS",
+    "union-find"
+   ]
+  },
+  {
+   "id": 153,
+   "neetcode_order": 153,
+   "title": "Open the Lock",
+   "slug": "open-the-lock",
+   "difficulty": "medium",
+   "pattern": "Graphs",
+   "status": "todo",
+   "leetcode_number": 752,
+   "concepts": [
+    "BFS",
+    "hash set"
+   ]
+  },
+  {
+   "id": 154,
+   "neetcode_order": 154,
+   "title": "Course Schedule",
+   "slug": "course-schedule",
+   "difficulty": "medium",
+   "pattern": "Graphs",
+   "status": "todo",
+   "leetcode_number": 207,
+   "concepts": [
+    "graph",
+    "topological sort",
+    "DFS"
+   ]
+  },
+  {
+   "id": 155,
+   "neetcode_order": 155,
+   "title": "Course Schedule II",
+   "slug": "course-schedule-ii",
+   "difficulty": "medium",
+   "pattern": "Graphs",
+   "status": "todo",
+   "leetcode_number": 210,
+   "concepts": [
+    "graph",
+    "topological sort",
+    "DFS"
+   ]
+  },
+  {
+   "id": 156,
+   "neetcode_order": 156,
+   "title": "Graph Valid Tree",
+   "slug": "graph-valid-tree",
+   "difficulty": "medium",
+   "pattern": "Graphs",
+   "status": "todo",
+   "leetcode_number": 261,
+   "concepts": [
+    "graph",
+    "union-find",
+    "DFS"
+   ]
+  },
+  {
+   "id": 157,
+   "neetcode_order": 157,
+   "title": "Course Schedule IV",
+   "slug": "course-schedule-iv",
+   "difficulty": "medium",
+   "pattern": "Graphs",
+   "status": "todo",
+   "leetcode_number": 1462,
+   "concepts": [
+    "graph",
+    "topological sort",
+    "BFS"
+   ]
+  },
+  {
+   "id": 158,
+   "neetcode_order": 158,
+   "title": "Number of Connected Components in an Undirected Graph",
+   "slug": "number-of-connected-components-in-an-undirected-graph",
+   "difficulty": "medium",
+   "pattern": "Graphs",
+   "status": "todo",
+   "leetcode_number": 323,
+   "concepts": [
+    "graph",
+    "union-find",
+    "DFS"
+   ]
+  },
+  {
+   "id": 159,
+   "neetcode_order": 159,
+   "title": "Redundant Connection",
+   "slug": "redundant-connection",
+   "difficulty": "medium",
+   "pattern": "Graphs",
+   "status": "todo",
+   "leetcode_number": 684,
+   "concepts": [
+    "graph",
+    "union-find"
+   ]
+  },
+  {
+   "id": 160,
+   "neetcode_order": 160,
+   "title": "Accounts Merge",
+   "slug": "accounts-merge",
+   "difficulty": "medium",
+   "pattern": "Graphs",
+   "status": "todo",
+   "leetcode_number": 721,
+   "concepts": [
+    "graph",
+    "union-find",
+    "DFS"
+   ]
+  },
+  {
+   "id": 161,
+   "neetcode_order": 161,
+   "title": "Evaluate Division",
+   "slug": "evaluate-division",
+   "difficulty": "medium",
+   "pattern": "Graphs",
+   "status": "todo",
+   "leetcode_number": 399,
+   "concepts": [
+    "graph",
+    "DFS",
+    "BFS",
+    "union-find"
+   ]
+  },
+  {
+   "id": 162,
+   "neetcode_order": 162,
+   "title": "Minimum Height Trees",
+   "slug": "minimum-height-trees",
+   "difficulty": "medium",
+   "pattern": "Graphs",
+   "status": "todo",
+   "leetcode_number": 310,
+   "concepts": [
+    "graph",
+    "topological sort",
+    "BFS"
+   ]
+  },
+  {
+   "id": 163,
+   "neetcode_order": 163,
+   "title": "Word Ladder",
+   "slug": "word-ladder",
+   "difficulty": "hard",
+   "pattern": "Graphs",
+   "status": "todo",
+   "leetcode_number": 127,
+   "concepts": [
+    "BFS",
+    "hash set"
+   ]
+  },
+  {
+   "id": 164,
+   "neetcode_order": 164,
+   "title": "Path with Minimum Effort",
+   "slug": "path-with-minimum-effort",
+   "difficulty": "medium",
+   "pattern": "Advanced Graphs",
+   "status": "todo",
+   "leetcode_number": 1631,
+   "concepts": [
+    "graph",
+    "Dijkstra",
+    "binary search"
+   ]
+  },
+  {
+   "id": 165,
+   "neetcode_order": 165,
+   "title": "Network Delay Time",
+   "slug": "network-delay-time",
+   "difficulty": "medium",
+   "pattern": "Advanced Graphs",
+   "status": "todo",
+   "leetcode_number": 743,
+   "concepts": [
+    "graph",
+    "Dijkstra",
+    "Bellman-Ford"
+   ]
+  },
+  {
+   "id": 166,
+   "neetcode_order": 166,
+   "title": "Reconstruct Itinerary",
+   "slug": "reconstruct-itinerary",
+   "difficulty": "hard",
+   "pattern": "Advanced Graphs",
+   "status": "todo",
+   "leetcode_number": 332,
+   "concepts": [
+    "graph",
+    "DFS",
+    "Eulerian path"
+   ]
+  },
+  {
+   "id": 167,
+   "neetcode_order": 167,
+   "title": "Min Cost to Connect All Points",
+   "slug": "min-cost-to-connect-all-points",
+   "difficulty": "medium",
+   "pattern": "Advanced Graphs",
+   "status": "todo",
+   "leetcode_number": 1584,
+   "concepts": [
+    "graph",
+    "Prim's algorithm",
+    "Kruskal's algorithm",
+    "MST"
+   ]
+  },
+  {
+   "id": 168,
+   "neetcode_order": 168,
+   "title": "Swim in Rising Water",
+   "slug": "swim-in-rising-water",
+   "difficulty": "hard",
+   "pattern": "Advanced Graphs",
+   "status": "todo",
+   "leetcode_number": 778,
+   "concepts": [
+    "graph",
+    "Dijkstra",
+    "binary search",
+    "union-find"
+   ]
+  },
+  {
+   "id": 169,
+   "neetcode_order": 169,
+   "title": "Alien Dictionary",
+   "slug": "alien-dictionary",
+   "difficulty": "hard",
+   "pattern": "Advanced Graphs",
+   "status": "todo",
+   "leetcode_number": 269,
+   "concepts": [
+    "graph",
+    "topological sort"
+   ]
+  },
+  {
+   "id": 170,
+   "neetcode_order": 170,
+   "title": "Cheapest Flights Within K Stops",
+   "slug": "cheapest-flights-within-k-stops",
+   "difficulty": "medium",
+   "pattern": "Advanced Graphs",
+   "status": "todo",
+   "leetcode_number": 787,
+   "concepts": [
+    "graph",
+    "Bellman-Ford",
+    "BFS"
+   ]
+  },
+  {
+   "id": 171,
+   "neetcode_order": 171,
+   "title": "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
+   "slug": "find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree",
+   "difficulty": "hard",
+   "pattern": "Advanced Graphs",
+   "status": "todo",
+   "leetcode_number": 1489,
+   "concepts": [
+    "graph",
+    "MST",
+    "Kruskal's algorithm",
+    "union-find"
+   ]
+  },
+  {
+   "id": 172,
+   "neetcode_order": 172,
+   "title": "Build a Matrix With Conditions",
+   "slug": "build-a-matrix-with-conditions",
+   "difficulty": "hard",
+   "pattern": "Advanced Graphs",
+   "status": "todo",
+   "leetcode_number": 2392,
+   "concepts": [
+    "graph",
+    "topological sort"
+   ]
+  },
+  {
+   "id": 173,
+   "neetcode_order": 173,
+   "title": "Greatest Common Divisor Traversal",
+   "slug": "greatest-common-divisor-traversal",
+   "difficulty": "hard",
+   "pattern": "Advanced Graphs",
+   "status": "todo",
+   "leetcode_number": 2709,
+   "concepts": [
+    "graph",
+    "union-find",
+    "math"
+   ]
+  },
+  {
+   "id": 174,
+   "neetcode_order": 174,
+   "title": "Climbing Stairs",
+   "slug": "climbing-stairs",
+   "difficulty": "easy",
+   "pattern": "1-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 70,
+   "concepts": [
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 175,
+   "neetcode_order": 175,
+   "title": "Min Cost Climbing Stairs",
+   "slug": "min-cost-climbing-stairs",
+   "difficulty": "easy",
+   "pattern": "1-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 746,
+   "concepts": [
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 176,
+   "neetcode_order": 176,
+   "title": "N-th Tribonacci Number",
+   "slug": "n-th-tribonacci-number",
+   "difficulty": "easy",
+   "pattern": "1-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 1137,
+   "concepts": [
+    "dynamic programming",
+    "memoization"
+   ]
+  },
+  {
+   "id": 177,
+   "neetcode_order": 177,
+   "title": "House Robber",
+   "slug": "house-robber",
+   "difficulty": "medium",
+   "pattern": "1-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 198,
+   "concepts": [
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 178,
+   "neetcode_order": 178,
+   "title": "House Robber II",
+   "slug": "house-robber-ii",
+   "difficulty": "medium",
+   "pattern": "1-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 213,
+   "concepts": [
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 179,
+   "neetcode_order": 179,
+   "title": "Longest Palindromic Substring",
+   "slug": "longest-palindromic-substring",
+   "difficulty": "medium",
+   "pattern": "1-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 5,
+   "concepts": [
+    "dynamic programming",
+    "expand around center"
+   ]
+  },
+  {
+   "id": 180,
+   "neetcode_order": 180,
+   "title": "Palindromic Substrings",
+   "slug": "palindromic-substrings",
+   "difficulty": "medium",
+   "pattern": "1-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 647,
+   "concepts": [
+    "dynamic programming",
+    "expand around center"
+   ]
+  },
+  {
+   "id": 181,
+   "neetcode_order": 181,
+   "title": "Decode Ways",
+   "slug": "decode-ways",
+   "difficulty": "medium",
+   "pattern": "1-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 91,
+   "concepts": [
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 182,
+   "neetcode_order": 182,
+   "title": "Coin Change",
+   "slug": "coin-change",
+   "difficulty": "medium",
+   "pattern": "1-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 322,
+   "concepts": [
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 183,
+   "neetcode_order": 183,
+   "title": "Maximum Product Subarray",
+   "slug": "maximum-product-subarray",
+   "difficulty": "medium",
+   "pattern": "1-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 152,
+   "concepts": [
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 184,
+   "neetcode_order": 184,
+   "title": "Word Break",
+   "slug": "word-break",
+   "difficulty": "medium",
+   "pattern": "1-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 139,
+   "concepts": [
+    "dynamic programming",
+    "trie"
+   ]
+  },
+  {
+   "id": 185,
+   "neetcode_order": 185,
+   "title": "Longest Increasing Subsequence",
+   "slug": "longest-increasing-subsequence",
+   "difficulty": "medium",
+   "pattern": "1-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 300,
+   "concepts": [
+    "dynamic programming",
+    "binary search"
+   ]
+  },
+  {
+   "id": 186,
+   "neetcode_order": 186,
+   "title": "Partition Equal Subset Sum",
+   "slug": "partition-equal-subset-sum",
+   "difficulty": "medium",
+   "pattern": "1-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 416,
+   "concepts": [
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 187,
+   "neetcode_order": 187,
+   "title": "Combination Sum IV",
+   "slug": "combination-sum-iv",
+   "difficulty": "medium",
+   "pattern": "1-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 377,
+   "concepts": [
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 188,
+   "neetcode_order": 188,
+   "title": "Perfect Squares",
+   "slug": "perfect-squares",
+   "difficulty": "medium",
+   "pattern": "1-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 279,
+   "concepts": [
+    "dynamic programming",
+    "BFS"
+   ]
+  },
+  {
+   "id": 189,
+   "neetcode_order": 189,
+   "title": "Integer Break",
+   "slug": "integer-break",
+   "difficulty": "medium",
+   "pattern": "1-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 343,
+   "concepts": [
+    "dynamic programming",
+    "math"
+   ]
+  },
+  {
+   "id": 190,
+   "neetcode_order": 190,
+   "title": "Stone Game III",
+   "slug": "stone-game-iii",
+   "difficulty": "hard",
+   "pattern": "1-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 1406,
+   "concepts": [
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 191,
+   "neetcode_order": 191,
+   "title": "Unique Paths",
+   "slug": "unique-paths",
+   "difficulty": "medium",
+   "pattern": "2-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 62,
+   "concepts": [
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 192,
+   "neetcode_order": 192,
+   "title": "Unique Paths II",
+   "slug": "unique-paths-ii",
+   "difficulty": "medium",
+   "pattern": "2-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 63,
+   "concepts": [
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 193,
+   "neetcode_order": 193,
+   "title": "Minimum Path Sum",
+   "slug": "minimum-path-sum",
+   "difficulty": "medium",
+   "pattern": "2-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 64,
+   "concepts": [
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 194,
+   "neetcode_order": 194,
+   "title": "Longest Common Subsequence",
+   "slug": "longest-common-subsequence",
+   "difficulty": "medium",
+   "pattern": "2-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 1143,
+   "concepts": [
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 195,
+   "neetcode_order": 195,
+   "title": "Last Stone Weight II",
+   "slug": "last-stone-weight-ii",
+   "difficulty": "medium",
+   "pattern": "2-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 1049,
+   "concepts": [
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 196,
+   "neetcode_order": 196,
+   "title": "Best Time to Buy and Sell Stock with Cooldown",
+   "slug": "best-time-to-buy-and-sell-stock-with-cooldown",
+   "difficulty": "medium",
+   "pattern": "2-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 309,
+   "concepts": [
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 197,
+   "neetcode_order": 197,
+   "title": "Coin Change II",
+   "slug": "coin-change-ii",
+   "difficulty": "medium",
+   "pattern": "2-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 518,
+   "concepts": [
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 198,
+   "neetcode_order": 198,
+   "title": "Target Sum",
+   "slug": "target-sum",
+   "difficulty": "medium",
+   "pattern": "2-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 494,
+   "concepts": [
+    "dynamic programming",
+    "backtracking"
+   ]
+  },
+  {
+   "id": 199,
+   "neetcode_order": 199,
+   "title": "Interleaving String",
+   "slug": "interleaving-string",
+   "difficulty": "medium",
+   "pattern": "2-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 97,
+   "concepts": [
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 200,
+   "neetcode_order": 200,
+   "title": "Stone Game",
+   "slug": "stone-game",
+   "difficulty": "medium",
+   "pattern": "2-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 877,
+   "concepts": [
+    "dynamic programming",
+    "math"
+   ]
+  },
+  {
+   "id": 201,
+   "neetcode_order": 201,
+   "title": "Stone Game II",
+   "slug": "stone-game-ii",
+   "difficulty": "medium",
+   "pattern": "2-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 1140,
+   "concepts": [
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 202,
+   "neetcode_order": 202,
+   "title": "Longest Increasing Path in a Matrix",
+   "slug": "longest-increasing-path-in-a-matrix",
+   "difficulty": "hard",
+   "pattern": "2-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 329,
+   "concepts": [
+    "dynamic programming",
+    "DFS",
+    "memoization"
+   ]
+  },
+  {
+   "id": 203,
+   "neetcode_order": 203,
+   "title": "Distinct Subsequences",
+   "slug": "distinct-subsequences",
+   "difficulty": "hard",
+   "pattern": "2-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 115,
+   "concepts": [
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 204,
+   "neetcode_order": 204,
+   "title": "Edit Distance",
+   "slug": "edit-distance",
+   "difficulty": "medium",
+   "pattern": "2-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 72,
+   "concepts": [
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 205,
+   "neetcode_order": 205,
+   "title": "Burst Balloons",
+   "slug": "burst-balloons",
+   "difficulty": "hard",
+   "pattern": "2-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 312,
+   "concepts": [
+    "dynamic programming",
+    "divide and conquer"
+   ]
+  },
+  {
+   "id": 206,
+   "neetcode_order": 206,
+   "title": "Regular Expression Matching",
+   "slug": "regular-expression-matching",
+   "difficulty": "hard",
+   "pattern": "2-D Dynamic Programming",
+   "status": "todo",
+   "leetcode_number": 10,
+   "concepts": [
+    "dynamic programming",
+    "recursion"
+   ]
+  },
+  {
+   "id": 207,
+   "neetcode_order": 207,
+   "title": "Lemonade Change",
+   "slug": "lemonade-change",
+   "difficulty": "easy",
+   "pattern": "Greedy",
+   "status": "todo",
+   "leetcode_number": 860,
+   "concepts": [
+    "greedy"
+   ]
+  },
+  {
+   "id": 208,
+   "neetcode_order": 208,
+   "title": "Maximum Subarray",
+   "slug": "maximum-subarray",
+   "difficulty": "medium",
+   "pattern": "Greedy",
+   "status": "todo",
+   "leetcode_number": 53,
+   "concepts": [
+    "greedy",
+    "dynamic programming",
+    "Kadane's algorithm"
+   ]
+  },
+  {
+   "id": 209,
+   "neetcode_order": 209,
+   "title": "Maximum Sum Circular Subarray",
+   "slug": "maximum-sum-circular-subarray",
+   "difficulty": "medium",
+   "pattern": "Greedy",
+   "status": "todo",
+   "leetcode_number": 918,
+   "concepts": [
+    "greedy",
+    "dynamic programming",
+    "Kadane's algorithm"
+   ]
+  },
+  {
+   "id": 210,
+   "neetcode_order": 210,
+   "title": "Longest Turbulent Subarray",
+   "slug": "longest-turbulent-subarray",
+   "difficulty": "medium",
+   "pattern": "Greedy",
+   "status": "todo",
+   "leetcode_number": 978,
+   "concepts": [
+    "greedy",
+    "sliding window",
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 211,
+   "neetcode_order": 211,
+   "title": "Jump Game",
+   "slug": "jump-game",
+   "difficulty": "medium",
+   "pattern": "Greedy",
+   "status": "todo",
+   "leetcode_number": 55,
+   "concepts": [
+    "greedy"
+   ]
+  },
+  {
+   "id": 212,
+   "neetcode_order": 212,
+   "title": "Jump Game II",
+   "slug": "jump-game-ii",
+   "difficulty": "medium",
+   "pattern": "Greedy",
+   "status": "todo",
+   "leetcode_number": 45,
+   "concepts": [
+    "greedy"
+   ]
+  },
+  {
+   "id": 213,
+   "neetcode_order": 213,
+   "title": "Jump Game VII",
+   "slug": "jump-game-vii",
+   "difficulty": "medium",
+   "pattern": "Greedy",
+   "status": "todo",
+   "leetcode_number": 1871,
+   "concepts": [
+    "greedy",
+    "prefix sum"
+   ]
+  },
+  {
+   "id": 214,
+   "neetcode_order": 214,
+   "title": "Gas Station",
+   "slug": "gas-station",
+   "difficulty": "medium",
+   "pattern": "Greedy",
+   "status": "todo",
+   "leetcode_number": 134,
+   "concepts": [
+    "greedy"
+   ]
+  },
+  {
+   "id": 215,
+   "neetcode_order": 215,
+   "title": "Hand of Straights",
+   "slug": "hand-of-straights",
+   "difficulty": "medium",
+   "pattern": "Greedy",
+   "status": "todo",
+   "leetcode_number": 846,
+   "concepts": [
+    "greedy",
+    "hash map",
+    "sorting"
+   ]
+  },
+  {
+   "id": 216,
+   "neetcode_order": 216,
+   "title": "Dota2 Senate",
+   "slug": "dota2-senate",
+   "difficulty": "medium",
+   "pattern": "Greedy",
+   "status": "todo",
+   "leetcode_number": 649,
+   "concepts": [
+    "greedy",
+    "queue"
+   ]
+  },
+  {
+   "id": 217,
+   "neetcode_order": 217,
+   "title": "Merge Triplets to Form Target Triplet",
+   "slug": "merge-triplets-to-form-target-triplet",
+   "difficulty": "medium",
+   "pattern": "Greedy",
+   "status": "todo",
+   "leetcode_number": 1899,
+   "concepts": [
+    "greedy"
+   ]
+  },
+  {
+   "id": 218,
+   "neetcode_order": 218,
+   "title": "Partition Labels",
+   "slug": "partition-labels",
+   "difficulty": "medium",
+   "pattern": "Greedy",
+   "status": "todo",
+   "leetcode_number": 763,
+   "concepts": [
+    "greedy",
+    "hash map"
+   ]
+  },
+  {
+   "id": 219,
+   "neetcode_order": 219,
+   "title": "Valid Parenthesis String",
+   "slug": "valid-parenthesis-string",
+   "difficulty": "medium",
+   "pattern": "Greedy",
+   "status": "todo",
+   "leetcode_number": 678,
+   "concepts": [
+    "greedy",
+    "stack"
+   ]
+  },
+  {
+   "id": 220,
+   "neetcode_order": 220,
+   "title": "Candy",
+   "slug": "candy",
+   "difficulty": "hard",
+   "pattern": "Greedy",
+   "status": "todo",
+   "leetcode_number": 135,
+   "concepts": [
+    "greedy",
+    "array"
+   ]
+  },
+  {
+   "id": 221,
+   "neetcode_order": 221,
+   "title": "Insert Interval",
+   "slug": "insert-interval",
+   "difficulty": "medium",
+   "pattern": "Intervals",
+   "status": "todo",
+   "leetcode_number": 57,
+   "concepts": [
+    "intervals",
+    "array"
+   ]
+  },
+  {
+   "id": 222,
+   "neetcode_order": 222,
+   "title": "Merge Intervals",
+   "slug": "merge-intervals",
+   "difficulty": "medium",
+   "pattern": "Intervals",
+   "status": "todo",
+   "leetcode_number": 56,
+   "concepts": [
+    "intervals",
+    "sorting"
+   ]
+  },
+  {
+   "id": 223,
+   "neetcode_order": 223,
+   "title": "Non-Overlapping Intervals",
+   "slug": "non-overlapping-intervals",
+   "difficulty": "medium",
+   "pattern": "Intervals",
+   "status": "todo",
+   "leetcode_number": 435,
+   "concepts": [
+    "intervals",
+    "greedy",
+    "sorting"
+   ]
+  },
+  {
+   "id": 224,
+   "neetcode_order": 224,
+   "title": "Meeting Rooms",
+   "slug": "meeting-rooms",
+   "difficulty": "easy",
+   "pattern": "Intervals",
+   "status": "todo",
+   "leetcode_number": 252,
+   "concepts": [
+    "intervals",
+    "sorting"
+   ]
+  },
+  {
+   "id": 225,
+   "neetcode_order": 225,
+   "title": "Meeting Rooms II",
+   "slug": "meeting-rooms-ii",
+   "difficulty": "medium",
+   "pattern": "Intervals",
+   "status": "todo",
+   "leetcode_number": 253,
+   "concepts": [
+    "intervals",
+    "sorting",
+    "heap"
+   ]
+  },
+  {
+   "id": 226,
+   "neetcode_order": 226,
+   "title": "Meeting Rooms III",
+   "slug": "meeting-rooms-iii",
+   "difficulty": "hard",
+   "pattern": "Intervals",
+   "status": "todo",
+   "leetcode_number": 2402,
+   "concepts": [
+    "intervals",
+    "heap",
+    "sorting"
+   ]
+  },
+  {
+   "id": 227,
+   "neetcode_order": 227,
+   "title": "Minimum Interval to Include Each Query",
+   "slug": "minimum-interval-to-include-each-query",
+   "difficulty": "hard",
+   "pattern": "Intervals",
+   "status": "todo",
+   "leetcode_number": 1851,
+   "concepts": [
+    "intervals",
+    "heap",
+    "sorting"
+   ]
+  },
+  {
+   "id": 228,
+   "neetcode_order": 228,
+   "title": "Excel Sheet Column Title",
+   "slug": "excel-sheet-column-title",
+   "difficulty": "easy",
+   "pattern": "Math & Geometry",
+   "status": "todo",
+   "leetcode_number": 168,
+   "concepts": [
+    "math",
+    "string"
+   ]
+  },
+  {
+   "id": 229,
+   "neetcode_order": 229,
+   "title": "Greatest Common Divisor of Strings",
+   "slug": "greatest-common-divisor-of-strings",
+   "difficulty": "easy",
+   "pattern": "Math & Geometry",
+   "status": "todo",
+   "leetcode_number": 1071,
+   "concepts": [
+    "math",
+    "string",
+    "GCD"
+   ]
+  },
+  {
+   "id": 230,
+   "neetcode_order": 230,
+   "title": "Insert Greatest Common Divisors in Linked List",
+   "slug": "insert-greatest-common-divisors-in-linked-list",
+   "difficulty": "medium",
+   "pattern": "Math & Geometry",
+   "status": "todo",
+   "leetcode_number": 2807,
+   "concepts": [
+    "math",
+    "linked list",
+    "GCD"
+   ]
+  },
+  {
+   "id": 231,
+   "neetcode_order": 231,
+   "title": "Transpose Matrix",
+   "slug": "transpose-matrix",
+   "difficulty": "easy",
+   "pattern": "Math & Geometry",
+   "status": "todo",
+   "leetcode_number": 867,
+   "concepts": [
+    "matrix",
+    "array"
+   ]
+  },
+  {
+   "id": 232,
+   "neetcode_order": 232,
+   "title": "Rotate Image",
+   "slug": "rotate-image",
+   "difficulty": "medium",
+   "pattern": "Math & Geometry",
+   "status": "todo",
+   "leetcode_number": 48,
+   "concepts": [
+    "matrix",
+    "array"
+   ]
+  },
+  {
+   "id": 233,
+   "neetcode_order": 233,
+   "title": "Spiral Matrix",
+   "slug": "spiral-matrix",
+   "difficulty": "medium",
+   "pattern": "Math & Geometry",
+   "status": "todo",
+   "leetcode_number": 54,
+   "concepts": [
+    "matrix",
+    "array",
+    "simulation"
+   ]
+  },
+  {
+   "id": 234,
+   "neetcode_order": 234,
+   "title": "Set Matrix Zeroes",
+   "slug": "set-matrix-zeroes",
+   "difficulty": "medium",
+   "pattern": "Math & Geometry",
+   "status": "todo",
+   "leetcode_number": 73,
+   "concepts": [
+    "matrix",
+    "array"
+   ]
+  },
+  {
+   "id": 235,
+   "neetcode_order": 235,
+   "title": "Happy Number",
+   "slug": "happy-number",
+   "difficulty": "easy",
+   "pattern": "Math & Geometry",
+   "status": "todo",
+   "leetcode_number": 202,
+   "concepts": [
+    "math",
+    "hash set",
+    "fast and slow pointers"
+   ]
+  },
+  {
+   "id": 236,
+   "neetcode_order": 236,
+   "title": "Plus One",
+   "slug": "plus-one",
+   "difficulty": "easy",
+   "pattern": "Math & Geometry",
+   "status": "todo",
+   "leetcode_number": 66,
+   "concepts": [
+    "math",
+    "array"
+   ]
+  },
+  {
+   "id": 237,
+   "neetcode_order": 237,
+   "title": "Roman to Integer",
+   "slug": "roman-to-integer",
+   "difficulty": "easy",
+   "pattern": "Math & Geometry",
+   "status": "todo",
+   "leetcode_number": 13,
+   "concepts": [
+    "math",
+    "string",
+    "hash map"
+   ]
+  },
+  {
+   "id": 238,
+   "neetcode_order": 238,
+   "title": "Pow(x, n)",
+   "slug": "powx-n",
+   "difficulty": "medium",
+   "pattern": "Math & Geometry",
+   "status": "todo",
+   "leetcode_number": 50,
+   "concepts": [
+    "math",
+    "recursion",
+    "fast exponentiation"
+   ]
+  },
+  {
+   "id": 239,
+   "neetcode_order": 239,
+   "title": "Multiply Strings",
+   "slug": "multiply-strings",
+   "difficulty": "medium",
+   "pattern": "Math & Geometry",
+   "status": "todo",
+   "leetcode_number": 43,
+   "concepts": [
+    "math",
+    "string"
+   ]
+  },
+  {
+   "id": 240,
+   "neetcode_order": 240,
+   "title": "Detect Squares",
+   "slug": "detect-squares",
+   "difficulty": "medium",
+   "pattern": "Math & Geometry",
+   "status": "todo",
+   "leetcode_number": 2013,
+   "concepts": [
+    "math",
+    "hash map",
+    "geometry"
+   ]
+  },
+  {
+   "id": 241,
+   "neetcode_order": 241,
+   "title": "Single Number",
+   "slug": "single-number",
+   "difficulty": "easy",
+   "pattern": "Bit Manipulation",
+   "status": "todo",
+   "leetcode_number": 136,
+   "concepts": [
+    "bit manipulation",
+    "XOR"
+   ]
+  },
+  {
+   "id": 242,
+   "neetcode_order": 242,
+   "title": "Number of 1 Bits",
+   "slug": "number-of-1-bits",
+   "difficulty": "easy",
+   "pattern": "Bit Manipulation",
+   "status": "todo",
+   "leetcode_number": 191,
+   "concepts": [
+    "bit manipulation"
+   ]
+  },
+  {
+   "id": 243,
+   "neetcode_order": 243,
+   "title": "Counting Bits",
+   "slug": "counting-bits",
+   "difficulty": "easy",
+   "pattern": "Bit Manipulation",
+   "status": "todo",
+   "leetcode_number": 338,
+   "concepts": [
+    "bit manipulation",
+    "dynamic programming"
+   ]
+  },
+  {
+   "id": 244,
+   "neetcode_order": 244,
+   "title": "Add Binary",
+   "slug": "add-binary",
+   "difficulty": "easy",
+   "pattern": "Bit Manipulation",
+   "status": "todo",
+   "leetcode_number": 67,
+   "concepts": [
+    "bit manipulation",
+    "string"
+   ]
+  },
+  {
+   "id": 245,
+   "neetcode_order": 245,
+   "title": "Reverse Bits",
+   "slug": "reverse-bits",
+   "difficulty": "easy",
+   "pattern": "Bit Manipulation",
+   "status": "todo",
+   "leetcode_number": 190,
+   "concepts": [
+    "bit manipulation"
+   ]
+  },
+  {
+   "id": 246,
+   "neetcode_order": 246,
+   "title": "Missing Number",
+   "slug": "missing-number",
+   "difficulty": "easy",
+   "pattern": "Bit Manipulation",
+   "status": "todo",
+   "leetcode_number": 268,
+   "concepts": [
+    "bit manipulation",
+    "XOR",
+    "math"
+   ]
+  },
+  {
+   "id": 247,
+   "neetcode_order": 247,
+   "title": "Sum of Two Integers",
+   "slug": "sum-of-two-integers",
+   "difficulty": "medium",
+   "pattern": "Bit Manipulation",
+   "status": "todo",
+   "leetcode_number": 371,
+   "concepts": [
+    "bit manipulation"
+   ]
+  },
+  {
+   "id": 248,
+   "neetcode_order": 248,
+   "title": "Reverse Integer",
+   "slug": "reverse-integer",
+   "difficulty": "medium",
+   "pattern": "Bit Manipulation",
+   "status": "todo",
+   "leetcode_number": 7,
+   "concepts": [
+    "math",
+    "bit manipulation"
+   ]
+  },
+  {
+   "id": 249,
+   "neetcode_order": 249,
+   "title": "Bitwise AND of Numbers Range",
+   "slug": "bitwise-and-of-numbers-range",
+   "difficulty": "medium",
+   "pattern": "Bit Manipulation",
+   "status": "todo",
+   "leetcode_number": 201,
+   "concepts": [
+    "bit manipulation"
+   ]
+  },
+  {
+   "id": 250,
+   "neetcode_order": 250,
+   "title": "Minimum Array End",
+   "slug": "minimum-array-end",
+   "difficulty": "medium",
+   "pattern": "Bit Manipulation",
+   "status": "todo",
+   "leetcode_number": 3133,
+   "concepts": [
+    "bit manipulation"
+   ]
+  }
+ ],
+ "GET /problems/patterns": [
+  {
+   "pattern": "Arrays & Hashing",
+   "total": 22,
+   "solved": 13,
+   "needs_review": 4,
+   "attempted": 5
+  },
+  {
+   "pattern": "Two Pointers",
+   "total": 13,
+   "solved": 8,
+   "needs_review": 3,
+   "attempted": 2
+  },
+  {
+   "pattern": "Sliding Window",
+   "total": 9,
+   "solved": 6,
+   "needs_review": 1,
+   "attempted": 2
+  },
+  {
+   "pattern": "Stack",
+   "total": 14,
+   "solved": 8,
+   "needs_review": 0,
+   "attempted": 4
+  },
+  {
+   "pattern": "Binary Search",
+   "total": 14,
+   "solved": 6,
+   "needs_review": 0,
+   "attempted": 1
+  },
+  {
+   "pattern": "Linked List",
+   "total": 14,
+   "solved": 0,
+   "needs_review": 0,
+   "attempted": 0
+  },
+  {
+   "pattern": "Trees",
+   "total": 23,
+   "solved": 0,
+   "needs_review": 0,
+   "attempted": 0
+  },
+  {
+   "pattern": "Heap / Priority Queue",
+   "total": 12,
+   "solved": 0,
+   "needs_review": 0,
+   "attempted": 0
+  },
+  {
+   "pattern": "Backtracking",
+   "total": 17,
+   "solved": 0,
+   "needs_review": 0,
+   "attempted": 0
+  },
+  {
+   "pattern": "Tries",
+   "total": 4,
+   "solved": 0,
+   "needs_review": 0,
+   "attempted": 0
+  },
+  {
+   "pattern": "Graphs",
+   "total": 21,
+   "solved": 0,
+   "needs_review": 0,
+   "attempted": 0
+  },
+  {
+   "pattern": "Advanced Graphs",
+   "total": 10,
+   "solved": 0,
+   "needs_review": 0,
+   "attempted": 0
+  },
+  {
+   "pattern": "1-D Dynamic Programming",
+   "total": 17,
+   "solved": 0,
+   "needs_review": 0,
+   "attempted": 0
+  },
+  {
+   "pattern": "2-D Dynamic Programming",
+   "total": 16,
+   "solved": 0,
+   "needs_review": 0,
+   "attempted": 0
+  },
+  {
+   "pattern": "Greedy",
+   "total": 14,
+   "solved": 0,
+   "needs_review": 0,
+   "attempted": 0
+  },
+  {
+   "pattern": "Intervals",
+   "total": 7,
+   "solved": 0,
+   "needs_review": 0,
+   "attempted": 0
+  },
+  {
+   "pattern": "Math & Geometry",
+   "total": 13,
+   "solved": 0,
+   "needs_review": 0,
+   "attempted": 0
+  },
+  {
+   "pattern": "Bit Manipulation",
+   "total": 10,
+   "solved": 0,
+   "needs_review": 0,
+   "attempted": 0
+  }
+ ],
+ "GET /schedule/today": {
+  "date": "2026-08-18",
+  "is_active_day": true,
+  "daily_target": 3,
+  "reviews": [
+   {
+    "id": 2,
+    "neetcode_order": 2,
+    "title": "Contains Duplicate",
+    "slug": "contains-duplicate",
+    "difficulty": "easy",
+    "pattern": "Arrays & Hashing",
+    "status": "needs-review",
+    "leetcode_number": 217,
+    "concepts": [
+     "hash set"
+    ],
+    "completed": false
+   },
+   {
+    "id": 3,
+    "neetcode_order": 3,
+    "title": "Valid Anagram",
+    "slug": "valid-anagram",
+    "difficulty": "easy",
+    "pattern": "Arrays & Hashing",
+    "status": "needs-review",
+    "leetcode_number": 242,
+    "concepts": [
+     "hash map",
+     "sorting"
+    ],
+    "completed": false
+   },
+   {
+    "id": 5,
+    "neetcode_order": 5,
+    "title": "Longest Common Prefix",
+    "slug": "longest-common-prefix",
+    "difficulty": "easy",
+    "pattern": "Arrays & Hashing",
+    "status": "needs-review",
+    "leetcode_number": 14,
+    "concepts": [
+     "string",
+     "sorting"
+    ],
+    "completed": false
+   }
+  ],
+  "new_problems": [
+   {
+    "id": 53,
+    "neetcode_order": 53,
+    "title": "Online Stock Span",
+    "slug": "online-stock-span",
+    "difficulty": "medium",
+    "pattern": "Stack",
+    "status": "todo",
+    "leetcode_number": 901,
+    "concepts": [
+     "monotonic stack",
+     "design"
+    ],
+    "completed": false
+   },
+   {
+    "id": 57,
+    "neetcode_order": 57,
+    "title": "Maximum Frequency Stack",
+    "slug": "maximum-frequency-stack",
+    "difficulty": "hard",
+    "pattern": "Stack",
+    "status": "todo",
+    "leetcode_number": 895,
+    "concepts": [
+     "stack",
+     "hash map",
+     "design"
+    ],
+    "completed": false
+   }
+  ],
+  "completed": [
+   {
+    "id": 1,
+    "neetcode_order": 1,
+    "title": "Concatenation of Array",
+    "slug": "concatenation-of-array",
+    "difficulty": "easy",
+    "pattern": "Arrays & Hashing",
+    "status": "solved",
+    "leetcode_number": 1929,
+    "concepts": [
+     "array"
+    ],
+    "completed": true
+   },
+   {
+    "id": 7,
+    "neetcode_order": 7,
+    "title": "Remove Element",
+    "slug": "remove-element",
+    "difficulty": "easy",
+    "pattern": "Arrays & Hashing",
+    "status": "solved",
+    "leetcode_number": 27,
+    "concepts": [
+     "array",
+     "two pointers"
+    ],
+    "completed": true
+   }
+  ]
+ },
+ "GET /schedule/config": {
+  "id": 1,
+  "problems_per_week": 15,
+  "easy_pct": 20,
+  "medium_pct": 60,
+  "hard_pct": 20,
+  "active_days": [
+   "mon",
+   "tue",
+   "wed",
+   "thu",
+   "fri",
+   "sun"
+  ],
+  "updated_at": "2026-08-18T10:00:00"
+ },
+ "GET /schedule/stats": {
+  "activity": {
+   "2026-08-18": 2,
+   "2026-08-17": 3,
+   "2026-08-16": 2,
+   "2026-08-14": 2,
+   "2026-08-13": 4,
+   "2026-08-12": 2,
+   "2026-08-11": 3,
+   "2026-08-10": 1,
+   "2026-08-09": 2,
+   "2026-08-04": 2,
+   "2026-08-03": 2,
+   "2026-07-31": 3,
+   "2026-07-30": 2,
+   "2026-07-29": 1,
+   "2026-07-27": 1,
+   "2026-07-26": 2,
+   "2026-07-25": 3,
+   "2026-07-24": 2,
+   "2026-07-23": 2,
+   "2026-07-22": 1,
+   "2026-07-21": 1,
+   "2026-07-20": 2,
+   "2026-07-19": 1,
+   "2026-07-18": 2,
+   "2026-07-17": 1,
+   "2026-07-15": 2,
+   "2026-07-14": 1,
+   "2026-07-13": 1,
+   "2026-07-11": 4,
+   "2026-07-09": 4,
+   "2026-07-08": 2,
+   "2026-07-06": 1,
+   "2026-07-05": 4,
+   "2026-07-03": 1,
+   "2026-07-02": 1,
+   "2026-07-01": 2,
+   "2026-06-30": 2,
+   "2026-06-27": 1,
+   "2026-06-25": 3,
+   "2026-06-24": 1,
+   "2026-06-23": 1,
+   "2026-06-22": 2,
+   "2026-06-19": 4,
+   "2026-06-17": 1,
+   "2026-06-15": 2,
+   "2026-06-14": 1,
+   "2026-06-13": 1,
+   "2026-06-11": 2,
+   "2026-06-08": 1,
+   "2026-06-04": 3,
+   "2026-06-02": 2,
+   "2026-06-01": 2,
+   "2026-05-31": 1,
+   "2026-05-30": 2,
+   "2026-05-29": 1,
+   "2026-05-28": 1,
+   "2026-05-27": 1,
+   "2026-05-26": 2,
+   "2026-05-25": 2,
+   "2026-05-22": 4,
+   "2026-05-20": 3,
+   "2026-05-19": 2,
+   "2026-05-17": 1,
+   "2026-05-16": 2,
+   "2026-05-15": 1,
+   "2026-05-14": 2,
+   "2026-05-13": 3,
+   "2026-05-11": 1,
+   "2026-05-10": 2,
+   "2026-05-08": 1,
+   "2026-05-07": 4,
+   "2026-05-06": 1,
+   "2026-05-05": 2,
+   "2026-05-04": 2,
+   "2026-05-01": 4,
+   "2026-04-30": 1,
+   "2026-04-28": 3,
+   "2026-04-25": 2,
+   "2026-04-24": 3,
+   "2026-04-22": 1,
+   "2026-04-21": 2
+  },
+  "streak": 9
+ },
+ "GET /vault": [
+  {
+   "pattern": "Arrays & Hashing",
+   "content": "# Arrays & Hashing\n\n**When**: you need O(1) membership or a count keyed by value.\n\n**Tell**: the brute force is a nested loop comparing every pair.\n\n**Move**: trade space for time \u2014 one pass building a dict, one pass querying it. For \"two things summing to X\", store the complement, not the value.\n\n**Traps**: mutating the dict while iterating; forgetting duplicates collapse keys.",
+   "updated_at": "2026-08-15T10:00:00"
+  },
+  {
+   "pattern": "Two Pointers",
+   "content": "# Two Pointers\n\n**When**: sorted input, or a palindrome/partition question.\n\n**Tell**: you want a pair or a triple and the array can be sorted without losing the answer.\n\n**Move**: left at 0, right at n-1, move the pointer that can improve the sum.\n\n**Traps**: skipping duplicates in 3Sum \u2014 advance *past* the whole run, not by one.",
+   "updated_at": "2026-08-15T10:00:00"
+  },
+  {
+   "pattern": "Sliding Window",
+   "content": "# Sliding Window\n\n**When**: contiguous subarray or substring, with a constraint.\n\n**Tell**: \"longest/shortest ... such that ...\".\n\n**Move**: grow right unconditionally, shrink left while the constraint is violated, record the answer after shrinking.\n\n**Traps**: recording the answer before restoring the invariant.",
+   "updated_at": "2026-08-15T10:00:00"
+  },
+  {
+   "pattern": "Binary Search",
+   "content": "# Binary Search\n\n**When**: monotonic predicate, not just a sorted array.\n\n**Move**: define `ok(x)` that is false then true; find the first true. `lo=0, hi=n`, `while lo<hi`, `mid=(lo+hi)//2`, never `mid-1` on the true branch.\n\n**Traps**: overflow is irrelevant in Python; the real bug is an inclusive/exclusive `hi` mismatch.",
+   "updated_at": "2026-08-15T10:00:00"
+  }
+ ],
+ "_vault": {
+  "Arrays & Hashing": "# Arrays & Hashing\n\n**When**: you need O(1) membership or a count keyed by value.\n\n**Tell**: the brute force is a nested loop comparing every pair.\n\n**Move**: trade space for time \u2014 one pass building a dict, one pass querying it. For \"two things summing to X\", store the complement, not the value.\n\n**Traps**: mutating the dict while iterating; forgetting duplicates collapse keys.",
+  "Two Pointers": "# Two Pointers\n\n**When**: sorted input, or a palindrome/partition question.\n\n**Tell**: you want a pair or a triple and the array can be sorted without losing the answer.\n\n**Move**: left at 0, right at n-1, move the pointer that can improve the sum.\n\n**Traps**: skipping duplicates in 3Sum \u2014 advance *past* the whole run, not by one.",
+  "Sliding Window": "# Sliding Window\n\n**When**: contiguous subarray or substring, with a constraint.\n\n**Tell**: \"longest/shortest ... such that ...\".\n\n**Move**: grow right unconditionally, shrink left while the constraint is violated, record the answer after shrinking.\n\n**Traps**: recording the answer before restoring the invariant.",
+  "Binary Search": "# Binary Search\n\n**When**: monotonic predicate, not just a sorted array.\n\n**Move**: define `ok(x)` that is false then true; find the first true. `lo=0, hi=n`, `while lo<hi`, `mid=(lo+hi)//2`, never `mid-1` on the true branch.\n\n**Traps**: overflow is irrelevant in Python; the real bug is an inclusive/exclusive `hi` mismatch."
+ },
+ "_logs": {
+  "1": [
+   {
+    "id": 1,
+    "problem_id": 1,
+    "status": "solved",
+    "time_minutes": 12,
+    "perceived_difficulty": "easy",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Clean on the retry.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-07-23T10:00:00"
+   }
+  ],
+  "2": [
+   {
+    "id": 4,
+    "problem_id": 2,
+    "status": "needs-review",
+    "time_minutes": 25,
+    "perceived_difficulty": "medium",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-06-11T10:00:00"
+   },
+   {
+    "id": 5,
+    "problem_id": 2,
+    "status": "needs-review",
+    "time_minutes": 31,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": "Missed the hash-map trick on the first pass.",
+    "attempt_number": 2,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-08-13T10:00:00"
+   }
+  ],
+  "3": [
+   {
+    "id": 7,
+    "problem_id": 3,
+    "status": "needs-review",
+    "time_minutes": 25,
+    "perceived_difficulty": "medium",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-07-30T10:00:00"
+   },
+   {
+    "id": 8,
+    "problem_id": 3,
+    "status": "needs-review",
+    "time_minutes": 18,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": "Missed the hash-map trick on the first pass.",
+    "attempt_number": 2,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 16,
+    "created_at": "2026-07-09T10:00:00"
+   }
+  ],
+  "4": [
+   {
+    "id": 10,
+    "problem_id": 4,
+    "status": "attempted",
+    "time_minutes": 55,
+    "perceived_difficulty": "easy",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-09-03T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-07-28T10:00:00"
+   }
+  ],
+  "5": [
+   {
+    "id": 13,
+    "problem_id": 5,
+    "status": "needs-review",
+    "time_minutes": 55,
+    "perceived_difficulty": "hard",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Off-by-one in the window shrink step.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 16,
+    "created_at": "2026-07-18T10:00:00"
+   },
+   {
+    "id": 14,
+    "problem_id": 5,
+    "status": "needs-review",
+    "time_minutes": 31,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": null,
+    "attempt_number": 2,
+    "next_review_at": "2026-08-19T10:00:00",
+    "review_interval_days": 16,
+    "created_at": "2026-05-26T10:00:00"
+   }
+  ],
+  "6": [
+   {
+    "id": 16,
+    "problem_id": 6,
+    "status": "attempted",
+    "time_minutes": 18,
+    "perceived_difficulty": "easy",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Missed the hash-map trick on the first pass.",
+    "attempt_number": 1,
+    "next_review_at": "2026-09-03T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-07-06T10:00:00"
+   }
+  ],
+  "7": [
+   {
+    "id": 19,
+    "problem_id": 7,
+    "status": "solved",
+    "time_minutes": 31,
+    "perceived_difficulty": "medium",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Missed the hash-map trick on the first pass.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-19T10:00:00",
+    "review_interval_days": 16,
+    "created_at": "2026-07-27T10:00:00"
+   }
+  ],
+  "8": [
+   {
+    "id": 22,
+    "problem_id": 8,
+    "status": "solved",
+    "time_minutes": 18,
+    "perceived_difficulty": "medium",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Missed the hash-map trick on the first pass.",
+    "attempt_number": 1,
+    "next_review_at": "2026-09-03T10:00:00",
+    "review_interval_days": 16,
+    "created_at": "2026-07-11T10:00:00"
+   }
+  ],
+  "9": [
+   {
+    "id": 25,
+    "problem_id": 9,
+    "status": "attempted",
+    "time_minutes": 55,
+    "perceived_difficulty": "medium",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Clean on the retry.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-05-21T10:00:00"
+   }
+  ],
+  "10": [
+   {
+    "id": 28,
+    "problem_id": 10,
+    "status": "solved",
+    "time_minutes": 31,
+    "perceived_difficulty": "easy",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-09-03T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-06-18T10:00:00"
+   }
+  ],
+  "11": [
+   {
+    "id": 31,
+    "problem_id": 11,
+    "status": "attempted",
+    "time_minutes": 31,
+    "perceived_difficulty": "medium",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Missed the hash-map trick on the first pass.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-19T10:00:00",
+    "review_interval_days": 16,
+    "created_at": "2026-05-29T10:00:00"
+   }
+  ],
+  "12": [
+   {
+    "id": 34,
+    "problem_id": 12,
+    "status": "solved",
+    "time_minutes": 40,
+    "perceived_difficulty": "hard",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Off-by-one in the window shrink step.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-19T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-07-14T10:00:00"
+   }
+  ],
+  "13": [
+   {
+    "id": 37,
+    "problem_id": 13,
+    "status": "solved",
+    "time_minutes": 40,
+    "perceived_difficulty": "hard",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-05-21T10:00:00"
+   }
+  ],
+  "14": [
+   {
+    "id": 40,
+    "problem_id": 14,
+    "status": "solved",
+    "time_minutes": 55,
+    "perceived_difficulty": "hard",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Off-by-one in the window shrink step.",
+    "attempt_number": 1,
+    "next_review_at": "2026-09-03T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-06-07T10:00:00"
+   }
+  ],
+  "15": [
+   {
+    "id": 43,
+    "problem_id": 15,
+    "status": "solved",
+    "time_minutes": 55,
+    "perceived_difficulty": "hard",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Off-by-one in the window shrink step.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-05-11T10:00:00"
+   }
+  ],
+  "16": [
+   {
+    "id": 46,
+    "problem_id": 16,
+    "status": "solved",
+    "time_minutes": 12,
+    "perceived_difficulty": "medium",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Off-by-one in the window shrink step.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-06-04T10:00:00"
+   }
+  ],
+  "17": [
+   {
+    "id": 49,
+    "problem_id": 17,
+    "status": "solved",
+    "time_minutes": 25,
+    "perceived_difficulty": "hard",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Off-by-one in the window shrink step.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-06-19T10:00:00"
+   }
+  ],
+  "18": [
+   {
+    "id": 52,
+    "problem_id": 18,
+    "status": "solved",
+    "time_minutes": 25,
+    "perceived_difficulty": "hard",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Clean on the retry.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-05-27T10:00:00"
+   }
+  ],
+  "19": [
+   {
+    "id": 55,
+    "problem_id": 19,
+    "status": "solved",
+    "time_minutes": 31,
+    "perceived_difficulty": "medium",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Off-by-one in the window shrink step.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-21T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-05-21T10:00:00"
+   }
+  ],
+  "20": [
+   {
+    "id": 58,
+    "problem_id": 20,
+    "status": "attempted",
+    "time_minutes": 25,
+    "perceived_difficulty": "medium",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Off-by-one in the window shrink step.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-19T10:00:00",
+    "review_interval_days": 16,
+    "created_at": "2026-07-23T10:00:00"
+   }
+  ],
+  "21": [
+   {
+    "id": 61,
+    "problem_id": 21,
+    "status": "needs-review",
+    "time_minutes": 40,
+    "perceived_difficulty": "hard",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Clean on the retry.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-07-27T10:00:00"
+   },
+   {
+    "id": 62,
+    "problem_id": 21,
+    "status": "needs-review",
+    "time_minutes": 12,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": "Missed the hash-map trick on the first pass.",
+    "attempt_number": 2,
+    "next_review_at": "2026-09-03T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-05-17T10:00:00"
+   }
+  ],
+  "22": [
+   {
+    "id": 64,
+    "problem_id": 22,
+    "status": "solved",
+    "time_minutes": 55,
+    "perceived_difficulty": "easy",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-09-03T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-07-20T10:00:00"
+   }
+  ],
+  "23": [
+   {
+    "id": 67,
+    "problem_id": 23,
+    "status": "needs-review",
+    "time_minutes": 12,
+    "perceived_difficulty": "easy",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-07-27T10:00:00"
+   },
+   {
+    "id": 68,
+    "problem_id": 23,
+    "status": "needs-review",
+    "time_minutes": 18,
+    "perceived_difficulty": "hard",
+    "code": null,
+    "language": "python",
+    "notes": null,
+    "attempt_number": 2,
+    "next_review_at": "2026-09-03T10:00:00",
+    "review_interval_days": 16,
+    "created_at": "2026-06-17T10:00:00"
+   }
+  ],
+  "24": [
+   {
+    "id": 70,
+    "problem_id": 24,
+    "status": "solved",
+    "time_minutes": 31,
+    "perceived_difficulty": "hard",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-08-21T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-07-04T10:00:00"
+   }
+  ],
+  "25": [
+   {
+    "id": 73,
+    "problem_id": 25,
+    "status": "solved",
+    "time_minutes": 25,
+    "perceived_difficulty": "easy",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Off-by-one in the window shrink step.",
+    "attempt_number": 1,
+    "next_review_at": "2026-09-03T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-05-18T10:00:00"
+   }
+  ],
+  "26": [
+   {
+    "id": 76,
+    "problem_id": 26,
+    "status": "solved",
+    "time_minutes": 31,
+    "perceived_difficulty": "easy",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Off-by-one in the window shrink step.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-19T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-04-30T10:00:00"
+   }
+  ],
+  "27": [
+   {
+    "id": 79,
+    "problem_id": 27,
+    "status": "solved",
+    "time_minutes": 25,
+    "perceived_difficulty": "hard",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Off-by-one in the window shrink step.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-08-05T10:00:00"
+   }
+  ],
+  "28": [
+   {
+    "id": 82,
+    "problem_id": 28,
+    "status": "needs-review",
+    "time_minutes": 18,
+    "perceived_difficulty": "medium",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Clean on the retry.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 16,
+    "created_at": "2026-05-05T10:00:00"
+   },
+   {
+    "id": 83,
+    "problem_id": 28,
+    "status": "needs-review",
+    "time_minutes": 18,
+    "perceived_difficulty": "hard",
+    "code": null,
+    "language": "python",
+    "notes": "Clean on the retry.",
+    "attempt_number": 2,
+    "next_review_at": "2026-09-03T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-07-30T10:00:00"
+   }
+  ],
+  "29": [
+   {
+    "id": 85,
+    "problem_id": 29,
+    "status": "solved",
+    "time_minutes": 40,
+    "perceived_difficulty": "easy",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Off-by-one in the window shrink step.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-19T10:00:00",
+    "review_interval_days": 16,
+    "created_at": "2026-07-31T10:00:00"
+   }
+  ],
+  "30": [
+   {
+    "id": 88,
+    "problem_id": 30,
+    "status": "solved",
+    "time_minutes": 25,
+    "perceived_difficulty": "hard",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Missed the hash-map trick on the first pass.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 16,
+    "created_at": "2026-08-04T10:00:00"
+   }
+  ],
+  "31": [
+   {
+    "id": 91,
+    "problem_id": 31,
+    "status": "attempted",
+    "time_minutes": 31,
+    "perceived_difficulty": "easy",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Clean on the retry.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 16,
+    "created_at": "2026-06-24T10:00:00"
+   }
+  ],
+  "32": [
+   {
+    "id": 94,
+    "problem_id": 32,
+    "status": "needs-review",
+    "time_minutes": 31,
+    "perceived_difficulty": "medium",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Missed the hash-map trick on the first pass.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-05-19T10:00:00"
+   },
+   {
+    "id": 95,
+    "problem_id": 32,
+    "status": "needs-review",
+    "time_minutes": 25,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": null,
+    "attempt_number": 2,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-06-15T10:00:00"
+   }
+  ],
+  "33": [
+   {
+    "id": 97,
+    "problem_id": 33,
+    "status": "solved",
+    "time_minutes": 25,
+    "perceived_difficulty": "easy",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Clean on the retry.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-19T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-06-16T10:00:00"
+   }
+  ],
+  "34": [
+   {
+    "id": 100,
+    "problem_id": 34,
+    "status": "attempted",
+    "time_minutes": 40,
+    "perceived_difficulty": "medium",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Missed the hash-map trick on the first pass.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-05-25T10:00:00"
+   }
+  ],
+  "35": [
+   {
+    "id": 103,
+    "problem_id": 35,
+    "status": "solved",
+    "time_minutes": 18,
+    "perceived_difficulty": "medium",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-09-03T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-05-09T10:00:00"
+   }
+  ],
+  "36": [
+   {
+    "id": 106,
+    "problem_id": 36,
+    "status": "solved",
+    "time_minutes": 31,
+    "perceived_difficulty": "easy",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Missed the hash-map trick on the first pass.",
+    "attempt_number": 1,
+    "next_review_at": "2026-09-03T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-07-17T10:00:00"
+   }
+  ],
+  "37": [
+   {
+    "id": 109,
+    "problem_id": 37,
+    "status": "solved",
+    "time_minutes": 18,
+    "perceived_difficulty": "hard",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Off-by-one in the window shrink step.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 16,
+    "created_at": "2026-05-01T10:00:00"
+   }
+  ],
+  "38": [
+   {
+    "id": 112,
+    "problem_id": 38,
+    "status": "attempted",
+    "time_minutes": 31,
+    "perceived_difficulty": "hard",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-08-19T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-06-01T10:00:00"
+   }
+  ],
+  "39": [
+   {
+    "id": 115,
+    "problem_id": 39,
+    "status": "solved",
+    "time_minutes": 25,
+    "perceived_difficulty": "hard",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Off-by-one in the window shrink step.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-07-10T10:00:00"
+   }
+  ],
+  "40": [
+   {
+    "id": 118,
+    "problem_id": 40,
+    "status": "attempted",
+    "time_minutes": 25,
+    "perceived_difficulty": "medium",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Missed the hash-map trick on the first pass.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-19T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-06-19T10:00:00"
+   }
+  ],
+  "41": [
+   {
+    "id": 121,
+    "problem_id": 41,
+    "status": "needs-review",
+    "time_minutes": 40,
+    "perceived_difficulty": "medium",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-08-21T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-07-16T10:00:00"
+   },
+   {
+    "id": 122,
+    "problem_id": 41,
+    "status": "needs-review",
+    "time_minutes": 31,
+    "perceived_difficulty": "hard",
+    "code": null,
+    "language": "python",
+    "notes": "Clean on the retry.",
+    "attempt_number": 2,
+    "next_review_at": "2026-09-03T10:00:00",
+    "review_interval_days": 16,
+    "created_at": "2026-06-24T10:00:00"
+   }
+  ],
+  "42": [
+   {
+    "id": 124,
+    "problem_id": 42,
+    "status": "solved",
+    "time_minutes": 55,
+    "perceived_difficulty": "hard",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Missed the hash-map trick on the first pass.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 16,
+    "created_at": "2026-06-28T10:00:00"
+   }
+  ],
+  "43": [
+   {
+    "id": 127,
+    "problem_id": 43,
+    "status": "solved",
+    "time_minutes": 12,
+    "perceived_difficulty": "medium",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-09-03T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-05-03T10:00:00"
+   }
+  ],
+  "44": [
+   {
+    "id": 130,
+    "problem_id": 44,
+    "status": "solved",
+    "time_minutes": 31,
+    "perceived_difficulty": "medium",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Missed the hash-map trick on the first pass.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-21T10:00:00",
+    "review_interval_days": 16,
+    "created_at": "2026-05-27T10:00:00"
+   }
+  ],
+  "45": [
+   {
+    "id": 133,
+    "problem_id": 45,
+    "status": "solved",
+    "time_minutes": 40,
+    "perceived_difficulty": "medium",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Off-by-one in the window shrink step.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-21T10:00:00",
+    "review_interval_days": 16,
+    "created_at": "2026-05-21T10:00:00"
+   }
+  ],
+  "46": [
+   {
+    "id": 136,
+    "problem_id": 46,
+    "status": "solved",
+    "time_minutes": 40,
+    "perceived_difficulty": "easy",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-08-21T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-06-04T10:00:00"
+   }
+  ],
+  "47": [
+   {
+    "id": 139,
+    "problem_id": 47,
+    "status": "solved",
+    "time_minutes": 12,
+    "perceived_difficulty": "easy",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 16,
+    "created_at": "2026-05-05T10:00:00"
+   }
+  ],
+  "48": [
+   {
+    "id": 142,
+    "problem_id": 48,
+    "status": "attempted",
+    "time_minutes": 31,
+    "perceived_difficulty": "hard",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Clean on the retry.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-19T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-08-09T10:00:00"
+   }
+  ],
+  "49": [
+   {
+    "id": 145,
+    "problem_id": 49,
+    "status": "solved",
+    "time_minutes": 12,
+    "perceived_difficulty": "easy",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-08-21T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-05-02T10:00:00"
+   }
+  ],
+  "50": [
+   {
+    "id": 148,
+    "problem_id": 50,
+    "status": "attempted",
+    "time_minutes": 31,
+    "perceived_difficulty": "easy",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Missed the hash-map trick on the first pass.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-21T10:00:00",
+    "review_interval_days": 16,
+    "created_at": "2026-05-19T10:00:00"
+   }
+  ],
+  "51": [
+   {
+    "id": 151,
+    "problem_id": 51,
+    "status": "solved",
+    "time_minutes": 18,
+    "perceived_difficulty": "easy",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Missed the hash-map trick on the first pass.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-19T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-05-07T10:00:00"
+   }
+  ],
+  "52": [
+   {
+    "id": 154,
+    "problem_id": 52,
+    "status": "solved",
+    "time_minutes": 31,
+    "perceived_difficulty": "hard",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-05-25T10:00:00"
+   }
+  ],
+  "54": [
+   {
+    "id": 157,
+    "problem_id": 54,
+    "status": "attempted",
+    "time_minutes": 40,
+    "perceived_difficulty": "easy",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Clean on the retry.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-21T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-06-05T10:00:00"
+   }
+  ],
+  "55": [
+   {
+    "id": 160,
+    "problem_id": 55,
+    "status": "solved",
+    "time_minutes": 12,
+    "perceived_difficulty": "medium",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Clean on the retry.",
+    "attempt_number": 1,
+    "next_review_at": "2026-09-03T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-06-23T10:00:00"
+   }
+  ],
+  "56": [
+   {
+    "id": 163,
+    "problem_id": 56,
+    "status": "attempted",
+    "time_minutes": 25,
+    "perceived_difficulty": "easy",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Missed the hash-map trick on the first pass.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-05-26T10:00:00"
+   }
+  ],
+  "58": [
+   {
+    "id": 166,
+    "problem_id": 58,
+    "status": "solved",
+    "time_minutes": 55,
+    "perceived_difficulty": "hard",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Off-by-one in the window shrink step.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-21T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-06-06T10:00:00"
+   }
+  ],
+  "60": [
+   {
+    "id": 169,
+    "problem_id": 60,
+    "status": "solved",
+    "time_minutes": 40,
+    "perceived_difficulty": "easy",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Off-by-one in the window shrink step.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-25T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-08-09T10:00:00"
+   }
+  ],
+  "63": [
+   {
+    "id": 172,
+    "problem_id": 63,
+    "status": "solved",
+    "time_minutes": 18,
+    "perceived_difficulty": "medium",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Clean on the retry.",
+    "attempt_number": 1,
+    "next_review_at": "2026-09-03T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-05-06T10:00:00"
+   }
+  ],
+  "65": [
+   {
+    "id": 175,
+    "problem_id": 65,
+    "status": "solved",
+    "time_minutes": 55,
+    "perceived_difficulty": "easy",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Off-by-one in the window shrink step.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-19T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-08-01T10:00:00"
+   }
+  ],
+  "66": [
+   {
+    "id": 178,
+    "problem_id": 66,
+    "status": "attempted",
+    "time_minutes": 12,
+    "perceived_difficulty": "hard",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Clean on the retry.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-21T10:00:00",
+    "review_interval_days": 16,
+    "created_at": "2026-08-06T10:00:00"
+   }
+  ],
+  "67": [
+   {
+    "id": 181,
+    "problem_id": 67,
+    "status": "solved",
+    "time_minutes": 31,
+    "perceived_difficulty": "medium",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-08-19T10:00:00",
+    "review_interval_days": 16,
+    "created_at": "2026-06-19T10:00:00"
+   }
+  ],
+  "68": [
+   {
+    "id": 184,
+    "problem_id": 68,
+    "status": "solved",
+    "time_minutes": 18,
+    "perceived_difficulty": "medium",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Missed the hash-map trick on the first pass.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-19T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-08-11T10:00:00"
+   }
+  ],
+  "69": [
+   {
+    "id": 187,
+    "problem_id": 69,
+    "status": "solved",
+    "time_minutes": 31,
+    "perceived_difficulty": "easy",
+    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "language": "python",
+    "notes": "Missed the hash-map trick on the first pass.",
+    "attempt_number": 1,
+    "next_review_at": "2026-09-03T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-05-24T10:00:00"
+   }
+  ]
+ },
+ "_whiteboard": [
+  {
+   "id": 1,
+   "problem_id": 1,
+   "role": "user",
+   "content": "I got the brute force but it TLEs. Nudge me?",
+   "mode": "hint",
+   "created_at": "2026-08-18T10:00:00"
+  },
+  {
+   "id": 2,
+   "problem_id": 1,
+   "role": "assistant",
+   "content": "Your inner loop is re-searching for a value you have already walked past. What would you need to have written down to answer \"have I seen target - n before?\" in one step?",
+   "mode": "hint",
+   "created_at": "2026-08-18T10:00:00"
+  },
+  {
+   "id": 3,
+   "problem_id": 1,
+   "role": "user",
+   "content": "A dict of value -> index.",
+   "mode": "hint",
+   "created_at": "2026-08-18T10:00:00"
+  },
+  {
+   "id": 4,
+   "problem_id": 1,
+   "role": "assistant",
+   "content": "Right. Now the ordering question: do you insert before or after you check? Try both on [3, 3] and target 6 and see which one survives.",
+   "mode": "hint",
+   "created_at": "2026-08-18T10:00:00"
+  }
+ ]
+}

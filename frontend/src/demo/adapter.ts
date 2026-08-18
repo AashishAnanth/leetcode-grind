@@ -57,8 +57,12 @@ function lookup(url: string): unknown | undefined {
     return TABLE._logs[m[1]] ?? [];
   }
   if ((m = path.match(/^\/whiteboard\/(\d+)\/messages$/))) {
-    // One worked conversation, shown on whichever problem you open.
-    return (TABLE._whiteboard as any[]).map((x) => ({ ...x, problem_id: Number(m![1]) }));
+    // Conversations are stored per problem. The first version kept one two-sum
+    // chat and stamped it onto whatever problem you opened, so every problem
+    // showed the same discussion — the clearest possible tell that the data
+    // was fabricated. Problems without a saved conversation return empty,
+    // which is also what a real log looks like.
+    return TABLE._whiteboard[m[1]] ?? [];
   }
   if ((m = path.match(/^\/vault\/(.+)$/))) {
     const pattern = decodeURIComponent(m[1]);

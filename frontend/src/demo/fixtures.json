@@ -20,7 +20,7 @@
    "slug": "contains-duplicate",
    "difficulty": "easy",
    "pattern": "Arrays & Hashing",
-   "status": "needs-review",
+   "status": "solved",
    "leetcode_number": 217,
    "concepts": [
     "hash set"
@@ -33,7 +33,7 @@
    "slug": "valid-anagram",
    "difficulty": "easy",
    "pattern": "Arrays & Hashing",
-   "status": "needs-review",
+   "status": "solved",
    "leetcode_number": 242,
    "concepts": [
     "hash map",
@@ -47,7 +47,7 @@
    "slug": "two-sum",
    "difficulty": "easy",
    "pattern": "Arrays & Hashing",
-   "status": "attempted",
+   "status": "solved",
    "leetcode_number": 1,
    "concepts": [
     "hash map"
@@ -60,7 +60,7 @@
    "slug": "longest-common-prefix",
    "difficulty": "easy",
    "pattern": "Arrays & Hashing",
-   "status": "needs-review",
+   "status": "solved",
    "leetcode_number": 14,
    "concepts": [
     "string",
@@ -74,7 +74,7 @@
    "slug": "group-anagrams",
    "difficulty": "medium",
    "pattern": "Arrays & Hashing",
-   "status": "attempted",
+   "status": "solved",
    "leetcode_number": 49,
    "concepts": [
     "hash map",
@@ -116,7 +116,7 @@
    "slug": "design-hashset",
    "difficulty": "easy",
    "pattern": "Arrays & Hashing",
-   "status": "attempted",
+   "status": "solved",
    "leetcode_number": 705,
    "concepts": [
     "hash set",
@@ -146,7 +146,7 @@
    "slug": "sort-an-array",
    "difficulty": "medium",
    "pattern": "Arrays & Hashing",
-   "status": "attempted",
+   "status": "solved",
    "leetcode_number": 912,
    "concepts": [
     "merge sort",
@@ -218,7 +218,7 @@
    "slug": "product-of-array-except-self",
    "difficulty": "medium",
    "pattern": "Arrays & Hashing",
-   "status": "solved",
+   "status": "needs-review",
    "leetcode_number": 238,
    "concepts": [
     "prefix sum",
@@ -259,7 +259,7 @@
    "slug": "best-time-to-buy-and-sell-stock-ii",
    "difficulty": "medium",
    "pattern": "Arrays & Hashing",
-   "status": "solved",
+   "status": "needs-review",
    "leetcode_number": 122,
    "concepts": [
     "greedy",
@@ -273,7 +273,7 @@
    "slug": "majority-element-ii",
    "difficulty": "medium",
    "pattern": "Arrays & Hashing",
-   "status": "attempted",
+   "status": "solved",
    "leetcode_number": 229,
    "concepts": [
     "Boyer-Moore voting",
@@ -287,7 +287,7 @@
    "slug": "subarray-sum-equals-k",
    "difficulty": "medium",
    "pattern": "Arrays & Hashing",
-   "status": "needs-review",
+   "status": "solved",
    "leetcode_number": 560,
    "concepts": [
     "prefix sum",
@@ -315,7 +315,7 @@
    "slug": "reverse-string",
    "difficulty": "easy",
    "pattern": "Two Pointers",
-   "status": "needs-review",
+   "status": "solved",
    "leetcode_number": 344,
    "concepts": [
     "two pointers",
@@ -329,7 +329,7 @@
    "slug": "valid-palindrome",
    "difficulty": "easy",
    "pattern": "Two Pointers",
-   "status": "solved",
+   "status": "needs-review",
    "leetcode_number": 125,
    "concepts": [
     "two pointers",
@@ -385,7 +385,7 @@
    "slug": "remove-duplicates-from-sorted-array",
    "difficulty": "easy",
    "pattern": "Two Pointers",
-   "status": "needs-review",
+   "status": "solved",
    "leetcode_number": 26,
    "concepts": [
     "two pointers"
@@ -398,7 +398,7 @@
    "slug": "two-sum-ii-input-array-is-sorted",
    "difficulty": "medium",
    "pattern": "Two Pointers",
-   "status": "solved",
+   "status": "needs-review",
    "leetcode_number": 167,
    "concepts": [
     "two pointers",
@@ -426,7 +426,7 @@
    "slug": "4sum",
    "difficulty": "medium",
    "pattern": "Two Pointers",
-   "status": "attempted",
+   "status": "solved",
    "leetcode_number": 18,
    "concepts": [
     "two pointers",
@@ -440,7 +440,7 @@
    "slug": "rotate-array",
    "difficulty": "medium",
    "pattern": "Two Pointers",
-   "status": "needs-review",
+   "status": "solved",
    "leetcode_number": 189,
    "concepts": [
     "array",
@@ -468,7 +468,7 @@
    "slug": "boats-to-save-people",
    "difficulty": "medium",
    "pattern": "Two Pointers",
-   "status": "attempted",
+   "status": "needs-review",
    "leetcode_number": 881,
    "concepts": [
     "two pointers",
@@ -512,7 +512,7 @@
    "slug": "best-time-to-buy-and-sell-stock",
    "difficulty": "easy",
    "pattern": "Sliding Window",
-   "status": "solved",
+   "status": "needs-review",
    "leetcode_number": 121,
    "concepts": [
     "sliding window",
@@ -526,7 +526,7 @@
    "slug": "longest-substring-without-repeating-characters",
    "difficulty": "medium",
    "pattern": "Sliding Window",
-   "status": "attempted",
+   "status": "solved",
    "leetcode_number": 3,
    "concepts": [
     "sliding window",
@@ -554,7 +554,7 @@
    "slug": "permutation-in-string",
    "difficulty": "medium",
    "pattern": "Sliding Window",
-   "status": "attempted",
+   "status": "solved",
    "leetcode_number": 567,
    "concepts": [
     "sliding window",
@@ -568,7 +568,7 @@
    "slug": "minimum-size-subarray-sum",
    "difficulty": "medium",
    "pattern": "Sliding Window",
-   "status": "needs-review",
+   "status": "solved",
    "leetcode_number": 209,
    "concepts": [
     "sliding window",
@@ -666,7 +666,7 @@
    "slug": "implement-queue-using-stacks",
    "difficulty": "easy",
    "pattern": "Stack",
-   "status": "attempted",
+   "status": "solved",
    "leetcode_number": 232,
    "concepts": [
     "queue",
@@ -695,7 +695,7 @@
    "slug": "evaluate-reverse-polish-notation",
    "difficulty": "medium",
    "pattern": "Stack",
-   "status": "attempted",
+   "status": "solved",
    "leetcode_number": 150,
    "concepts": [
     "stack"
@@ -708,7 +708,7 @@
    "slug": "asteroid-collision",
    "difficulty": "medium",
    "pattern": "Stack",
-   "status": "solved",
+   "status": "needs-review",
    "leetcode_number": 735,
    "concepts": [
     "stack",
@@ -722,7 +722,7 @@
    "slug": "daily-temperatures",
    "difficulty": "medium",
    "pattern": "Stack",
-   "status": "solved",
+   "status": "needs-review",
    "leetcode_number": 739,
    "concepts": [
     "monotonic stack"
@@ -735,7 +735,7 @@
    "slug": "online-stock-span",
    "difficulty": "medium",
    "pattern": "Stack",
-   "status": "todo",
+   "status": "needs-review",
    "leetcode_number": 901,
    "concepts": [
     "monotonic stack",
@@ -749,7 +749,7 @@
    "slug": "car-fleet",
    "difficulty": "medium",
    "pattern": "Stack",
-   "status": "attempted",
+   "status": "solved",
    "leetcode_number": 853,
    "concepts": [
     "monotonic stack",
@@ -777,7 +777,7 @@
    "slug": "decode-string",
    "difficulty": "medium",
    "pattern": "Stack",
-   "status": "attempted",
+   "status": "solved",
    "leetcode_number": 394,
    "concepts": [
     "stack",
@@ -792,7 +792,7 @@
    "slug": "maximum-frequency-stack",
    "difficulty": "hard",
    "pattern": "Stack",
-   "status": "todo",
+   "status": "solved",
    "leetcode_number": 895,
    "concepts": [
     "stack",
@@ -820,7 +820,7 @@
    "slug": "binary-search",
    "difficulty": "easy",
    "pattern": "Binary Search",
-   "status": "todo",
+   "status": "solved",
    "leetcode_number": 704,
    "concepts": [
     "binary search"
@@ -846,7 +846,7 @@
    "slug": "guess-number-higher-or-lower",
    "difficulty": "easy",
    "pattern": "Binary Search",
-   "status": "todo",
+   "status": "solved",
    "leetcode_number": 374,
    "concepts": [
     "binary search"
@@ -859,7 +859,7 @@
    "slug": "sqrtx",
    "difficulty": "easy",
    "pattern": "Binary Search",
-   "status": "todo",
+   "status": "needs-review",
    "leetcode_number": 69,
    "concepts": [
     "binary search",
@@ -887,7 +887,7 @@
    "slug": "koko-eating-bananas",
    "difficulty": "medium",
    "pattern": "Binary Search",
-   "status": "todo",
+   "status": "solved",
    "leetcode_number": 875,
    "concepts": [
     "binary search"
@@ -913,7 +913,7 @@
    "slug": "find-minimum-in-rotated-sorted-array",
    "difficulty": "medium",
    "pattern": "Binary Search",
-   "status": "attempted",
+   "status": "solved",
    "leetcode_number": 153,
    "concepts": [
     "binary search"
@@ -926,7 +926,7 @@
    "slug": "search-in-rotated-sorted-array",
    "difficulty": "medium",
    "pattern": "Binary Search",
-   "status": "solved",
+   "status": "attempted",
    "leetcode_number": 33,
    "concepts": [
     "binary search"
@@ -939,7 +939,7 @@
    "slug": "search-in-rotated-sorted-array-ii",
    "difficulty": "medium",
    "pattern": "Binary Search",
-   "status": "solved",
+   "status": "needs-review",
    "leetcode_number": 81,
    "concepts": [
     "binary search"
@@ -952,7 +952,7 @@
    "slug": "time-based-key-value-store",
    "difficulty": "medium",
    "pattern": "Binary Search",
-   "status": "solved",
+   "status": "attempted",
    "leetcode_number": 981,
    "concepts": [
     "binary search",
@@ -967,7 +967,7 @@
    "slug": "split-array-largest-sum",
    "difficulty": "hard",
    "pattern": "Binary Search",
-   "status": "todo",
+   "status": "solved",
    "leetcode_number": 410,
    "concepts": [
     "binary search",
@@ -981,7 +981,7 @@
    "slug": "median-of-two-sorted-arrays",
    "difficulty": "hard",
    "pattern": "Binary Search",
-   "status": "todo",
+   "status": "needs-review",
    "leetcode_number": 4,
    "concepts": [
     "binary search",
@@ -995,7 +995,7 @@
    "slug": "find-in-mountain-array",
    "difficulty": "hard",
    "pattern": "Binary Search",
-   "status": "todo",
+   "status": "attempted",
    "leetcode_number": 1095,
    "concepts": [
     "binary search"
@@ -1008,7 +1008,7 @@
    "slug": "reverse-linked-list",
    "difficulty": "easy",
    "pattern": "Linked List",
-   "status": "todo",
+   "status": "needs-review",
    "leetcode_number": 206,
    "concepts": [
     "linked list"
@@ -1021,7 +1021,7 @@
    "slug": "merge-two-sorted-lists",
    "difficulty": "easy",
    "pattern": "Linked List",
-   "status": "todo",
+   "status": "attempted",
    "leetcode_number": 21,
    "concepts": [
     "linked list"
@@ -1034,7 +1034,7 @@
    "slug": "linked-list-cycle",
    "difficulty": "easy",
    "pattern": "Linked List",
-   "status": "todo",
+   "status": "needs-review",
    "leetcode_number": 141,
    "concepts": [
     "linked list",
@@ -1048,7 +1048,7 @@
    "slug": "reorder-list",
    "difficulty": "medium",
    "pattern": "Linked List",
-   "status": "todo",
+   "status": "solved",
    "leetcode_number": 143,
    "concepts": [
     "linked list",
@@ -1062,7 +1062,7 @@
    "slug": "remove-nth-node-from-end-of-list",
    "difficulty": "medium",
    "pattern": "Linked List",
-   "status": "todo",
+   "status": "solved",
    "leetcode_number": 19,
    "concepts": [
     "linked list",
@@ -1076,7 +1076,7 @@
    "slug": "copy-list-with-random-pointer",
    "difficulty": "medium",
    "pattern": "Linked List",
-   "status": "todo",
+   "status": "attempted",
    "leetcode_number": 138,
    "concepts": [
     "linked list",
@@ -1090,7 +1090,7 @@
    "slug": "add-two-numbers",
    "difficulty": "medium",
    "pattern": "Linked List",
-   "status": "todo",
+   "status": "attempted",
    "leetcode_number": 2,
    "concepts": [
     "linked list",
@@ -1104,7 +1104,7 @@
    "slug": "find-the-duplicate-number",
    "difficulty": "medium",
    "pattern": "Linked List",
-   "status": "todo",
+   "status": "attempted",
    "leetcode_number": 287,
    "concepts": [
     "fast and slow pointers",
@@ -1118,7 +1118,7 @@
    "slug": "reverse-linked-list-ii",
    "difficulty": "medium",
    "pattern": "Linked List",
-   "status": "todo",
+   "status": "attempted",
    "leetcode_number": 92,
    "concepts": [
     "linked list"
@@ -1161,7 +1161,7 @@
    "slug": "lfu-cache",
    "difficulty": "hard",
    "pattern": "Linked List",
-   "status": "todo",
+   "status": "attempted",
    "leetcode_number": 460,
    "concepts": [
     "doubly linked list",
@@ -3547,114 +3547,84 @@
   "daily_target": 3,
   "reviews": [
    {
-    "id": 2,
-    "neetcode_order": 2,
-    "title": "Contains Duplicate",
-    "slug": "contains-duplicate",
-    "difficulty": "easy",
-    "pattern": "Arrays & Hashing",
-    "status": "needs-review",
-    "leetcode_number": 217,
+    "id": 78,
+    "neetcode_order": 78,
+    "title": "Copy List with Random Pointer",
+    "slug": "copy-list-with-random-pointer",
+    "difficulty": "medium",
+    "pattern": "Linked List",
+    "status": "attempted",
+    "leetcode_number": 138,
     "concepts": [
-     "hash set"
+     "linked list",
+     "hash map"
     ],
     "completed": false
    },
    {
-    "id": 3,
-    "neetcode_order": 3,
-    "title": "Valid Anagram",
-    "slug": "valid-anagram",
-    "difficulty": "easy",
-    "pattern": "Arrays & Hashing",
+    "id": 52,
+    "neetcode_order": 52,
+    "title": "Daily Temperatures",
+    "slug": "daily-temperatures",
+    "difficulty": "medium",
+    "pattern": "Stack",
     "status": "needs-review",
-    "leetcode_number": 242,
+    "leetcode_number": 739,
     "concepts": [
-     "hash map",
-     "sorting"
+     "monotonic stack"
     ],
     "completed": false
    },
    {
-    "id": 5,
-    "neetcode_order": 5,
-    "title": "Longest Common Prefix",
-    "slug": "longest-common-prefix",
-    "difficulty": "easy",
-    "pattern": "Arrays & Hashing",
-    "status": "needs-review",
-    "leetcode_number": 14,
+    "id": 67,
+    "neetcode_order": 67,
+    "title": "Search in Rotated Sorted Array",
+    "slug": "search-in-rotated-sorted-array",
+    "difficulty": "medium",
+    "pattern": "Binary Search",
+    "status": "attempted",
+    "leetcode_number": 33,
     "concepts": [
-     "string",
-     "sorting"
+     "binary search"
     ],
     "completed": false
    }
   ],
   "new_problems": [
    {
-    "id": 53,
-    "neetcode_order": 53,
-    "title": "Online Stock Span",
-    "slug": "online-stock-span",
+    "id": 82,
+    "neetcode_order": 82,
+    "title": "Design Circular Queue",
+    "slug": "design-circular-queue",
     "difficulty": "medium",
-    "pattern": "Stack",
+    "pattern": "Linked List",
     "status": "todo",
-    "leetcode_number": 901,
+    "leetcode_number": 622,
     "concepts": [
-     "monotonic stack",
+     "linked list",
+     "array",
      "design"
     ],
     "completed": false
    },
    {
-    "id": 57,
-    "neetcode_order": 57,
-    "title": "Maximum Frequency Stack",
-    "slug": "maximum-frequency-stack",
-    "difficulty": "hard",
-    "pattern": "Stack",
+    "id": 83,
+    "neetcode_order": 83,
+    "title": "LRU Cache",
+    "slug": "lru-cache",
+    "difficulty": "medium",
+    "pattern": "Linked List",
     "status": "todo",
-    "leetcode_number": 895,
+    "leetcode_number": 146,
     "concepts": [
-     "stack",
+     "doubly linked list",
      "hash map",
      "design"
     ],
     "completed": false
    }
   ],
-  "completed": [
-   {
-    "id": 1,
-    "neetcode_order": 1,
-    "title": "Concatenation of Array",
-    "slug": "concatenation-of-array",
-    "difficulty": "easy",
-    "pattern": "Arrays & Hashing",
-    "status": "solved",
-    "leetcode_number": 1929,
-    "concepts": [
-     "array"
-    ],
-    "completed": true
-   },
-   {
-    "id": 7,
-    "neetcode_order": 7,
-    "title": "Remove Element",
-    "slug": "remove-element",
-    "difficulty": "easy",
-    "pattern": "Arrays & Hashing",
-    "status": "solved",
-    "leetcode_number": 27,
-    "concepts": [
-     "array",
-     "two pointers"
-    ],
-    "completed": true
-   }
-  ]
+  "completed": []
  },
  "GET /schedule/config": {
   "id": 1,
@@ -3670,121 +3640,151 @@
    "fri",
    "sun"
   ],
-  "updated_at": "2026-08-18T10:00:00"
+  "updated_at": "2026-08-06T10:00:00"
  },
  "GET /schedule/stats": {
   "activity": {
-   "2026-08-18": 2,
-   "2026-08-17": 3,
-   "2026-08-16": 2,
-   "2026-08-14": 2,
-   "2026-08-13": 4,
-   "2026-08-12": 2,
-   "2026-08-11": 3,
-   "2026-08-10": 1,
-   "2026-08-09": 2,
-   "2026-08-04": 2,
-   "2026-08-03": 2,
-   "2026-07-31": 3,
-   "2026-07-30": 2,
-   "2026-07-29": 1,
-   "2026-07-27": 1,
-   "2026-07-26": 2,
-   "2026-07-25": 3,
-   "2026-07-24": 2,
-   "2026-07-23": 2,
-   "2026-07-22": 1,
-   "2026-07-21": 1,
-   "2026-07-20": 2,
-   "2026-07-19": 1,
-   "2026-07-18": 2,
-   "2026-07-17": 1,
-   "2026-07-15": 2,
-   "2026-07-14": 1,
-   "2026-07-13": 1,
-   "2026-07-11": 4,
-   "2026-07-09": 4,
-   "2026-07-08": 2,
-   "2026-07-06": 1,
-   "2026-07-05": 4,
-   "2026-07-03": 1,
-   "2026-07-02": 1,
-   "2026-07-01": 2,
-   "2026-06-30": 2,
-   "2026-06-27": 1,
-   "2026-06-25": 3,
-   "2026-06-24": 1,
-   "2026-06-23": 1,
-   "2026-06-22": 2,
-   "2026-06-19": 4,
-   "2026-06-17": 1,
-   "2026-06-15": 2,
-   "2026-06-14": 1,
-   "2026-06-13": 1,
-   "2026-06-11": 2,
-   "2026-06-08": 1,
-   "2026-06-04": 3,
-   "2026-06-02": 2,
-   "2026-06-01": 2,
-   "2026-05-31": 1,
-   "2026-05-30": 2,
-   "2026-05-29": 1,
-   "2026-05-28": 1,
-   "2026-05-27": 1,
-   "2026-05-26": 2,
-   "2026-05-25": 2,
-   "2026-05-22": 4,
-   "2026-05-20": 3,
-   "2026-05-19": 2,
-   "2026-05-17": 1,
-   "2026-05-16": 2,
-   "2026-05-15": 1,
-   "2026-05-14": 2,
-   "2026-05-13": 3,
-   "2026-05-11": 1,
-   "2026-05-10": 2,
-   "2026-05-08": 1,
-   "2026-05-07": 4,
-   "2026-05-06": 1,
-   "2026-05-05": 2,
-   "2026-05-04": 2,
-   "2026-05-01": 4,
-   "2026-04-30": 1,
-   "2026-04-28": 3,
-   "2026-04-25": 2,
-   "2026-04-24": 3,
+   "2026-03-25": 1,
+   "2026-03-27": 3,
+   "2026-03-28": 1,
+   "2026-04-02": 2,
+   "2026-04-04": 1,
+   "2026-04-05": 2,
+   "2026-04-06": 1,
+   "2026-04-07": 2,
+   "2026-04-09": 2,
+   "2026-04-11": 1,
+   "2026-04-12": 2,
+   "2026-04-13": 1,
+   "2026-04-14": 1,
+   "2026-04-15": 1,
+   "2026-04-16": 1,
+   "2026-04-18": 1,
+   "2026-04-19": 3,
+   "2026-04-20": 1,
    "2026-04-22": 1,
-   "2026-04-21": 2
+   "2026-04-26": 2,
+   "2026-04-27": 1,
+   "2026-04-29": 2,
+   "2026-05-04": 1,
+   "2026-05-05": 1,
+   "2026-05-07": 3,
+   "2026-05-08": 1,
+   "2026-05-10": 1,
+   "2026-05-11": 1,
+   "2026-05-13": 1,
+   "2026-05-14": 2,
+   "2026-05-15": 1,
+   "2026-05-17": 1,
+   "2026-05-21": 1,
+   "2026-05-22": 3,
+   "2026-05-23": 2,
+   "2026-05-25": 1,
+   "2026-05-27": 1,
+   "2026-05-28": 2,
+   "2026-05-30": 2,
+   "2026-05-31": 1,
+   "2026-06-01": 3,
+   "2026-06-02": 3,
+   "2026-06-03": 1,
+   "2026-06-04": 3,
+   "2026-06-05": 1,
+   "2026-06-07": 1,
+   "2026-06-08": 2,
+   "2026-06-10": 1,
+   "2026-06-12": 1,
+   "2026-06-13": 2,
+   "2026-06-14": 1,
+   "2026-06-15": 2,
+   "2026-06-16": 2,
+   "2026-06-21": 2,
+   "2026-06-22": 1,
+   "2026-06-23": 1,
+   "2026-06-25": 2,
+   "2026-06-26": 1,
+   "2026-06-28": 1,
+   "2026-06-30": 3,
+   "2026-07-01": 1,
+   "2026-07-05": 2,
+   "2026-07-06": 1,
+   "2026-07-12": 1,
+   "2026-07-13": 2,
+   "2026-07-14": 1,
+   "2026-07-22": 1,
+   "2026-07-25": 1,
+   "2026-07-27": 1,
+   "2026-07-30": 1,
+   "2026-07-31": 1,
+   "2026-08-01": 2,
+   "2026-08-02": 1,
+   "2026-08-03": 1,
+   "2026-08-04": 1,
+   "2026-08-07": 1,
+   "2026-08-08": 2,
+   "2026-08-09": 1,
+   "2026-08-10": 3,
+   "2026-08-11": 3,
+   "2026-08-12": 1,
+   "2026-08-13": 3,
+   "2026-08-14": 3,
+   "2026-08-15": 2,
+   "2026-08-16": 1,
+   "2026-08-17": 2,
+   "2026-08-18": 1
   },
-  "streak": 9
+  "streak": 12
  },
  "GET /vault": [
   {
    "pattern": "Arrays & Hashing",
-   "content": "# Arrays & Hashing\n\n**When**: you need O(1) membership or a count keyed by value.\n\n**Tell**: the brute force is a nested loop comparing every pair.\n\n**Move**: trade space for time \u2014 one pass building a dict, one pass querying it. For \"two things summing to X\", store the complement, not the value.\n\n**Traps**: mutating the dict while iterating; forgetting duplicates collapse keys.",
-   "updated_at": "2026-08-15T10:00:00"
+   "content": "# Arrays & Hashing\n\n**When**: you need O(1) membership, or a count keyed by value.\n\n**Tell**: the brute force is a nested loop comparing every pair.\n\n**Move**: trade space for time \u2014 one pass building a dict, one pass querying it. For \"two things summing to X\", store the *complement*, not the value.\n\n**Traps**\n- Mutating the dict while iterating it.\n- Duplicates collapse keys \u2014 if you need every index, store a list.\n- `Counter` subtraction drops non-positive counts silently.\n\n**Bucket sort escape hatch**: when the question is top-k by frequency, frequency is bounded by n, so you can bucket by count and read down. O(n) instead of O(n log n).",
+   "updated_at": "2026-07-24T10:00:00"
   },
   {
    "pattern": "Two Pointers",
-   "content": "# Two Pointers\n\n**When**: sorted input, or a palindrome/partition question.\n\n**Tell**: you want a pair or a triple and the array can be sorted without losing the answer.\n\n**Move**: left at 0, right at n-1, move the pointer that can improve the sum.\n\n**Traps**: skipping duplicates in 3Sum \u2014 advance *past* the whole run, not by one.",
-   "updated_at": "2026-08-15T10:00:00"
+   "content": "# Two Pointers\n\n**When**: sorted input, or a palindrome / partition question.\n\n**Tell**: you want a pair or a triple, and sorting doesn't destroy the answer.\n\n**Move**: `l = 0`, `r = n-1`, move whichever pointer can improve the sum.\n\n**Traps**\n- 3Sum duplicates: advance past the *whole run*, not by one. This cost me two attempts.\n- Don't sort when the question needs original indices.",
+   "updated_at": "2026-07-30T10:00:00"
   },
   {
    "pattern": "Sliding Window",
-   "content": "# Sliding Window\n\n**When**: contiguous subarray or substring, with a constraint.\n\n**Tell**: \"longest/shortest ... such that ...\".\n\n**Move**: grow right unconditionally, shrink left while the constraint is violated, record the answer after shrinking.\n\n**Traps**: recording the answer before restoring the invariant.",
-   "updated_at": "2026-08-15T10:00:00"
+   "content": "# Sliding Window\n\n**When**: contiguous subarray or substring with a constraint.\n\n**Tell**: \"longest / shortest ... such that ...\".\n\n**Move**: grow `r` unconditionally; shrink `l` while the constraint is violated; record the answer *after* restoring the invariant.\n\n**Traps**\n- Recording before shrinking. This is the bug I keep writing.\n- For \"longest with \u2264 k replacements\", you don't need to decrement maxf \u2014 the window never shrinks below its best.",
+   "updated_at": "2026-07-21T10:00:00"
+  },
+  {
+   "pattern": "Stack",
+   "content": "# Stack\n\n**When**: matching pairs, or you need the most recent unresolved thing.\n\n**Tell**: nesting, or \"next greater element\".\n\n**Move**: push unresolved items; pop when the current item resolves them. For monotonic stacks, pop while the invariant breaks and the popped element's answer is the current one.\n\n**Traps**: forgetting to check the stack is non-empty before popping.",
+   "updated_at": "2026-07-27T10:00:00"
   },
   {
    "pattern": "Binary Search",
-   "content": "# Binary Search\n\n**When**: monotonic predicate, not just a sorted array.\n\n**Move**: define `ok(x)` that is false then true; find the first true. `lo=0, hi=n`, `while lo<hi`, `mid=(lo+hi)//2`, never `mid-1` on the true branch.\n\n**Traps**: overflow is irrelevant in Python; the real bug is an inclusive/exclusive `hi` mismatch.",
-   "updated_at": "2026-08-15T10:00:00"
+   "content": "# Binary Search\n\n**When**: a *monotonic predicate*, not just a sorted array.\n\n**Move**: define `ok(x)` that is false then true, and find the first true. `lo, hi = 0, n`; `while lo < hi`; `mid = (lo + hi) // 2`; never `hi = mid - 1` on the true branch.\n\n**Traps**\n- Inclusive vs exclusive `hi` mismatch \u2014 the actual source of every off-by-one here.\n- Rotated array: compare `nums[mid]` to `nums[hi]`, not to `nums[lo]`.\n- Overflow is irrelevant in Python. Don't cargo-cult `lo + (hi-lo)//2`.",
+   "updated_at": "2026-08-09T10:00:00"
+  },
+  {
+   "pattern": "Linked List",
+   "content": "# Linked List\n\n**When**: obviously. The real question is which of three tricks.\n\n**Move**\n- Reverse: `prev`, walk forward, relink. Python tuple assignment does it in one line.\n- Cycle: fast/slow. They meet iff there's a cycle.\n- Middle / nth-from-end: two pointers offset by n.\n\n**Traps**: dummy head saves you every time you might delete the first node.",
+   "updated_at": "2026-08-04T10:00:00"
+  },
+  {
+   "pattern": "Trees",
+   "content": "# Trees\n\n**When**: recursion is almost always the answer; the question is what to return up.\n\n**Move**: decide what each call returns to its parent *before* writing it. Height? Validity plus range? Both subtree answers?\n\n**Traps**\n- Validate BST with a (low, high) range, not by comparing to the immediate parent.\n- Iterative in-order needs an explicit stack; know it for the follow-up.",
+   "updated_at": "2026-07-26T10:00:00"
+  },
+  {
+   "pattern": "1-D Dynamic Programming",
+   "content": "# 1-D Dynamic Programming\n\n**When**: overlapping subproblems on a line \u2014 indices, amounts, steps.\n\n**Move**: write the recurrence in words first. Then memoise top-down. Convert to bottom-up only if you need the space win.\n\n**Traps**\n- Off-by-one in the base case is most of the pain.\n- House Robber style: the choice is *skip or take*, and taking constrains i-2, not i-1.",
+   "updated_at": "2026-07-29T10:00:00"
   }
  ],
  "_vault": {
-  "Arrays & Hashing": "# Arrays & Hashing\n\n**When**: you need O(1) membership or a count keyed by value.\n\n**Tell**: the brute force is a nested loop comparing every pair.\n\n**Move**: trade space for time \u2014 one pass building a dict, one pass querying it. For \"two things summing to X\", store the complement, not the value.\n\n**Traps**: mutating the dict while iterating; forgetting duplicates collapse keys.",
-  "Two Pointers": "# Two Pointers\n\n**When**: sorted input, or a palindrome/partition question.\n\n**Tell**: you want a pair or a triple and the array can be sorted without losing the answer.\n\n**Move**: left at 0, right at n-1, move the pointer that can improve the sum.\n\n**Traps**: skipping duplicates in 3Sum \u2014 advance *past* the whole run, not by one.",
-  "Sliding Window": "# Sliding Window\n\n**When**: contiguous subarray or substring, with a constraint.\n\n**Tell**: \"longest/shortest ... such that ...\".\n\n**Move**: grow right unconditionally, shrink left while the constraint is violated, record the answer after shrinking.\n\n**Traps**: recording the answer before restoring the invariant.",
-  "Binary Search": "# Binary Search\n\n**When**: monotonic predicate, not just a sorted array.\n\n**Move**: define `ok(x)` that is false then true; find the first true. `lo=0, hi=n`, `while lo<hi`, `mid=(lo+hi)//2`, never `mid-1` on the true branch.\n\n**Traps**: overflow is irrelevant in Python; the real bug is an inclusive/exclusive `hi` mismatch."
+  "Arrays & Hashing": "# Arrays & Hashing\n\n**When**: you need O(1) membership, or a count keyed by value.\n\n**Tell**: the brute force is a nested loop comparing every pair.\n\n**Move**: trade space for time \u2014 one pass building a dict, one pass querying it. For \"two things summing to X\", store the *complement*, not the value.\n\n**Traps**\n- Mutating the dict while iterating it.\n- Duplicates collapse keys \u2014 if you need every index, store a list.\n- `Counter` subtraction drops non-positive counts silently.\n\n**Bucket sort escape hatch**: when the question is top-k by frequency, frequency is bounded by n, so you can bucket by count and read down. O(n) instead of O(n log n).",
+  "Two Pointers": "# Two Pointers\n\n**When**: sorted input, or a palindrome / partition question.\n\n**Tell**: you want a pair or a triple, and sorting doesn't destroy the answer.\n\n**Move**: `l = 0`, `r = n-1`, move whichever pointer can improve the sum.\n\n**Traps**\n- 3Sum duplicates: advance past the *whole run*, not by one. This cost me two attempts.\n- Don't sort when the question needs original indices.",
+  "Sliding Window": "# Sliding Window\n\n**When**: contiguous subarray or substring with a constraint.\n\n**Tell**: \"longest / shortest ... such that ...\".\n\n**Move**: grow `r` unconditionally; shrink `l` while the constraint is violated; record the answer *after* restoring the invariant.\n\n**Traps**\n- Recording before shrinking. This is the bug I keep writing.\n- For \"longest with \u2264 k replacements\", you don't need to decrement maxf \u2014 the window never shrinks below its best.",
+  "Stack": "# Stack\n\n**When**: matching pairs, or you need the most recent unresolved thing.\n\n**Tell**: nesting, or \"next greater element\".\n\n**Move**: push unresolved items; pop when the current item resolves them. For monotonic stacks, pop while the invariant breaks and the popped element's answer is the current one.\n\n**Traps**: forgetting to check the stack is non-empty before popping.",
+  "Binary Search": "# Binary Search\n\n**When**: a *monotonic predicate*, not just a sorted array.\n\n**Move**: define `ok(x)` that is false then true, and find the first true. `lo, hi = 0, n`; `while lo < hi`; `mid = (lo + hi) // 2`; never `hi = mid - 1` on the true branch.\n\n**Traps**\n- Inclusive vs exclusive `hi` mismatch \u2014 the actual source of every off-by-one here.\n- Rotated array: compare `nums[mid]` to `nums[hi]`, not to `nums[lo]`.\n- Overflow is irrelevant in Python. Don't cargo-cult `lo + (hi-lo)//2`.",
+  "Linked List": "# Linked List\n\n**When**: obviously. The real question is which of three tricks.\n\n**Move**\n- Reverse: `prev`, walk forward, relink. Python tuple assignment does it in one line.\n- Cycle: fast/slow. They meet iff there's a cycle.\n- Middle / nth-from-end: two pointers offset by n.\n\n**Traps**: dummy head saves you every time you might delete the first node.",
+  "Trees": "# Trees\n\n**When**: recursion is almost always the answer; the question is what to return up.\n\n**Move**: decide what each call returns to its parent *before* writing it. Height? Validity plus range? Both subtree answers?\n\n**Traps**\n- Validate BST with a (low, high) range, not by comparing to the immediate parent.\n- Iterative in-order needs an explicit stack; know it for the follow-up.",
+  "1-D Dynamic Programming": "# 1-D Dynamic Programming\n\n**When**: overlapping subproblems on a line \u2014 indices, amounts, steps.\n\n**Move**: write the recurrence in words first. Then memoise top-down. Convert to bottom-up only if you need the space win.\n\n**Traps**\n- Off-by-one in the base case is most of the pain.\n- House Robber style: the choice is *skip or take*, and taking constrains i-2, not i-1."
  },
  "_logs": {
   "1": [
@@ -3792,1154 +3792,1964 @@
     "id": 1,
     "problem_id": 1,
     "status": "solved",
-    "time_minutes": 12,
+    "time_minutes": 23,
     "perceived_difficulty": "easy",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "code": null,
     "language": "python",
-    "notes": "Clean on the retry.",
+    "notes": "Clean on the retry \u2014 the pattern was obvious once I'd seen it twice.",
     "attempt_number": 1,
-    "next_review_at": "2026-08-25T10:00:00",
-    "review_interval_days": 7,
-    "created_at": "2026-07-23T10:00:00"
+    "next_review_at": "2026-06-05T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-06-02T22:00:00"
    }
   ],
   "2": [
    {
-    "id": 4,
+    "id": 2,
     "problem_id": 2,
-    "status": "needs-review",
-    "time_minutes": 25,
-    "perceived_difficulty": "medium",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "status": "solved",
+    "time_minutes": 16,
+    "perceived_difficulty": "easy",
+    "code": "class Solution:\n    def hasDuplicate(self, nums: List[int]) -> bool:\n        return len(set(nums)) < len(nums)",
     "language": "python",
     "notes": null,
     "attempt_number": 1,
-    "next_review_at": "2026-08-25T10:00:00",
-    "review_interval_days": 7,
-    "created_at": "2026-06-11T10:00:00"
-   },
-   {
-    "id": 5,
-    "problem_id": 2,
-    "status": "needs-review",
-    "time_minutes": 31,
-    "perceived_difficulty": "easy",
-    "code": null,
-    "language": "python",
-    "notes": "Missed the hash-map trick on the first pass.",
-    "attempt_number": 2,
-    "next_review_at": "2026-08-25T10:00:00",
-    "review_interval_days": 7,
-    "created_at": "2026-08-13T10:00:00"
+    "next_review_at": "2026-04-10T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-04-07T14:00:00"
    }
   ],
   "3": [
    {
-    "id": 7,
+    "id": 3,
     "problem_id": 3,
-    "status": "needs-review",
-    "time_minutes": 25,
-    "perceived_difficulty": "medium",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": null,
-    "attempt_number": 1,
-    "next_review_at": "2026-08-25T10:00:00",
-    "review_interval_days": 7,
-    "created_at": "2026-07-30T10:00:00"
-   },
-   {
-    "id": 8,
-    "problem_id": 3,
-    "status": "needs-review",
-    "time_minutes": 18,
+    "status": "solved",
+    "time_minutes": 13,
     "perceived_difficulty": "easy",
-    "code": null,
+    "code": "class Solution:\n    def isAnagram(self, s: str, t: str) -> bool:\n        if len(s) != len(t):\n            return False\n        counts = Counter(s)\n        for ch in t:\n            counts[ch] -= 1\n            if counts[ch] < 0:\n                return False\n        return True",
     "language": "python",
-    "notes": "Missed the hash-map trick on the first pass.",
-    "attempt_number": 2,
-    "next_review_at": "2026-08-25T10:00:00",
-    "review_interval_days": 16,
-    "created_at": "2026-07-09T10:00:00"
-   }
-  ],
-  "4": [
-   {
-    "id": 10,
-    "problem_id": 4,
-    "status": "attempted",
-    "time_minutes": 55,
-    "perceived_difficulty": "easy",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": null,
+    "notes": "Got it first try. Wrote the invariant down before coding, which helped.",
     "attempt_number": 1,
-    "next_review_at": "2026-09-03T10:00:00",
-    "review_interval_days": 1,
-    "created_at": "2026-07-28T10:00:00"
-   }
-  ],
-  "5": [
-   {
-    "id": 13,
-    "problem_id": 5,
-    "status": "needs-review",
-    "time_minutes": 55,
-    "perceived_difficulty": "hard",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": "Off-by-one in the window shrink step.",
-    "attempt_number": 1,
-    "next_review_at": "2026-08-25T10:00:00",
-    "review_interval_days": 16,
-    "created_at": "2026-07-18T10:00:00"
-   },
-   {
-    "id": 14,
-    "problem_id": 5,
-    "status": "needs-review",
-    "time_minutes": 31,
-    "perceived_difficulty": "easy",
-    "code": null,
-    "language": "python",
-    "notes": null,
-    "attempt_number": 2,
-    "next_review_at": "2026-08-19T10:00:00",
-    "review_interval_days": 16,
-    "created_at": "2026-05-26T10:00:00"
-   }
-  ],
-  "6": [
-   {
-    "id": 16,
-    "problem_id": 6,
-    "status": "attempted",
-    "time_minutes": 18,
-    "perceived_difficulty": "easy",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": "Missed the hash-map trick on the first pass.",
-    "attempt_number": 1,
-    "next_review_at": "2026-09-03T10:00:00",
-    "review_interval_days": 1,
-    "created_at": "2026-07-06T10:00:00"
-   }
-  ],
-  "7": [
-   {
-    "id": 19,
-    "problem_id": 7,
-    "status": "solved",
-    "time_minutes": 31,
-    "perceived_difficulty": "medium",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": "Missed the hash-map trick on the first pass.",
-    "attempt_number": 1,
-    "next_review_at": "2026-08-19T10:00:00",
-    "review_interval_days": 16,
-    "created_at": "2026-07-27T10:00:00"
-   }
-  ],
-  "8": [
-   {
-    "id": 22,
-    "problem_id": 8,
-    "status": "solved",
-    "time_minutes": 18,
-    "perceived_difficulty": "medium",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": "Missed the hash-map trick on the first pass.",
-    "attempt_number": 1,
-    "next_review_at": "2026-09-03T10:00:00",
-    "review_interval_days": 16,
-    "created_at": "2026-07-11T10:00:00"
-   }
-  ],
-  "9": [
-   {
-    "id": 25,
-    "problem_id": 9,
-    "status": "attempted",
-    "time_minutes": 55,
-    "perceived_difficulty": "medium",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": "Clean on the retry.",
-    "attempt_number": 1,
-    "next_review_at": "2026-08-25T10:00:00",
-    "review_interval_days": 7,
-    "created_at": "2026-05-21T10:00:00"
-   }
-  ],
-  "10": [
-   {
-    "id": 28,
-    "problem_id": 10,
-    "status": "solved",
-    "time_minutes": 31,
-    "perceived_difficulty": "easy",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": null,
-    "attempt_number": 1,
-    "next_review_at": "2026-09-03T10:00:00",
-    "review_interval_days": 3,
-    "created_at": "2026-06-18T10:00:00"
-   }
-  ],
-  "11": [
-   {
-    "id": 31,
-    "problem_id": 11,
-    "status": "attempted",
-    "time_minutes": 31,
-    "perceived_difficulty": "medium",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": "Missed the hash-map trick on the first pass.",
-    "attempt_number": 1,
-    "next_review_at": "2026-08-19T10:00:00",
-    "review_interval_days": 16,
-    "created_at": "2026-05-29T10:00:00"
-   }
-  ],
-  "12": [
-   {
-    "id": 34,
-    "problem_id": 12,
-    "status": "solved",
-    "time_minutes": 40,
-    "perceived_difficulty": "hard",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": "Off-by-one in the window shrink step.",
-    "attempt_number": 1,
-    "next_review_at": "2026-08-19T10:00:00",
-    "review_interval_days": 7,
-    "created_at": "2026-07-14T10:00:00"
-   }
-  ],
-  "13": [
-   {
-    "id": 37,
-    "problem_id": 13,
-    "status": "solved",
-    "time_minutes": 40,
-    "perceived_difficulty": "hard",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": null,
-    "attempt_number": 1,
-    "next_review_at": "2026-08-25T10:00:00",
-    "review_interval_days": 7,
-    "created_at": "2026-05-21T10:00:00"
-   }
-  ],
-  "14": [
-   {
-    "id": 40,
-    "problem_id": 14,
-    "status": "solved",
-    "time_minutes": 55,
-    "perceived_difficulty": "hard",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": "Off-by-one in the window shrink step.",
-    "attempt_number": 1,
-    "next_review_at": "2026-09-03T10:00:00",
-    "review_interval_days": 7,
-    "created_at": "2026-06-07T10:00:00"
-   }
-  ],
-  "15": [
-   {
-    "id": 43,
-    "problem_id": 15,
-    "status": "solved",
-    "time_minutes": 55,
-    "perceived_difficulty": "hard",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": "Off-by-one in the window shrink step.",
-    "attempt_number": 1,
-    "next_review_at": "2026-08-25T10:00:00",
-    "review_interval_days": 3,
-    "created_at": "2026-05-11T10:00:00"
-   }
-  ],
-  "16": [
-   {
-    "id": 46,
-    "problem_id": 16,
-    "status": "solved",
-    "time_minutes": 12,
-    "perceived_difficulty": "medium",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": "Off-by-one in the window shrink step.",
-    "attempt_number": 1,
-    "next_review_at": "2026-08-25T10:00:00",
-    "review_interval_days": 7,
-    "created_at": "2026-06-04T10:00:00"
-   }
-  ],
-  "17": [
-   {
-    "id": 49,
-    "problem_id": 17,
-    "status": "solved",
-    "time_minutes": 25,
-    "perceived_difficulty": "hard",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": "Off-by-one in the window shrink step.",
-    "attempt_number": 1,
-    "next_review_at": "2026-08-25T10:00:00",
-    "review_interval_days": 7,
-    "created_at": "2026-06-19T10:00:00"
-   }
-  ],
-  "18": [
-   {
-    "id": 52,
-    "problem_id": 18,
-    "status": "solved",
-    "time_minutes": 25,
-    "perceived_difficulty": "hard",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": "Clean on the retry.",
-    "attempt_number": 1,
-    "next_review_at": "2026-08-25T10:00:00",
-    "review_interval_days": 3,
-    "created_at": "2026-05-27T10:00:00"
-   }
-  ],
-  "19": [
-   {
-    "id": 55,
-    "problem_id": 19,
-    "status": "solved",
-    "time_minutes": 31,
-    "perceived_difficulty": "medium",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": "Off-by-one in the window shrink step.",
-    "attempt_number": 1,
-    "next_review_at": "2026-08-21T10:00:00",
-    "review_interval_days": 3,
-    "created_at": "2026-05-21T10:00:00"
-   }
-  ],
-  "20": [
-   {
-    "id": 58,
-    "problem_id": 20,
-    "status": "attempted",
-    "time_minutes": 25,
-    "perceived_difficulty": "medium",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": "Off-by-one in the window shrink step.",
-    "attempt_number": 1,
-    "next_review_at": "2026-08-19T10:00:00",
-    "review_interval_days": 16,
-    "created_at": "2026-07-23T10:00:00"
-   }
-  ],
-  "21": [
-   {
-    "id": 61,
-    "problem_id": 21,
-    "status": "needs-review",
-    "time_minutes": 40,
-    "perceived_difficulty": "hard",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": "Clean on the retry.",
-    "attempt_number": 1,
-    "next_review_at": "2026-08-25T10:00:00",
-    "review_interval_days": 7,
-    "created_at": "2026-07-27T10:00:00"
-   },
-   {
-    "id": 62,
-    "problem_id": 21,
-    "status": "needs-review",
-    "time_minutes": 12,
-    "perceived_difficulty": "easy",
-    "code": null,
-    "language": "python",
-    "notes": "Missed the hash-map trick on the first pass.",
-    "attempt_number": 2,
-    "next_review_at": "2026-09-03T10:00:00",
-    "review_interval_days": 3,
-    "created_at": "2026-05-17T10:00:00"
-   }
-  ],
-  "22": [
-   {
-    "id": 64,
-    "problem_id": 22,
-    "status": "solved",
-    "time_minutes": 55,
-    "perceived_difficulty": "easy",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": null,
-    "attempt_number": 1,
-    "next_review_at": "2026-09-03T10:00:00",
-    "review_interval_days": 3,
-    "created_at": "2026-07-20T10:00:00"
-   }
-  ],
-  "23": [
-   {
-    "id": 67,
-    "problem_id": 23,
-    "status": "needs-review",
-    "time_minutes": 12,
-    "perceived_difficulty": "easy",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": null,
-    "attempt_number": 1,
-    "next_review_at": "2026-08-25T10:00:00",
-    "review_interval_days": 3,
-    "created_at": "2026-07-27T10:00:00"
-   },
-   {
-    "id": 68,
-    "problem_id": 23,
-    "status": "needs-review",
-    "time_minutes": 18,
-    "perceived_difficulty": "hard",
-    "code": null,
-    "language": "python",
-    "notes": null,
-    "attempt_number": 2,
-    "next_review_at": "2026-09-03T10:00:00",
-    "review_interval_days": 16,
-    "created_at": "2026-06-17T10:00:00"
-   }
-  ],
-  "24": [
-   {
-    "id": 70,
-    "problem_id": 24,
-    "status": "solved",
-    "time_minutes": 31,
-    "perceived_difficulty": "hard",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": null,
-    "attempt_number": 1,
-    "next_review_at": "2026-08-21T10:00:00",
-    "review_interval_days": 3,
-    "created_at": "2026-07-04T10:00:00"
-   }
-  ],
-  "25": [
-   {
-    "id": 73,
-    "problem_id": 25,
-    "status": "solved",
-    "time_minutes": 25,
-    "perceived_difficulty": "easy",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": "Off-by-one in the window shrink step.",
-    "attempt_number": 1,
-    "next_review_at": "2026-09-03T10:00:00",
-    "review_interval_days": 7,
-    "created_at": "2026-05-18T10:00:00"
-   }
-  ],
-  "26": [
-   {
-    "id": 76,
-    "problem_id": 26,
-    "status": "solved",
-    "time_minutes": 31,
-    "perceived_difficulty": "easy",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": "Off-by-one in the window shrink step.",
-    "attempt_number": 1,
-    "next_review_at": "2026-08-19T10:00:00",
-    "review_interval_days": 7,
-    "created_at": "2026-04-30T10:00:00"
-   }
-  ],
-  "27": [
-   {
-    "id": 79,
-    "problem_id": 27,
-    "status": "solved",
-    "time_minutes": 25,
-    "perceived_difficulty": "hard",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": "Off-by-one in the window shrink step.",
-    "attempt_number": 1,
-    "next_review_at": "2026-08-25T10:00:00",
-    "review_interval_days": 7,
-    "created_at": "2026-08-05T10:00:00"
-   }
-  ],
-  "28": [
-   {
-    "id": 82,
-    "problem_id": 28,
-    "status": "needs-review",
-    "time_minutes": 18,
-    "perceived_difficulty": "medium",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": "Clean on the retry.",
-    "attempt_number": 1,
-    "next_review_at": "2026-08-25T10:00:00",
-    "review_interval_days": 16,
-    "created_at": "2026-05-05T10:00:00"
-   },
-   {
-    "id": 83,
-    "problem_id": 28,
-    "status": "needs-review",
-    "time_minutes": 18,
-    "perceived_difficulty": "hard",
-    "code": null,
-    "language": "python",
-    "notes": "Clean on the retry.",
-    "attempt_number": 2,
-    "next_review_at": "2026-09-03T10:00:00",
-    "review_interval_days": 3,
-    "created_at": "2026-07-30T10:00:00"
-   }
-  ],
-  "29": [
-   {
-    "id": 85,
-    "problem_id": 29,
-    "status": "solved",
-    "time_minutes": 40,
-    "perceived_difficulty": "easy",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": "Off-by-one in the window shrink step.",
-    "attempt_number": 1,
-    "next_review_at": "2026-08-19T10:00:00",
-    "review_interval_days": 16,
-    "created_at": "2026-07-31T10:00:00"
-   }
-  ],
-  "30": [
-   {
-    "id": 88,
-    "problem_id": 30,
-    "status": "solved",
-    "time_minutes": 25,
-    "perceived_difficulty": "hard",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": "Missed the hash-map trick on the first pass.",
-    "attempt_number": 1,
-    "next_review_at": "2026-08-25T10:00:00",
-    "review_interval_days": 16,
-    "created_at": "2026-08-04T10:00:00"
-   }
-  ],
-  "31": [
-   {
-    "id": 91,
-    "problem_id": 31,
-    "status": "attempted",
-    "time_minutes": 31,
-    "perceived_difficulty": "easy",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": "Clean on the retry.",
-    "attempt_number": 1,
-    "next_review_at": "2026-08-25T10:00:00",
-    "review_interval_days": 16,
-    "created_at": "2026-06-24T10:00:00"
-   }
-  ],
-  "32": [
-   {
-    "id": 94,
-    "problem_id": 32,
-    "status": "needs-review",
-    "time_minutes": 31,
-    "perceived_difficulty": "medium",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": "Missed the hash-map trick on the first pass.",
-    "attempt_number": 1,
-    "next_review_at": "2026-08-25T10:00:00",
-    "review_interval_days": 7,
-    "created_at": "2026-05-19T10:00:00"
-   },
-   {
-    "id": 95,
-    "problem_id": 32,
-    "status": "needs-review",
-    "time_minutes": 25,
-    "perceived_difficulty": "medium",
-    "code": null,
-    "language": "python",
-    "notes": null,
-    "attempt_number": 2,
-    "next_review_at": "2026-08-25T10:00:00",
-    "review_interval_days": 7,
-    "created_at": "2026-06-15T10:00:00"
-   }
-  ],
-  "33": [
-   {
-    "id": 97,
-    "problem_id": 33,
-    "status": "solved",
-    "time_minutes": 25,
-    "perceived_difficulty": "easy",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": "Clean on the retry.",
-    "attempt_number": 1,
-    "next_review_at": "2026-08-19T10:00:00",
-    "review_interval_days": 1,
-    "created_at": "2026-06-16T10:00:00"
-   }
-  ],
-  "34": [
-   {
-    "id": 100,
-    "problem_id": 34,
-    "status": "attempted",
-    "time_minutes": 40,
-    "perceived_difficulty": "medium",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": "Missed the hash-map trick on the first pass.",
-    "attempt_number": 1,
-    "next_review_at": "2026-08-25T10:00:00",
-    "review_interval_days": 1,
-    "created_at": "2026-05-25T10:00:00"
-   }
-  ],
-  "35": [
-   {
-    "id": 103,
-    "problem_id": 35,
-    "status": "solved",
-    "time_minutes": 18,
-    "perceived_difficulty": "medium",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": null,
-    "attempt_number": 1,
-    "next_review_at": "2026-09-03T10:00:00",
-    "review_interval_days": 7,
-    "created_at": "2026-05-09T10:00:00"
-   }
-  ],
-  "36": [
-   {
-    "id": 106,
-    "problem_id": 36,
-    "status": "solved",
-    "time_minutes": 31,
-    "perceived_difficulty": "easy",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": "Missed the hash-map trick on the first pass.",
-    "attempt_number": 1,
-    "next_review_at": "2026-09-03T10:00:00",
-    "review_interval_days": 7,
-    "created_at": "2026-07-17T10:00:00"
-   }
-  ],
-  "37": [
-   {
-    "id": 109,
-    "problem_id": 37,
-    "status": "solved",
-    "time_minutes": 18,
-    "perceived_difficulty": "hard",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": "Off-by-one in the window shrink step.",
-    "attempt_number": 1,
-    "next_review_at": "2026-08-25T10:00:00",
-    "review_interval_days": 16,
-    "created_at": "2026-05-01T10:00:00"
-   }
-  ],
-  "38": [
-   {
-    "id": 112,
-    "problem_id": 38,
-    "status": "attempted",
-    "time_minutes": 31,
-    "perceived_difficulty": "hard",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
-    "language": "python",
-    "notes": null,
-    "attempt_number": 1,
-    "next_review_at": "2026-08-19T10:00:00",
+    "next_review_at": "2026-06-04T10:00:00",
     "review_interval_days": 3,
     "created_at": "2026-06-01T10:00:00"
    }
   ],
-  "39": [
+  "4": [
    {
-    "id": 115,
-    "problem_id": 39,
+    "id": 4,
+    "problem_id": 4,
     "status": "solved",
-    "time_minutes": 25,
-    "perceived_difficulty": "hard",
+    "time_minutes": 17,
+    "perceived_difficulty": "easy",
     "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
     "language": "python",
-    "notes": "Off-by-one in the window shrink step.",
+    "notes": "Slower than I'd like but correct. Should recognise this shape faster.",
     "attempt_number": 1,
-    "next_review_at": "2026-08-25T10:00:00",
-    "review_interval_days": 1,
-    "created_at": "2026-07-10T10:00:00"
+    "next_review_at": "2026-06-24T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-06-21T16:00:00"
    }
   ],
-  "40": [
+  "5": [
    {
-    "id": 118,
-    "problem_id": 40,
-    "status": "attempted",
-    "time_minutes": 25,
-    "perceived_difficulty": "medium",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "id": 5,
+    "problem_id": 5,
+    "status": "solved",
+    "time_minutes": 15,
+    "perceived_difficulty": "easy",
+    "code": null,
     "language": "python",
-    "notes": "Missed the hash-map trick on the first pass.",
+    "notes": "Brute force first, then optimised. Worth doing in that order.",
     "attempt_number": 1,
-    "next_review_at": "2026-08-19T10:00:00",
-    "review_interval_days": 1,
-    "created_at": "2026-06-19T10:00:00"
+    "next_review_at": "2026-04-09T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-04-06T18:00:00"
    }
   ],
-  "41": [
+  "6": [
    {
-    "id": 121,
-    "problem_id": 41,
-    "status": "needs-review",
-    "time_minutes": 40,
+    "id": 6,
+    "problem_id": 6,
+    "status": "solved",
+    "time_minutes": 26,
     "perceived_difficulty": "medium",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "code": "class Solution:\n    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:\n        groups = defaultdict(list)\n        for w in strs:\n            key = tuple(sorted(w))\n            groups[key].append(w)\n        return list(groups.values())",
+    "language": "python",
+    "notes": "Slower than I'd like but correct. Should recognise this shape faster.",
+    "attempt_number": 1,
+    "next_review_at": "2026-04-18T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-04-15T21:00:00"
+   }
+  ],
+  "7": [
+   {
+    "id": 7,
+    "problem_id": 7,
+    "status": "solved",
+    "time_minutes": 20,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": "Got it first try. Wrote the invariant down before coding, which helped.",
+    "attempt_number": 1,
+    "next_review_at": "2026-06-02T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-05-30T09:00:00"
+   }
+  ],
+  "8": [
+   {
+    "id": 9,
+    "problem_id": 8,
+    "status": "solved",
+    "time_minutes": 17,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": "Got it first try. Wrote the invariant down before coding, which helped.",
+    "attempt_number": 2,
+    "next_review_at": "2026-05-17T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-05-10T21:00:00"
+   },
+   {
+    "id": 8,
+    "problem_id": 8,
+    "status": "solved",
+    "time_minutes": 20,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": "Got it first try. Wrote the invariant down before coding, which helped.",
+    "attempt_number": 1,
+    "next_review_at": "2026-04-29T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-04-26T15:00:00"
+   }
+  ],
+  "9": [
+   {
+    "id": 10,
+    "problem_id": 9,
+    "status": "solved",
+    "time_minutes": 23,
+    "perceived_difficulty": "easy",
+    "code": null,
     "language": "python",
     "notes": null,
     "attempt_number": 1,
-    "next_review_at": "2026-08-21T10:00:00",
-    "review_interval_days": 1,
-    "created_at": "2026-07-16T10:00:00"
+    "next_review_at": "2026-08-06T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-08-03T13:00:00"
+   }
+  ],
+  "10": [
+   {
+    "id": 11,
+    "problem_id": 10,
+    "status": "solved",
+    "time_minutes": 20,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-05-14T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-05-11T15:00:00"
+   }
+  ],
+  "11": [
+   {
+    "id": 13,
+    "problem_id": 11,
+    "status": "solved",
+    "time_minutes": 48,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": null,
+    "attempt_number": 2,
+    "next_review_at": "2026-06-04T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-05-28T19:00:00"
    },
    {
-    "id": 122,
-    "problem_id": 41,
+    "id": 12,
+    "problem_id": 11,
+    "status": "solved",
+    "time_minutes": 41,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "Got it first try. Wrote the invariant down before coding, which helped.",
+    "attempt_number": 1,
+    "next_review_at": "2026-05-25T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-05-22T10:00:00"
+   }
+  ],
+  "12": [
+   {
+    "id": 14,
+    "problem_id": 12,
+    "status": "solved",
+    "time_minutes": 48,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-08-07T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-08-04T22:00:00"
+   }
+  ],
+  "13": [
+   {
+    "id": 15,
+    "problem_id": 13,
+    "status": "solved",
+    "time_minutes": 36,
+    "perceived_difficulty": "medium",
+    "code": "class Solution:\n    def topKFrequent(self, nums: List[int], k: int) -> List[int]:\n        counts = Counter(nums)\n        # bucket sort by frequency \u2014 O(n) instead of the O(n log n) heap\n        buckets = [[] for _ in range(len(nums) + 1)]\n        for val, c in counts.items():\n            buckets[c].append(val)\n        out = []\n        for c in range(len(buckets) - 1, 0, -1):\n            for val in buckets[c]:\n                out.append(val)\n                if len(out) == k:\n                    return out\n        return out",
+    "language": "python",
+    "notes": "Got it first try. Wrote the invariant down before coding, which helped.",
+    "attempt_number": 1,
+    "next_review_at": "2026-05-10T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-05-07T18:00:00"
+   }
+  ],
+  "14": [
+   {
+    "id": 16,
+    "problem_id": 14,
+    "status": "solved",
+    "time_minutes": 27,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": "Slower than I'd like but correct. Should recognise this shape faster.",
+    "attempt_number": 1,
+    "next_review_at": "2026-06-17T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-06-14T21:00:00"
+   }
+  ],
+  "15": [
+   {
+    "id": 17,
+    "problem_id": 15,
+    "status": "solved",
+    "time_minutes": 41,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-06-28T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-06-25T13:00:00"
+   }
+  ],
+  "16": [
+   {
+    "id": 19,
+    "problem_id": 16,
     "status": "needs-review",
     "time_minutes": 31,
     "perceived_difficulty": "hard",
     "code": null,
     "language": "python",
-    "notes": "Clean on the retry.",
+    "notes": "Off-by-one in the window shrink \u2014 recorded the answer before restoring the invariant.",
     "attempt_number": 2,
-    "next_review_at": "2026-09-03T10:00:00",
-    "review_interval_days": 16,
-    "created_at": "2026-06-24T10:00:00"
+    "next_review_at": "2026-06-17T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-06-16T20:00:00"
+   },
+   {
+    "id": 18,
+    "problem_id": 16,
+    "status": "attempted",
+    "time_minutes": 64,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "Knew it was binary search, couldn't get the boundary right. Revisit.",
+    "attempt_number": 1,
+    "next_review_at": "2026-06-08T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-06-07T12:00:00"
+   }
+  ],
+  "17": [
+   {
+    "id": 20,
+    "problem_id": 17,
+    "status": "solved",
+    "time_minutes": 38,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "Clean on the retry \u2014 the pattern was obvious once I'd seen it twice.",
+    "attempt_number": 1,
+    "next_review_at": "2026-05-02T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-04-29T21:00:00"
+   }
+  ],
+  "18": [
+   {
+    "id": 21,
+    "problem_id": 18,
+    "status": "solved",
+    "time_minutes": 27,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-04-12T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-04-09T14:00:00"
+   }
+  ],
+  "19": [
+   {
+    "id": 23,
+    "problem_id": 19,
+    "status": "attempted",
+    "time_minutes": 72,
+    "perceived_difficulty": "hard",
+    "code": null,
+    "language": "python",
+    "notes": "TLE'd on the nested loop. Needed a hash map and didn't see it.",
+    "attempt_number": 2,
+    "next_review_at": "2026-06-27T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-06-26T19:00:00"
+   },
+   {
+    "id": 24,
+    "problem_id": 19,
+    "status": "needs-review",
+    "time_minutes": 58,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "Missed that duplicates need the whole run skipped, not one element.",
+    "attempt_number": 3,
+    "next_review_at": "2026-06-23T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-06-22T16:00:00"
+   },
+   {
+    "id": 22,
+    "problem_id": 19,
+    "status": "attempted",
+    "time_minutes": 77,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "Missed that duplicates need the whole run skipped, not one element.",
+    "attempt_number": 1,
+    "next_review_at": "2026-06-17T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-06-16T16:00:00"
+   }
+  ],
+  "20": [
+   {
+    "id": 26,
+    "problem_id": 20,
+    "status": "solved",
+    "time_minutes": 20,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": null,
+    "attempt_number": 2,
+    "next_review_at": "2026-05-17T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-05-14T16:00:00"
+   },
+   {
+    "id": 25,
+    "problem_id": 20,
+    "status": "attempted",
+    "time_minutes": 45,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "Missed that duplicates need the whole run skipped, not one element.",
+    "attempt_number": 1,
+    "next_review_at": "2026-05-05T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-05-04T19:00:00"
+   }
+  ],
+  "21": [
+   {
+    "id": 28,
+    "problem_id": 21,
+    "status": "solved",
+    "time_minutes": 37,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": "Got it first try. Wrote the invariant down before coding, which helped.",
+    "attempt_number": 2,
+    "next_review_at": "2026-04-10T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-04-07T11:00:00"
+   },
+   {
+    "id": 27,
+    "problem_id": 21,
+    "status": "attempted",
+    "time_minutes": 51,
+    "perceived_difficulty": "hard",
+    "code": null,
+    "language": "python",
+    "notes": "Forgot the empty-input case and it blew up on the hidden tests.",
+    "attempt_number": 1,
+    "next_review_at": "2026-04-03T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-04-02T09:00:00"
+   }
+  ],
+  "22": [
+   {
+    "id": 29,
+    "problem_id": 22,
+    "status": "solved",
+    "time_minutes": 55,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-06-06T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-06-03T21:00:00"
+   }
+  ],
+  "23": [
+   {
+    "id": 30,
+    "problem_id": 23,
+    "status": "solved",
+    "time_minutes": 21,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": "Got it first try. Wrote the invariant down before coding, which helped.",
+    "attempt_number": 1,
+    "next_review_at": "2026-04-25T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-04-22T19:00:00"
+   }
+  ],
+  "24": [
+   {
+    "id": 32,
+    "problem_id": 24,
+    "status": "needs-review",
+    "time_minutes": 33,
+    "perceived_difficulty": "easy",
+    "code": "class Solution:\n    def isPalindrome(self, s: str) -> bool:\n        l, r = 0, len(s) - 1\n        while l < r:\n            while l < r and not s[l].isalnum():\n                l += 1\n            while l < r and not s[r].isalnum():\n                r -= 1\n            if s[l].lower() != s[r].lower():\n                return False\n            l += 1\n            r -= 1\n        return True",
+    "language": "python",
+    "notes": "Missed that duplicates need the whole run skipped, not one element.",
+    "attempt_number": 2,
+    "next_review_at": "2026-07-14T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-07-13T17:00:00"
+   },
+   {
+    "id": 31,
+    "problem_id": 24,
+    "status": "attempted",
+    "time_minutes": 16,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "Reached for a heap when bucket sort was O(n). Space/time tradeoff not obvious to me yet.",
+    "attempt_number": 1,
+    "next_review_at": "2026-07-01T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-06-30T13:00:00"
+   }
+  ],
+  "25": [
+   {
+    "id": 33,
+    "problem_id": 25,
+    "status": "solved",
+    "time_minutes": 23,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": "Brute force first, then optimised. Worth doing in that order.",
+    "attempt_number": 1,
+    "next_review_at": "2026-03-30T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-03-27T15:00:00"
+   }
+  ],
+  "26": [
+   {
+    "id": 34,
+    "problem_id": 26,
+    "status": "solved",
+    "time_minutes": 17,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-05-25T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-05-22T10:00:00"
+   }
+  ],
+  "27": [
+   {
+    "id": 35,
+    "problem_id": 27,
+    "status": "solved",
+    "time_minutes": 24,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": "Got it first try. Wrote the invariant down before coding, which helped.",
+    "attempt_number": 1,
+    "next_review_at": "2026-06-18T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-06-15T13:00:00"
+   }
+  ],
+  "28": [
+   {
+    "id": 36,
+    "problem_id": 28,
+    "status": "solved",
+    "time_minutes": 22,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": "Slower than I'd like but correct. Should recognise this shape faster.",
+    "attempt_number": 1,
+    "next_review_at": "2026-05-08T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-05-05T19:00:00"
+   }
+  ],
+  "29": [
+   {
+    "id": 38,
+    "problem_id": 29,
+    "status": "needs-review",
+    "time_minutes": 40,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "Off-by-one in the window shrink \u2014 recorded the answer before restoring the invariant.",
+    "attempt_number": 2,
+    "next_review_at": "2026-07-15T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-07-14T11:00:00"
+   },
+   {
+    "id": 37,
+    "problem_id": 29,
+    "status": "attempted",
+    "time_minutes": 40,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "Knew it was binary search, couldn't get the boundary right. Revisit.",
+    "attempt_number": 1,
+    "next_review_at": "2026-07-01T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-06-30T20:00:00"
+   }
+  ],
+  "30": [
+   {
+    "id": 39,
+    "problem_id": 30,
+    "status": "solved",
+    "time_minutes": 49,
+    "perceived_difficulty": "easy",
+    "code": "class Solution:\n    def threeSum(self, nums: List[int]) -> List[List[int]]:\n        nums.sort()\n        out = []\n        for i, a in enumerate(nums):\n            if i and a == nums[i - 1]:\n                continue          # skip the whole duplicate run, not one element\n            l, r = i + 1, len(nums) - 1\n            while l < r:\n                total = a + nums[l] + nums[r]\n                if total < 0:\n                    l += 1\n                elif total > 0:\n                    r -= 1\n                else:\n                    out.append([a, nums[l], nums[r]])\n                    l += 1\n                    while l < r and nums[l] == nums[l - 1]:\n                        l += 1\n        return out",
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-05-16T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-05-13T14:00:00"
+   }
+  ],
+  "31": [
+   {
+    "id": 40,
+    "problem_id": 31,
+    "status": "solved",
+    "time_minutes": 26,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-06-28T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-06-25T11:00:00"
+   }
+  ],
+  "32": [
+   {
+    "id": 41,
+    "problem_id": 32,
+    "status": "solved",
+    "time_minutes": 49,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "Got it first try. Wrote the invariant down before coding, which helped.",
+    "attempt_number": 1,
+    "next_review_at": "2026-04-19T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-04-16T21:00:00"
+   }
+  ],
+  "33": [
+   {
+    "id": 43,
+    "problem_id": 33,
+    "status": "solved",
+    "time_minutes": 33,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": null,
+    "attempt_number": 2,
+    "next_review_at": "2026-06-11T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-06-04T15:00:00"
+   },
+   {
+    "id": 42,
+    "problem_id": 33,
+    "status": "solved",
+    "time_minutes": 19,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-06-02T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-05-30T18:00:00"
+   }
+  ],
+  "34": [
+   {
+    "id": 45,
+    "problem_id": 34,
+    "status": "needs-review",
+    "time_minutes": 42,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "Reached for a heap when bucket sort was O(n). Space/time tradeoff not obvious to me yet.",
+    "attempt_number": 2,
+    "next_review_at": "2026-06-05T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-06-04T10:00:00"
+   },
+   {
+    "id": 44,
+    "problem_id": 34,
+    "status": "attempted",
+    "time_minutes": 33,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "Off-by-one in the window shrink \u2014 recorded the answer before restoring the invariant.",
+    "attempt_number": 1,
+    "next_review_at": "2026-05-29T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-05-28T17:00:00"
+   }
+  ],
+  "35": [
+   {
+    "id": 46,
+    "problem_id": 35,
+    "status": "solved",
+    "time_minutes": 80,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-06-03T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-05-31T12:00:00"
+   }
+  ],
+  "36": [
+   {
+    "id": 47,
+    "problem_id": 36,
+    "status": "solved",
+    "time_minutes": 24,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": "Brute force first, then optimised. Worth doing in that order.",
+    "attempt_number": 1,
+    "next_review_at": "2026-04-17T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-04-14T19:00:00"
+   }
+  ],
+  "37": [
+   {
+    "id": 49,
+    "problem_id": 37,
+    "status": "needs-review",
+    "time_minutes": 16,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "Reached for a heap when bucket sort was O(n). Space/time tradeoff not obvious to me yet.",
+    "attempt_number": 2,
+    "next_review_at": "2026-08-18T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-08-17T19:00:00"
+   },
+   {
+    "id": 48,
+    "problem_id": 37,
+    "status": "attempted",
+    "time_minutes": 21,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": "Off-by-one in the window shrink \u2014 recorded the answer before restoring the invariant.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-10T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-08-09T20:00:00"
+   }
+  ],
+  "38": [
+   {
+    "id": 50,
+    "problem_id": 38,
+    "status": "solved",
+    "time_minutes": 36,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-04-21T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-04-18T12:00:00"
+   }
+  ],
+  "39": [
+   {
+    "id": 51,
+    "problem_id": 39,
+    "status": "solved",
+    "time_minutes": 39,
+    "perceived_difficulty": "easy",
+    "code": "class Solution:\n    def characterReplacement(self, s: str, k: int) -> int:\n        counts = defaultdict(int)\n        best = maxf = l = 0\n        for r, ch in enumerate(s):\n            counts[ch] += 1\n            maxf = max(maxf, counts[ch])\n            while (r - l + 1) - maxf > k:\n                counts[s[l]] -= 1\n                l += 1\n            best = max(best, r - l + 1)\n        return best",
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-06-08T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-06-05T12:00:00"
+   }
+  ],
+  "40": [
+   {
+    "id": 52,
+    "problem_id": 40,
+    "status": "solved",
+    "time_minutes": 47,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "Slower than I'd like but correct. Should recognise this shape faster.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-05T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-08-02T21:00:00"
+   }
+  ],
+  "41": [
+   {
+    "id": 53,
+    "problem_id": 41,
+    "status": "solved",
+    "time_minutes": 50,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "Slower than I'd like but correct. Should recognise this shape faster.",
+    "attempt_number": 1,
+    "next_review_at": "2026-04-30T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-04-27T19:00:00"
    }
   ],
   "42": [
    {
-    "id": 124,
+    "id": 55,
     "problem_id": 42,
     "status": "solved",
-    "time_minutes": 55,
-    "perceived_difficulty": "hard",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "time_minutes": 43,
+    "perceived_difficulty": "easy",
+    "code": null,
     "language": "python",
-    "notes": "Missed the hash-map trick on the first pass.",
+    "notes": null,
+    "attempt_number": 2,
+    "next_review_at": "2026-04-15T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-04-12T21:00:00"
+   },
+   {
+    "id": 54,
+    "problem_id": 42,
+    "status": "attempted",
+    "time_minutes": 28,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "Knew it was binary search, couldn't get the boundary right. Revisit.",
     "attempt_number": 1,
-    "next_review_at": "2026-08-25T10:00:00",
-    "review_interval_days": 16,
-    "created_at": "2026-06-28T10:00:00"
+    "next_review_at": "2026-04-10T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-04-09T20:00:00"
    }
   ],
   "43": [
    {
-    "id": 127,
+    "id": 57,
     "problem_id": 43,
     "status": "solved",
-    "time_minutes": 12,
-    "perceived_difficulty": "medium",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "time_minutes": 95,
+    "perceived_difficulty": "hard",
+    "code": null,
     "language": "python",
-    "notes": null,
-    "attempt_number": 1,
-    "next_review_at": "2026-09-03T10:00:00",
+    "notes": "Slower than I'd like but correct. Should recognise this shape faster.",
+    "attempt_number": 2,
+    "next_review_at": "2026-05-06T10:00:00",
     "review_interval_days": 7,
-    "created_at": "2026-05-03T10:00:00"
+    "created_at": "2026-04-29T19:00:00"
+   },
+   {
+    "id": 56,
+    "problem_id": 43,
+    "status": "solved",
+    "time_minutes": 72,
+    "perceived_difficulty": "hard",
+    "code": null,
+    "language": "python",
+    "notes": "Got it first try. Wrote the invariant down before coding, which helped.",
+    "attempt_number": 1,
+    "next_review_at": "2026-04-22T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-04-19T19:00:00"
    }
   ],
   "44": [
    {
-    "id": 130,
+    "id": 59,
     "problem_id": 44,
     "status": "solved",
-    "time_minutes": 31,
+    "time_minutes": 35,
     "perceived_difficulty": "medium",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "code": null,
     "language": "python",
-    "notes": "Missed the hash-map trick on the first pass.",
+    "notes": null,
+    "attempt_number": 2,
+    "next_review_at": "2026-05-28T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-05-21T09:00:00"
+   },
+   {
+    "id": 58,
+    "problem_id": 44,
+    "status": "solved",
+    "time_minutes": 51,
+    "perceived_difficulty": "hard",
+    "code": null,
+    "language": "python",
+    "notes": "Brute force first, then optimised. Worth doing in that order.",
     "attempt_number": 1,
-    "next_review_at": "2026-08-21T10:00:00",
-    "review_interval_days": 16,
-    "created_at": "2026-05-27T10:00:00"
+    "next_review_at": "2026-05-20T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-05-17T22:00:00"
    }
   ],
   "45": [
    {
-    "id": 133,
+    "id": 60,
     "problem_id": 45,
     "status": "solved",
-    "time_minutes": 40,
-    "perceived_difficulty": "medium",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "time_minutes": 24,
+    "perceived_difficulty": "easy",
+    "code": null,
     "language": "python",
-    "notes": "Off-by-one in the window shrink step.",
+    "notes": "Brute force first, then optimised. Worth doing in that order.",
     "attempt_number": 1,
-    "next_review_at": "2026-08-21T10:00:00",
-    "review_interval_days": 16,
-    "created_at": "2026-05-21T10:00:00"
+    "next_review_at": "2026-04-23T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-04-20T15:00:00"
    }
   ],
   "46": [
    {
-    "id": 136,
+    "id": 62,
     "problem_id": 46,
     "status": "solved",
-    "time_minutes": 40,
+    "time_minutes": 11,
     "perceived_difficulty": "easy",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "code": null,
+    "language": "python",
+    "notes": "Slower than I'd like but correct. Should recognise this shape faster.",
+    "attempt_number": 2,
+    "next_review_at": "2026-07-12T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-07-05T10:00:00"
+   },
+   {
+    "id": 61,
+    "problem_id": 46,
+    "status": "solved",
+    "time_minutes": 13,
+    "perceived_difficulty": "easy",
+    "code": null,
     "language": "python",
     "notes": null,
     "attempt_number": 1,
-    "next_review_at": "2026-08-21T10:00:00",
-    "review_interval_days": 7,
-    "created_at": "2026-06-04T10:00:00"
+    "next_review_at": "2026-07-03T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-06-30T13:00:00"
    }
   ],
   "47": [
    {
-    "id": 139,
+    "id": 63,
     "problem_id": 47,
     "status": "solved",
-    "time_minutes": 12,
+    "time_minutes": 25,
     "perceived_difficulty": "easy",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "code": null,
     "language": "python",
     "notes": null,
     "attempt_number": 1,
-    "next_review_at": "2026-08-25T10:00:00",
-    "review_interval_days": 16,
-    "created_at": "2026-05-05T10:00:00"
+    "next_review_at": "2026-08-04T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-08-01T10:00:00"
    }
   ],
   "48": [
    {
-    "id": 142,
+    "id": 65,
+    "problem_id": 48,
+    "status": "solved",
+    "time_minutes": 11,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": "Clean on the retry \u2014 the pattern was obvious once I'd seen it twice.",
+    "attempt_number": 2,
+    "next_review_at": "2026-05-17T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-05-14T10:00:00"
+   },
+   {
+    "id": 64,
     "problem_id": 48,
     "status": "attempted",
-    "time_minutes": 31,
-    "perceived_difficulty": "hard",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "time_minutes": 13,
+    "perceived_difficulty": "easy",
+    "code": null,
     "language": "python",
-    "notes": "Clean on the retry.",
+    "notes": "Off-by-one in the window shrink \u2014 recorded the answer before restoring the invariant.",
     "attempt_number": 1,
-    "next_review_at": "2026-08-19T10:00:00",
+    "next_review_at": "2026-05-08T10:00:00",
     "review_interval_days": 1,
-    "created_at": "2026-08-09T10:00:00"
+    "created_at": "2026-05-07T11:00:00"
    }
   ],
   "49": [
    {
-    "id": 145,
+    "id": 66,
     "problem_id": 49,
     "status": "solved",
-    "time_minutes": 12,
-    "perceived_difficulty": "easy",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "time_minutes": 36,
+    "perceived_difficulty": "medium",
+    "code": null,
     "language": "python",
     "notes": null,
     "attempt_number": 1,
-    "next_review_at": "2026-08-21T10:00:00",
-    "review_interval_days": 7,
-    "created_at": "2026-05-02T10:00:00"
+    "next_review_at": "2026-05-25T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-05-22T22:00:00"
    }
   ],
   "50": [
    {
-    "id": 148,
+    "id": 67,
     "problem_id": 50,
-    "status": "attempted",
-    "time_minutes": 31,
+    "status": "solved",
+    "time_minutes": 52,
     "perceived_difficulty": "easy",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "code": null,
     "language": "python",
-    "notes": "Missed the hash-map trick on the first pass.",
+    "notes": null,
     "attempt_number": 1,
-    "next_review_at": "2026-08-21T10:00:00",
-    "review_interval_days": 16,
-    "created_at": "2026-05-19T10:00:00"
+    "next_review_at": "2026-07-04T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-07-01T12:00:00"
    }
   ],
   "51": [
    {
-    "id": 151,
+    "id": 69,
     "problem_id": 51,
-    "status": "solved",
-    "time_minutes": 18,
-    "perceived_difficulty": "easy",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "status": "attempted",
+    "time_minutes": 76,
+    "perceived_difficulty": "medium",
+    "code": null,
     "language": "python",
-    "notes": "Missed the hash-map trick on the first pass.",
-    "attempt_number": 1,
-    "next_review_at": "2026-08-19T10:00:00",
+    "notes": "Off-by-one in the window shrink \u2014 recorded the answer before restoring the invariant.",
+    "attempt_number": 2,
+    "next_review_at": "2026-06-24T10:00:00",
     "review_interval_days": 1,
-    "created_at": "2026-05-07T10:00:00"
+    "created_at": "2026-06-23T11:00:00"
+   },
+   {
+    "id": 70,
+    "problem_id": 51,
+    "status": "needs-review",
+    "time_minutes": 70,
+    "perceived_difficulty": "hard",
+    "code": null,
+    "language": "python",
+    "notes": "Knew it was binary search, couldn't get the boundary right. Revisit.",
+    "attempt_number": 3,
+    "next_review_at": "2026-06-22T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-06-21T18:00:00"
+   },
+   {
+    "id": 68,
+    "problem_id": 51,
+    "status": "attempted",
+    "time_minutes": 28,
+    "perceived_difficulty": "hard",
+    "code": null,
+    "language": "python",
+    "notes": "TLE'd on the nested loop. Needed a hash map and didn't see it.",
+    "attempt_number": 1,
+    "next_review_at": "2026-06-16T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-06-15T18:00:00"
    }
   ],
   "52": [
    {
-    "id": 154,
+    "id": 73,
     "problem_id": 52,
-    "status": "solved",
-    "time_minutes": 31,
-    "perceived_difficulty": "hard",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "status": "needs-review",
+    "time_minutes": 60,
+    "perceived_difficulty": "medium",
+    "code": null,
     "language": "python",
-    "notes": null,
-    "attempt_number": 1,
-    "next_review_at": "2026-08-25T10:00:00",
+    "notes": "Knew it was binary search, couldn't get the boundary right. Revisit.",
+    "attempt_number": 3,
+    "next_review_at": "2026-04-20T10:00:00",
     "review_interval_days": 1,
-    "created_at": "2026-05-25T10:00:00"
+    "created_at": "2026-04-19T09:00:00"
+   },
+   {
+    "id": 72,
+    "problem_id": 52,
+    "status": "attempted",
+    "time_minutes": 54,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "Knew it was binary search, couldn't get the boundary right. Revisit.",
+    "attempt_number": 2,
+    "next_review_at": "2026-04-06T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-04-05T15:00:00"
+   },
+   {
+    "id": 71,
+    "problem_id": 52,
+    "status": "attempted",
+    "time_minutes": 61,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "Reached for a heap when bucket sort was O(n). Space/time tradeoff not obvious to me yet.",
+    "attempt_number": 1,
+    "next_review_at": "2026-03-29T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-03-28T16:00:00"
+   }
+  ],
+  "53": [
+   {
+    "id": 75,
+    "problem_id": 53,
+    "status": "needs-review",
+    "time_minutes": 45,
+    "perceived_difficulty": "hard",
+    "code": null,
+    "language": "python",
+    "notes": "Reached for a heap when bucket sort was O(n). Space/time tradeoff not obvious to me yet.",
+    "attempt_number": 2,
+    "next_review_at": "2026-07-14T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-07-13T09:00:00"
+   },
+   {
+    "id": 74,
+    "problem_id": 53,
+    "status": "solved",
+    "time_minutes": 26,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": "Got it first try. Wrote the invariant down before coding, which helped.",
+    "attempt_number": 1,
+    "next_review_at": "2026-07-08T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-07-05T19:00:00"
    }
   ],
   "54": [
    {
-    "id": 157,
+    "id": 77,
+    "problem_id": 54,
+    "status": "solved",
+    "time_minutes": 23,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "Brute force first, then optimised. Worth doing in that order.",
+    "attempt_number": 2,
+    "next_review_at": "2026-06-11T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-06-08T15:00:00"
+   },
+   {
+    "id": 76,
     "problem_id": 54,
     "status": "attempted",
-    "time_minutes": 40,
-    "perceived_difficulty": "easy",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "time_minutes": 76,
+    "perceived_difficulty": "hard",
+    "code": null,
     "language": "python",
-    "notes": "Clean on the retry.",
+    "notes": "Off-by-one in the window shrink \u2014 recorded the answer before restoring the invariant.",
     "attempt_number": 1,
-    "next_review_at": "2026-08-21T10:00:00",
+    "next_review_at": "2026-06-03T10:00:00",
     "review_interval_days": 1,
-    "created_at": "2026-06-05T10:00:00"
+    "created_at": "2026-06-02T14:00:00"
    }
   ],
   "55": [
    {
-    "id": 160,
+    "id": 78,
     "problem_id": 55,
     "status": "solved",
-    "time_minutes": 12,
-    "perceived_difficulty": "medium",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "time_minutes": 27,
+    "perceived_difficulty": "easy",
+    "code": null,
     "language": "python",
-    "notes": "Clean on the retry.",
+    "notes": "Brute force first, then optimised. Worth doing in that order.",
     "attempt_number": 1,
-    "next_review_at": "2026-09-03T10:00:00",
-    "review_interval_days": 7,
-    "created_at": "2026-06-23T10:00:00"
+    "next_review_at": "2026-06-11T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-06-08T21:00:00"
    }
   ],
   "56": [
    {
-    "id": 163,
+    "id": 80,
     "problem_id": 56,
-    "status": "attempted",
-    "time_minutes": 25,
-    "perceived_difficulty": "easy",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "status": "solved",
+    "time_minutes": 39,
+    "perceived_difficulty": "medium",
+    "code": null,
     "language": "python",
-    "notes": "Missed the hash-map trick on the first pass.",
+    "notes": null,
+    "attempt_number": 2,
+    "next_review_at": "2026-08-14T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-08-07T13:00:00"
+   },
+   {
+    "id": 79,
+    "problem_id": 56,
+    "status": "solved",
+    "time_minutes": 37,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": "Brute force first, then optimised. Worth doing in that order.",
     "attempt_number": 1,
-    "next_review_at": "2026-08-25T10:00:00",
+    "next_review_at": "2026-07-30T10:00:00",
     "review_interval_days": 3,
-    "created_at": "2026-05-26T10:00:00"
+    "created_at": "2026-07-27T20:00:00"
+   }
+  ],
+  "57": [
+   {
+    "id": 81,
+    "problem_id": 57,
+    "status": "solved",
+    "time_minutes": 72,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "Slower than I'd like but correct. Should recognise this shape faster.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-13T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-08-10T12:00:00"
    }
   ],
   "58": [
    {
-    "id": 166,
+    "id": 83,
     "problem_id": 58,
     "status": "solved",
-    "time_minutes": 55,
+    "time_minutes": 94,
     "perceived_difficulty": "hard",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "code": null,
     "language": "python",
-    "notes": "Off-by-one in the window shrink step.",
+    "notes": null,
+    "attempt_number": 2,
+    "next_review_at": "2026-06-04T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-06-01T09:00:00"
+   },
+   {
+    "id": 82,
+    "problem_id": 58,
+    "status": "attempted",
+    "time_minutes": 112,
+    "perceived_difficulty": "hard",
+    "code": null,
+    "language": "python",
+    "notes": "Reached for a heap when bucket sort was O(n). Space/time tradeoff not obvious to me yet.",
     "attempt_number": 1,
-    "next_review_at": "2026-08-21T10:00:00",
-    "review_interval_days": 7,
-    "created_at": "2026-06-06T10:00:00"
+    "next_review_at": "2026-05-24T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-05-23T14:00:00"
+   }
+  ],
+  "59": [
+   {
+    "id": 85,
+    "problem_id": 59,
+    "status": "solved",
+    "time_minutes": 21,
+    "perceived_difficulty": "easy",
+    "code": "class Solution:\n    def search(self, nums: List[int], target: int) -> int:\n        lo, hi = 0, len(nums) - 1\n        while lo <= hi:\n            mid = (lo + hi) // 2\n            if nums[mid] == target:\n                return mid\n            if nums[mid] < target:\n                lo = mid + 1\n            else:\n                hi = mid - 1\n        return -1",
+    "language": "python",
+    "notes": "Brute force first, then optimised. Worth doing in that order.",
+    "attempt_number": 2,
+    "next_review_at": "2026-08-04T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-08-01T20:00:00"
+   },
+   {
+    "id": 84,
+    "problem_id": 59,
+    "status": "attempted",
+    "time_minutes": 25,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": "Forgot the empty-input case and it blew up on the hidden tests.",
+    "attempt_number": 1,
+    "next_review_at": "2026-07-23T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-07-22T20:00:00"
    }
   ],
   "60": [
    {
-    "id": 169,
+    "id": 87,
     "problem_id": 60,
     "status": "solved",
-    "time_minutes": 40,
+    "time_minutes": 23,
     "perceived_difficulty": "easy",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "code": null,
     "language": "python",
-    "notes": "Off-by-one in the window shrink step.",
-    "attempt_number": 1,
-    "next_review_at": "2026-08-25T10:00:00",
+    "notes": "Slower than I'd like but correct. Should recognise this shape faster.",
+    "attempt_number": 2,
+    "next_review_at": "2026-08-13T10:00:00",
     "review_interval_days": 3,
-    "created_at": "2026-08-09T10:00:00"
+    "created_at": "2026-08-10T11:00:00"
+   },
+   {
+    "id": 86,
+    "problem_id": 60,
+    "status": "attempted",
+    "time_minutes": 21,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": "Forgot the empty-input case and it blew up on the hidden tests.",
+    "attempt_number": 1,
+    "next_review_at": "2026-07-31T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-07-30T18:00:00"
+   }
+  ],
+  "61": [
+   {
+    "id": 88,
+    "problem_id": 61,
+    "status": "solved",
+    "time_minutes": 19,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": "Clean on the retry \u2014 the pattern was obvious once I'd seen it twice.",
+    "attempt_number": 1,
+    "next_review_at": "2026-06-15T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-06-12T17:00:00"
+   }
+  ],
+  "62": [
+   {
+    "id": 91,
+    "problem_id": 62,
+    "status": "needs-review",
+    "time_minutes": 28,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": "TLE'd on the nested loop. Needed a hash map and didn't see it.",
+    "attempt_number": 3,
+    "next_review_at": "2026-08-18T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-08-17T13:00:00"
+   },
+   {
+    "id": 90,
+    "problem_id": 62,
+    "status": "attempted",
+    "time_minutes": 36,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "Off-by-one in the window shrink \u2014 recorded the answer before restoring the invariant.",
+    "attempt_number": 2,
+    "next_review_at": "2026-08-17T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-08-16T19:00:00"
+   },
+   {
+    "id": 89,
+    "problem_id": 62,
+    "status": "attempted",
+    "time_minutes": 27,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": "Missed that duplicates need the whole run skipped, not one element.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-09T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-08-08T22:00:00"
    }
   ],
   "63": [
    {
-    "id": 172,
+    "id": 92,
     "problem_id": 63,
     "status": "solved",
-    "time_minutes": 18,
+    "time_minutes": 28,
     "perceived_difficulty": "medium",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "code": null,
     "language": "python",
-    "notes": "Clean on the retry.",
+    "notes": "Brute force first, then optimised. Worth doing in that order.",
     "attempt_number": 1,
-    "next_review_at": "2026-09-03T10:00:00",
+    "next_review_at": "2026-04-29T10:00:00",
     "review_interval_days": 3,
-    "created_at": "2026-05-06T10:00:00"
+    "created_at": "2026-04-26T11:00:00"
+   }
+  ],
+  "64": [
+   {
+    "id": 93,
+    "problem_id": 64,
+    "status": "solved",
+    "time_minutes": 36,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "Clean on the retry \u2014 the pattern was obvious once I'd seen it twice.",
+    "attempt_number": 1,
+    "next_review_at": "2026-03-28T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-03-25T16:00:00"
    }
   ],
   "65": [
    {
-    "id": 175,
+    "id": 95,
     "problem_id": 65,
     "status": "solved",
-    "time_minutes": 55,
+    "time_minutes": 24,
     "perceived_difficulty": "easy",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "code": null,
     "language": "python",
-    "notes": "Off-by-one in the window shrink step.",
+    "notes": null,
+    "attempt_number": 2,
+    "next_review_at": "2026-04-16T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-04-13T09:00:00"
+   },
+   {
+    "id": 94,
+    "problem_id": 65,
+    "status": "attempted",
+    "time_minutes": 43,
+    "perceived_difficulty": "hard",
+    "code": null,
+    "language": "python",
+    "notes": "Reached for a heap when bucket sort was O(n). Space/time tradeoff not obvious to me yet.",
     "attempt_number": 1,
-    "next_review_at": "2026-08-19T10:00:00",
+    "next_review_at": "2026-04-05T10:00:00",
     "review_interval_days": 1,
-    "created_at": "2026-08-01T10:00:00"
+    "created_at": "2026-04-04T17:00:00"
    }
   ],
   "66": [
    {
-    "id": 178,
+    "id": 97,
     "problem_id": 66,
-    "status": "attempted",
-    "time_minutes": 12,
-    "perceived_difficulty": "hard",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "status": "solved",
+    "time_minutes": 48,
+    "perceived_difficulty": "medium",
+    "code": "class Solution:\n    def findMin(self, nums: List[int]) -> int:\n        lo, hi = 0, len(nums) - 1\n        while lo < hi:\n            mid = (lo + hi) // 2\n            if nums[mid] > nums[hi]:\n                lo = mid + 1      # minimum is strictly right of mid\n            else:\n                hi = mid\n        return nums[lo]",
     "language": "python",
-    "notes": "Clean on the retry.",
+    "notes": "Clean on the retry \u2014 the pattern was obvious once I'd seen it twice.",
+    "attempt_number": 2,
+    "next_review_at": "2026-04-26T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-04-19T12:00:00"
+   },
+   {
+    "id": 96,
+    "problem_id": 66,
+    "status": "solved",
+    "time_minutes": 49,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "Brute force first, then optimised. Worth doing in that order.",
     "attempt_number": 1,
-    "next_review_at": "2026-08-21T10:00:00",
-    "review_interval_days": 16,
-    "created_at": "2026-08-06T10:00:00"
+    "next_review_at": "2026-04-15T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-04-12T13:00:00"
    }
   ],
   "67": [
    {
-    "id": 181,
+    "id": 98,
     "problem_id": 67,
-    "status": "solved",
-    "time_minutes": 31,
+    "status": "attempted",
+    "time_minutes": 49,
     "perceived_difficulty": "medium",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "code": null,
     "language": "python",
-    "notes": null,
+    "notes": "TLE'd on the nested loop. Needed a hash map and didn't see it.",
     "attempt_number": 1,
-    "next_review_at": "2026-08-19T10:00:00",
-    "review_interval_days": 16,
-    "created_at": "2026-06-19T10:00:00"
+    "next_review_at": "2026-05-08T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-05-07T14:00:00"
    }
   ],
   "68": [
    {
-    "id": 184,
+    "id": 101,
+    "problem_id": 68,
+    "status": "needs-review",
+    "time_minutes": 51,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "TLE'd on the nested loop. Needed a hash map and didn't see it.",
+    "attempt_number": 3,
+    "next_review_at": "2026-06-11T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-06-10T13:00:00"
+   },
+   {
+    "id": 100,
     "problem_id": 68,
     "status": "solved",
-    "time_minutes": 18,
-    "perceived_difficulty": "medium",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "time_minutes": 36,
+    "perceived_difficulty": "easy",
+    "code": null,
     "language": "python",
-    "notes": "Missed the hash-map trick on the first pass.",
+    "notes": "Slower than I'd like but correct. Should recognise this shape faster.",
+    "attempt_number": 2,
+    "next_review_at": "2026-06-09T10:00:00",
+    "review_interval_days": 7,
+    "created_at": "2026-06-02T18:00:00"
+   },
+   {
+    "id": 99,
+    "problem_id": 68,
+    "status": "solved",
+    "time_minutes": 40,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": null,
     "attempt_number": 1,
-    "next_review_at": "2026-08-19T10:00:00",
-    "review_interval_days": 1,
-    "created_at": "2026-08-11T10:00:00"
+    "next_review_at": "2026-05-30T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-05-27T22:00:00"
    }
   ],
   "69": [
    {
-    "id": 187,
+    "id": 102,
     "problem_id": 69,
-    "status": "solved",
-    "time_minutes": 31,
-    "perceived_difficulty": "easy",
-    "code": "class Solution:\n    def twoSum(self, nums: List[int], target: int) -> List[int]:\n        seen = {}\n        for i, n in enumerate(nums):\n            if target - n in seen:\n                return [seen[target - n], i]\n            seen[n] = i\n        return []",
+    "status": "attempted",
+    "time_minutes": 33,
+    "perceived_difficulty": "medium",
+    "code": null,
     "language": "python",
-    "notes": "Missed the hash-map trick on the first pass.",
+    "notes": "Off-by-one in the window shrink \u2014 recorded the answer before restoring the invariant.",
     "attempt_number": 1,
-    "next_review_at": "2026-09-03T10:00:00",
-    "review_interval_days": 7,
-    "created_at": "2026-05-24T10:00:00"
+    "next_review_at": "2026-06-05T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-06-04T14:00:00"
+   }
+  ],
+  "70": [
+   {
+    "id": 104,
+    "problem_id": 70,
+    "status": "solved",
+    "time_minutes": 93,
+    "perceived_difficulty": "hard",
+    "code": null,
+    "language": "python",
+    "notes": "Clean on the retry \u2014 the pattern was obvious once I'd seen it twice.",
+    "attempt_number": 2,
+    "next_review_at": "2026-08-11T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-08-08T19:00:00"
+   },
+   {
+    "id": 103,
+    "problem_id": 70,
+    "status": "attempted",
+    "time_minutes": 61,
+    "perceived_difficulty": "hard",
+    "code": null,
+    "language": "python",
+    "notes": "Off-by-one in the window shrink \u2014 recorded the answer before restoring the invariant.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-01T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-07-31T09:00:00"
+   }
+  ],
+  "71": [
+   {
+    "id": 107,
+    "problem_id": 71,
+    "status": "needs-review",
+    "time_minutes": 108,
+    "perceived_difficulty": "hard",
+    "code": null,
+    "language": "python",
+    "notes": "Off-by-one in the window shrink \u2014 recorded the answer before restoring the invariant.",
+    "attempt_number": 3,
+    "next_review_at": "2026-07-13T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-07-12T19:00:00"
+   },
+   {
+    "id": 106,
+    "problem_id": 71,
+    "status": "solved",
+    "time_minutes": 43,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "Brute force first, then optimised. Worth doing in that order.",
+    "attempt_number": 2,
+    "next_review_at": "2026-07-09T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-07-06T21:00:00"
+   },
+   {
+    "id": 105,
+    "problem_id": 71,
+    "status": "attempted",
+    "time_minutes": 75,
+    "perceived_difficulty": "hard",
+    "code": null,
+    "language": "python",
+    "notes": "Knew it was binary search, couldn't get the boundary right. Revisit.",
+    "attempt_number": 1,
+    "next_review_at": "2026-06-29T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-06-28T16:00:00"
+   }
+  ],
+  "72": [
+   {
+    "id": 108,
+    "problem_id": 72,
+    "status": "attempted",
+    "time_minutes": 120,
+    "perceived_difficulty": "hard",
+    "code": null,
+    "language": "python",
+    "notes": "Reached for a heap when bucket sort was O(n). Space/time tradeoff not obvious to me yet.",
+    "attempt_number": 1,
+    "next_review_at": "2026-08-11T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-08-10T17:00:00"
+   }
+  ],
+  "73": [
+   {
+    "id": 111,
+    "problem_id": 73,
+    "status": "needs-review",
+    "time_minutes": 22,
+    "perceived_difficulty": "medium",
+    "code": "class Solution:\n    def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:\n        prev = None\n        while head:\n            head.next, prev, head = prev, head, head.next\n        return prev",
+    "language": "python",
+    "notes": "Reached for a heap when bucket sort was O(n). Space/time tradeoff not obvious to me yet.",
+    "attempt_number": 3,
+    "next_review_at": "2026-05-26T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-05-25T15:00:00"
+   },
+   {
+    "id": 110,
+    "problem_id": 73,
+    "status": "attempted",
+    "time_minutes": 25,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "Forgot the empty-input case and it blew up on the hidden tests.",
+    "attempt_number": 2,
+    "next_review_at": "2026-05-24T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-05-23T13:00:00"
+   },
+   {
+    "id": 109,
+    "problem_id": 73,
+    "status": "attempted",
+    "time_minutes": 13,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": "TLE'd on the nested loop. Needed a hash map and didn't see it.",
+    "attempt_number": 1,
+    "next_review_at": "2026-05-16T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-05-15T10:00:00"
+   }
+  ],
+  "74": [
+   {
+    "id": 112,
+    "problem_id": 74,
+    "status": "attempted",
+    "time_minutes": 30,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": "Knew it was binary search, couldn't get the boundary right. Revisit.",
+    "attempt_number": 1,
+    "next_review_at": "2026-06-02T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-06-01T17:00:00"
+   }
+  ],
+  "75": [
+   {
+    "id": 114,
+    "problem_id": 75,
+    "status": "needs-review",
+    "time_minutes": 33,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": "Off-by-one in the window shrink \u2014 recorded the answer before restoring the invariant.",
+    "attempt_number": 2,
+    "next_review_at": "2026-04-12T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-04-11T09:00:00"
+   },
+   {
+    "id": 113,
+    "problem_id": 75,
+    "status": "solved",
+    "time_minutes": 15,
+    "perceived_difficulty": "easy",
+    "code": null,
+    "language": "python",
+    "notes": "Got it first try. Wrote the invariant down before coding, which helped.",
+    "attempt_number": 1,
+    "next_review_at": "2026-04-08T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-04-05T16:00:00"
+   }
+  ],
+  "76": [
+   {
+    "id": 115,
+    "problem_id": 76,
+    "status": "solved",
+    "time_minutes": 24,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-06-16T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-06-13T11:00:00"
+   }
+  ],
+  "77": [
+   {
+    "id": 116,
+    "problem_id": 77,
+    "status": "solved",
+    "time_minutes": 34,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": null,
+    "attempt_number": 1,
+    "next_review_at": "2026-04-05T10:00:00",
+    "review_interval_days": 3,
+    "created_at": "2026-04-02T14:00:00"
+   }
+  ],
+  "78": [
+   {
+    "id": 117,
+    "problem_id": 78,
+    "status": "attempted",
+    "time_minutes": 28,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "TLE'd on the nested loop. Needed a hash map and didn't see it.",
+    "attempt_number": 1,
+    "next_review_at": "2026-03-28T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-03-27T18:00:00"
+   }
+  ],
+  "79": [
+   {
+    "id": 118,
+    "problem_id": 79,
+    "status": "attempted",
+    "time_minutes": 73,
+    "perceived_difficulty": "hard",
+    "code": null,
+    "language": "python",
+    "notes": "Knew it was binary search, couldn't get the boundary right. Revisit.",
+    "attempt_number": 1,
+    "next_review_at": "2026-05-09T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-05-08T20:00:00"
+   }
+  ],
+  "80": [
+   {
+    "id": 119,
+    "problem_id": 80,
+    "status": "attempted",
+    "time_minutes": 57,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "Knew it was binary search, couldn't get the boundary right. Revisit.",
+    "attempt_number": 1,
+    "next_review_at": "2026-03-28T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-03-27T11:00:00"
+   }
+  ],
+  "81": [
+   {
+    "id": 120,
+    "problem_id": 81,
+    "status": "attempted",
+    "time_minutes": 40,
+    "perceived_difficulty": "medium",
+    "code": null,
+    "language": "python",
+    "notes": "Forgot the empty-input case and it blew up on the hidden tests.",
+    "attempt_number": 1,
+    "next_review_at": "2026-07-26T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-07-25T18:00:00"
+   }
+  ],
+  "84": [
+   {
+    "id": 121,
+    "problem_id": 84,
+    "status": "attempted",
+    "time_minutes": 87,
+    "perceived_difficulty": "hard",
+    "code": null,
+    "language": "python",
+    "notes": "Missed that duplicates need the whole run skipped, not one element.",
+    "attempt_number": 1,
+    "next_review_at": "2026-06-14T10:00:00",
+    "review_interval_days": 1,
+    "created_at": "2026-06-13T20:00:00"
    }
   ]
  },
- "_whiteboard": [
-  {
-   "id": 1,
-   "problem_id": 1,
-   "role": "user",
-   "content": "I got the brute force but it TLEs. Nudge me?",
-   "mode": "hint",
-   "created_at": "2026-08-18T10:00:00"
-  },
-  {
-   "id": 2,
-   "problem_id": 1,
-   "role": "assistant",
-   "content": "Your inner loop is re-searching for a value you have already walked past. What would you need to have written down to answer \"have I seen target - n before?\" in one step?",
-   "mode": "hint",
-   "created_at": "2026-08-18T10:00:00"
-  },
-  {
-   "id": 3,
-   "problem_id": 1,
-   "role": "user",
-   "content": "A dict of value -> index.",
-   "mode": "hint",
-   "created_at": "2026-08-18T10:00:00"
-  },
-  {
-   "id": 4,
-   "problem_id": 1,
-   "role": "assistant",
-   "content": "Right. Now the ordering question: do you insert before or after you check? Try both on [3, 3] and target 6 and see which one survives.",
-   "mode": "hint",
-   "created_at": "2026-08-18T10:00:00"
-  }
- ]
+ "_whiteboard": {
+  "4": [
+   {
+    "id": 1,
+    "problem_id": 4,
+    "role": "user",
+    "content": "I got the brute force but it TLEs. Nudge me?",
+    "mode": "hint",
+    "created_at": "2026-07-10T20:00:00"
+   },
+   {
+    "id": 2,
+    "problem_id": 4,
+    "role": "assistant",
+    "content": "Your inner loop re-searches for a value you've already walked past. What would you need to have written down to answer \"have I seen target - n before?\" in one step?",
+    "mode": "hint",
+    "created_at": "2026-07-10T20:03:00"
+   },
+   {
+    "id": 3,
+    "problem_id": 4,
+    "role": "user",
+    "content": "A dict of value -> index.",
+    "mode": "hint",
+    "created_at": "2026-07-10T20:06:00"
+   },
+   {
+    "id": 4,
+    "problem_id": 4,
+    "role": "assistant",
+    "content": "Right. Now the ordering question: do you insert before or after you check? Try both on [3, 3] with target 6 and see which one survives.",
+    "mode": "hint",
+    "created_at": "2026-07-10T20:09:00"
+   }
+  ],
+  "30": [
+   {
+    "id": 5,
+    "problem_id": 30,
+    "role": "user",
+    "content": "I'm getting duplicate triplets and I can't work out where.",
+    "mode": "hint",
+    "created_at": "2026-08-08T20:00:00"
+   },
+   {
+    "id": 6,
+    "problem_id": 30,
+    "role": "assistant",
+    "content": "Look at your skip condition for the outer loop. You skip when nums[i] == nums[i-1]. Now trace [-2,-2,-2,4] \u2014 after you find a triplet with the first -2, where do l and r land, and what stops the *inner* loop from producing it again?",
+    "mode": "hint",
+    "created_at": "2026-08-08T20:03:00"
+   },
+   {
+    "id": 7,
+    "problem_id": 30,
+    "role": "user",
+    "content": "Oh \u2014 I advance l by one but the next element is also equal.",
+    "mode": "hint",
+    "created_at": "2026-08-08T20:06:00"
+   },
+   {
+    "id": 8,
+    "problem_id": 30,
+    "role": "assistant",
+    "content": "That's it. Advance past the whole run. Same on the outer loop. Write down the invariant \"l never points at a value we've already used at this i\" and the code follows.",
+    "mode": "hint",
+    "created_at": "2026-08-08T20:09:00"
+   }
+  ],
+  "39": [
+   {
+    "id": 9,
+    "problem_id": 39,
+    "role": "user",
+    "content": "Why don't we have to decrement maxf when the window shrinks?",
+    "mode": "explain",
+    "created_at": "2026-07-15T20:00:00"
+   },
+   {
+    "id": 10,
+    "problem_id": 39,
+    "role": "assistant",
+    "content": "Because the answer only ever cares about the largest window you've seen. If maxf is stale-high, the while condition is stricter than necessary, so the window can't grow \u2014 meaning you can't record a wrong larger answer. It's not that maxf stays correct; it's that being wrong in that direction is safe. That's a genuinely subtle one, and most editorials hand-wave it.",
+    "mode": "explain",
+    "created_at": "2026-07-15T20:03:00"
+   }
+  ],
+  "66": [
+   {
+    "id": 11,
+    "problem_id": 66,
+    "role": "user",
+    "content": "I keep comparing mid to lo and getting stuck.",
+    "mode": "hint",
+    "created_at": "2026-07-19T20:00:00"
+   },
+   {
+    "id": 12,
+    "problem_id": 66,
+    "role": "assistant",
+    "content": "Try a concrete case: [4,5,6,7,0,1,2]. With lo=0, mid=3, nums[mid]=7. Is nums[mid] > nums[lo]? Yes. Does that tell you which half holds the minimum? Now try [6,7,0,1,2,4,5] \u2014 same answer to that question, different half. What if you compare to nums[hi] instead?",
+    "mode": "hint",
+    "created_at": "2026-07-19T20:03:00"
+   }
+  ]
+ }
 }

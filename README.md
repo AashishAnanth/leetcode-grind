@@ -30,6 +30,11 @@ trap is. The point is that *you* write them; the value is in having compressed t
 yourself, not in having read someone else's summary.
 
 ![Problems](docs/problems.png)
+
+The whiteboard, mid-conversation on 3Sum:
+
+![Whiteboard](docs/whiteboard.png)
+
 ![Vault](docs/vault.png)
 
 ---
@@ -96,7 +101,12 @@ It is not a product. If you run it, expect to change things:
 - **Spaced repetition assumes honesty.** Marking a problem solved when you looked at the editorial
   poisons the interval schedule, and nothing detects it.
 - **No contest or company tagging.** The scheduler orders by pattern and due date only.
-- Demo mode ships synthetic fixtures; see `frontend/src/demo/`.
+- Demo mode ships synthetic fixtures; see `frontend/src/demo/`. The problem list is the real
+  public NeetCode 250; the solve history, code, notes and coaching transcripts are invented, but
+  they are generated to be internally consistent — solve times scale with difficulty, perceived
+  difficulty tracks actual difficulty ~70% of the time, review dates follow from the SM-2
+  interval, the streak is computed from the activity map, and each saved conversation belongs to
+  the problem it discusses.
 
 ## License
 

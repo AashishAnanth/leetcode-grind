@@ -12,7 +12,7 @@ export default function DemoBanner() {
         href="https://github.com/AashishAnanth/leetcode-grind"
         className="underline underline-offset-2 hover:text-amber-200"
       >
-        Source &amp; setup &rarr;
+        Source &amp; setup →
       </a>
     </div>
   );

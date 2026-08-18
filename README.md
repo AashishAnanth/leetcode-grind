@@ -3,7 +3,7 @@
 A practice coach that knows your full solve history. It schedules sessions, resurfaces problems by
 spaced repetition, reads the code you actually wrote, and keeps a pattern vault you build as you go.
 
-**[Live demo →](https://leetcode-grind.vercel.app)** — synthetic data, read-only.
+**[Live demo →](https://leetcode-grind-pi.vercel.app)** — synthetic data, read-only.
 
 ![Dashboard](docs/dashboard.png)
 
